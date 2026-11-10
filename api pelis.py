@@ -1,7 +1,7 @@
 import requests
 import json
 
-TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjAyNTZkYmIyM2JmMDY4NDA5YTEwZmE3NTg3OTViNyIsIm5iZiI6MTc5MTI2OTk2My42MTYsInN1YiI6IjZhYzQ5YzRiNmI2MmJkMGM2YWYyNjdjMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.2WGL5G5EIpJZvfsFn1IWBNDXXlmvwoab0gIv1iylOEo"
+
 url = "https://api.themoviedb.org/3/movie/top_rated"
 
 headers = {
