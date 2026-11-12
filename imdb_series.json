@@ -1,0 +1,3002 @@
+[
+  {
+    "titulo": "Breaking Bad",
+    "valoracion": 9.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wire",
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Avatar: La leyenda de Aang",
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Game of Thrones",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los Soprano",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bluey",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sapne Vs Everyone",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El Mundo en Guerra",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nuestro planeta",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "BB Ki Vines",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Attack on Titan",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Chosen",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gullak",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Aspirants",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Legend of Hanuman",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vratice se rode",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Filthy Frank Show",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dexter: Resurrección",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Better Call Saul",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La oficina",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Piece",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rick & Morty",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bleach: Thousand-Year Blood War",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La dimensión desconocida",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sherlock",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Arcane",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hunter X Hunter",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Taskmaster",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Batman: La serie animada",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Only fools and horses",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Granja de Clarkson",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gibi",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Panchayat",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Eung-dab-ha-ra 1988",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mi Señor",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ramayan",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Critical Role",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La fábrica de Kota",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "TVF Pitchers",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Leyla ile Mecnun",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sandeep Bhaiya",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Koombiyo",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Pitt",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The West Wing",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nathan for You",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vinland Saga",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Death Note",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Frieren: Más allá del final del viaje",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gravity Falls: Un verano de misterios",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Firefly",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cowboy Bebop",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sahsiyet",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Still Game",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Undercover",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Omar",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mahabharat",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yeh Meri Family",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tash Ma Tash",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "NCR Days",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "True Detective",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Friends",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Succession",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Siempre hay sol en Filadelfia",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fargo",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seinfeld",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "BoJack Horseman",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El show de Larry David",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monster",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Berserk",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Steins;Gate",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Z",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fawlty Towers",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hajime no ippo",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Last Week Tonight with John Oliver",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sparkling Watermelon",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Z",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder Goes Forth",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monty Python's Flying Circus",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Re Zero Kara Hajimeru Isekai Seikatsu - Shin Henshuu-ban",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chappelle's Show",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Senke nad Balkanom",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Behzat Ç.: Bir Ankara Polisiyesi",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mister Rogers' Neighborhood",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rocket Boys",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Flames",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sarabhai V/S Sarabhai",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ted Lasso",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "South Park",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Viaje a las estrellas: La nueva generación",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Mirror",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dark",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dr. House",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mad Men",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Peaky Blinders",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Twin Peaks",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Más que rivales",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Invincible",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "This is Us",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Downton Abbey",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seis pies bajo tierra",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Line of Duty",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Naruto: Shippûden",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Friday Night Lights",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr Inbetween",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fleabag",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Galáctica, estrella de combate",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Narcos",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Roma",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El escudo",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hora de Aventura",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurái de ojos azules",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Code Geass: Lelouch of the Rebellion",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oz",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "X-Men '97",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jóvenes y rebeldes",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gintama",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le Bureau des Légendes",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Peep Show",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alquimia de almas",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How to with John Wilson",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Haikyuu!!",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Homicide: Life on the Street",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dhindora",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Gear",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Thick of It",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Liga de la Justicia Ilimitada",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Grand Tour",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Miseuteo Shunshain",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Adventures of Sherlock Holmes",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El regreso de Sherlock Holmes",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seulgiroun Euisasaenghal",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El Chavo del Ocho",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The untamed",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Umbre",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mahabharat",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Halka",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Harga",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pew News",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dexter",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stranger Things",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Severance",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Knight of the Seven Kingdoms",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yellowstone",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los expedientes secretos X",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los Simpson",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Andor",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Parks and Recreation",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Crown",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Golden Wind",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shōgun",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Daredevil",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Midhunter",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Justified: La ley de Raylan",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Deadwood",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Poirot",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mandalorian",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los diarios de la boticaria",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "House of Cards",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sacrificios de familia",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All Creatures Great & Small",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Newsroom",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Llamen a la partera",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La maravillosa Sra. Maisel",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Punch Man",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Atlanta",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shoresy",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Detectorists",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Great British Bake Off",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Archer",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Un show más",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bron/Broen",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gomorra: La serie",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Endeavour",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wentworth",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Anne with an E",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Foyle's War",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mauseu",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Bean",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shigatsu wa kimi no uso",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La amiga estupenda",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Primal",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Owl House",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Justicia Joven",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hombre de familia",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pose",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hilda",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hora de aventura con Fionna & Cake",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "QI",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Father Ted",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Moon Lovers: Scarlet Heart Ryeo",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ezel",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder II",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Venture Bros.",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yes Minister",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder the Third",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mystery Science Theater 3000",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Secretos del universo",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mind Your Language",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yes, Prime Minister",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I'm Alan Partridge",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Permanent Roommates",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brass Eye",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cazador X",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Very Parivarik",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Merlí",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Campus Diaries",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Avrupa Yakasi",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kardes Payi",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Isler Güçler",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Content Cop",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Boys",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El oso",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Modern Family",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El ensayo",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shameless",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jujutsu Kaisen",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los indomables",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vikingos",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doctor Who",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hannibal",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Robot",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Community",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Expanse",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Schitt's Creek",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Boardwalk Empire. El Imperio del Contrabando",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "What We Do in the Shadows",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I Level Up Alone",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Last Kingdom",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Snowfall",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Twin Peaks",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "M.A.S.H.",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bosch",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Boston Legal",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Happy Valley",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Futurama",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Silicon Valley",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Letterkenny",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Derry Girls",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Wars: La guerra de los clones",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The IT Crowd",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mob Psycho 100",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Neon Genesis Evangelion",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Inside No. 9",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Panteón",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Southland",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Wars: Maul - Lord de las sombras",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Office",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heartstopper",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Smiling Friends",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Common Side Effects",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los Boondocks",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Trailer Park Boys",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Señor de los Misterios",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Maldición",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kaguya-sama wa kokurasetai ~ Tensai tachi no ren'ai zunô sen ~",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurai Jack",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurai Champloo",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fullmetal Alchemist",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Liga de la justicia",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kingdom",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nana",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Flower of Evil",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alfred Hitchcock Presents",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Flight of the Conchords",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fruits Basket",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Impractical Jokers",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spaced",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Staged",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Juegos sagrados",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mushishi",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Making a Murderer",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Louie",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Coupling",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "To Be Hero X",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yo amo a Lucy",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Detective Conan",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cheolinwanghoo",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Skam",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los guerreros del más allá",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "RuPaul's Drag Race",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Queer as Folk",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Dick Van Dyke Show",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whose Line Is It Anyway?",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurái X",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "GTO: Great teacher Onizuka",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Made in India: A Titan Story",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Eric Andre Show",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Larry Sanders Show",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kôkaku kidôtai: Stand Alone Complex",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Please Like Me",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chef's Table",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El príncipe",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Festival Bugs Bunny: El conejo de la suerte",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "RuPaul's Drag Race All Stars",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Special OPS",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "ImMATURE",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "TVF Tripling",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bandish Bandits",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hostel Daze",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broken But Beautiful",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Queer Eye",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Angry Video Game Nerd",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sixer",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Bugs Bunny/Road Runner Hour",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shabhaye Barareh",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lucky Guy",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Caballos lentos",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Supernatural",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vigilados",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Americans",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Last of Us",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ghosts",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Suits",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Banshee",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Viaje a las estrellas",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brooklyn Nine-Nine",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Punisher",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ozark",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Big Little Lies",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Westworld",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stargate SG-1",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fringe",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Scrubs",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Psych",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Babylon Berlin",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "24",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spartacus",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Veep",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heartland",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Naruto",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love, Death & Robots",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cobra Kai",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Entourage",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Unforgotten",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Así aprenderás",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Boy",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La leyenda de Vox Machina",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doc Martin",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Luther",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mirzapur",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Red Dwarf",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "After Life: Más allá de mi mujer",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Warrior",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Babilonia 5",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Weak Hero Class 1",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mighty Nein",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pachinko",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doctor Who",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "American Crime Story",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ash contra el mal",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The League of Gentlemen",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bosch: El Legado",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Halt and Catch Fire",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El Increíble Mundo de Gumball",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nos conocimos en Estambul",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Inbetweeners",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Utopia",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love/Hate",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Knick",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La última frontera",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Binsenjo",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broad City",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Death's Game",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Andy Griffith Show",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pushing Daisies",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Moving",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brassic",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "X-Men",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Books",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Forbrydelsen",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spider-Man",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Borgen",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Last Tango in Halifax",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All in the Family",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "This Country",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Steins;Gate 0",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Carnivàle",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My So-Called Life",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Graham Norton Show",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sigeuneol",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Trollhunters",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Héroes de guardia",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hilleo",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Formula 1: Drive to Survive",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Las nuevas aventuras de Batman",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stranger",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El cristal encantado: La era de la resistencia",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Delhi Criminal",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El show de los Muppets",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El tren infinito",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El espectacular Hombre Araña",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Planeta prehistórico",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El prisionero",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Invasor Zim",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whose Line Is It Anyway?",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Show with Bob and David",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jeeves & Wooster",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Asur: Welcome to Your Dark Side",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Mad Fat Diary",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "'Allo 'Allo!",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Kids in the Hall",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Julie and the Phantoms",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los caballeros del zodíaco",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Heroes",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El show de Ricky Gervais",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Late Late Show with Craig Ferguson",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Adventures of Pete & Pete",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Red vs. Blue",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mumbai Diaries",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stromberg",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Gear",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Como si no hubiera un mañana",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Colbert Report",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "MobLand",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Clover",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cyberpunk: Edgerunners",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lost",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Leftovers",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fallout",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Outlander",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Re: Zero kara hajimeru isekai seikatsu",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Homeland",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How I Met Your Mother. Cómo conocí a tu madre",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El cuento de la criada",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Prison Break",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Buffy, la cazavampiros",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Piece",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hacks",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Columbo",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rectify",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "1923",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bleach",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fauda",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Good Wife",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La leyenda de Korra",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broadchurch",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Barry",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shetland",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "30 Rock",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Other Bennet Sister",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Parenthood",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Taboo",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Killing",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Billions",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chainsaw Man",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ray Donovan",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blue Mountain State",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Police Squad!",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Veronica Mars",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Why Women Kill",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Orphan Black",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Studio 60 on the Sunset Strip",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Longmire",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wayne",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Californication",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Castlevania",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Perry Mason",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Reservation Dogs",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dandadan",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Infierno sobre ruedas",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kingdom",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spooks",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La batalla ejemplar",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "86",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alguien en algún lugar",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los años maravillosos",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Narcos: México",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Super",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Made in Abyss",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tengen toppa gurren lagann",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Harley Quinn",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rescue Me",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oshi no Ko",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Extras",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Life on Mars",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Falso",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cranford",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Key and Peele",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bienvenido al Wrexham",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lakers: Tiempo de ganar",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "PatoAventuras",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Julia",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Coraje, el perro cobarde",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mary Tyler Moore",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los vengadores",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Los Vengadores: Los héroes más poderosos del planeta",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Daily Show",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Green Wing",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Treme",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mighty Boosh",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amphibia",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon ball Z kai",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Saiki Kusuo no Psi Nan",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Weightlifting Fairy Kim Bok-Joo",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  }
+]
