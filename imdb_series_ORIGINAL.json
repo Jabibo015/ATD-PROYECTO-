@@ -1,0 +1,3502 @@
+[
+  {
+    "titulo": "Breaking Bad",
+    "ano_salida": 2008,
+    "valoracion": 9.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sutîru Bôru Ran JoJo no Kimyô na Bôken",
+    "ano_salida": 2026,
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wire",
+    "ano_salida": 2002,
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Avatar: The Last Airbender",
+    "ano_salida": 2005,
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Game of Thrones",
+    "ano_salida": 2011,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Sopranos",
+    "ano_salida": 1999,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bluey",
+    "ano_salida": 2018,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sapne vs Everyone",
+    "ano_salida": 2023,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The World at War",
+    "ano_salida": 1973,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Our Planet",
+    "ano_salida": 2019,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "BB Ki Vines",
+    "ano_salida": 2015,
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shingeki no kyojin",
+    "ano_salida": 2013,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Chosen",
+    "ano_salida": 2017,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hagane no renkinjutsushi",
+    "ano_salida": 2009,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gullak",
+    "ano_salida": 2019,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Aspirants",
+    "ano_salida": 2021,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Legend of Hanuman",
+    "ano_salida": 2021,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vratice se rode",
+    "ano_salida": 2007,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Filthy Frank Show",
+    "ano_salida": 2011,
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dexter: Resurrection",
+    "ano_salida": 2025,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Better Call Saul",
+    "ano_salida": 2015,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Office",
+    "ano_salida": 2005,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Piece: Wan pîsu",
+    "ano_salida": 1999,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rick and Morty",
+    "ano_salida": 2013,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bleach: Sennen Kessen-hen",
+    "ano_salida": 2022,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Twilight Zone",
+    "ano_salida": 1959,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sherlock",
+    "ano_salida": 2010,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Arcane: League of Legends",
+    "ano_salida": 2021,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hunter x Hunter",
+    "ano_salida": 2011,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Taskmaster",
+    "ano_salida": 2015,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Batman: The Animated Series",
+    "ano_salida": 1992,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Only Fools and Horses",
+    "ano_salida": 1981,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Clarkson's Farm",
+    "ano_salida": 2021,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gibi",
+    "ano_salida": 2021,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Panchayat",
+    "ano_salida": 2020,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Eungdaphara 1988",
+    "ano_salida": 2015,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Naui ajusshi",
+    "ano_salida": 2018,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ramayan",
+    "ano_salida": 1987,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Critical Role",
+    "ano_salida": 2015,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kota Factory",
+    "ano_salida": 2019,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "TVF Pitchers",
+    "ano_salida": 2015,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Leyla ile Mecnun",
+    "ano_salida": 2011,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sandeep Bhaiya",
+    "ano_salida": 2023,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Koombiyo",
+    "ano_salida": 2017,
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Pitt",
+    "ano_salida": 2025,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The West Wing",
+    "ano_salida": 1999,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nathan for You",
+    "ano_salida": 2013,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vinland Saga",
+    "ano_salida": 2019,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Death Note: Desu nôto",
+    "ano_salida": 2006,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sôsô no Furîren",
+    "ano_salida": 2023,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gravity Falls",
+    "ano_salida": 2012,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Firefly",
+    "ano_salida": 2002,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kaubôi bibappu",
+    "ano_salida": 1998,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sahsiyet",
+    "ano_salida": 2018,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Still Game",
+    "ano_salida": 2002,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pod prikritie",
+    "ano_salida": 2011,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Omar",
+    "ano_salida": 2012,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mahabharat",
+    "ano_salida": 1988,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yeh Meri Family",
+    "ano_salida": 2018,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tash Ma Tash",
+    "ano_salida": 1993,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "NCR Days",
+    "ano_salida": 2022,
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "True Detective",
+    "ano_salida": 2014,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Friends",
+    "ano_salida": 1994,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Succession",
+    "ano_salida": 2018,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "It's Always Sunny in Philadelphia",
+    "ano_salida": 2005,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fargo",
+    "ano_salida": 2014,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seinfeld",
+    "ano_salida": 1989,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "BoJack Horseman",
+    "ano_salida": 2014,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Curb Your Enthusiasm",
+    "ano_salida": 2000,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monster",
+    "ano_salida": 2004,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kenpuu Denki Berserk",
+    "ano_salida": 1997,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Steins;Gate",
+    "ano_salida": 2011,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Z",
+    "ano_salida": 1996,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fawlty Towers",
+    "ano_salida": 1975,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hajime no Ippo",
+    "ano_salida": 2000,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Last Week Tonight with John Oliver",
+    "ano_salida": 2014,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Banjjagineun Woteomellon",
+    "ano_salida": 2023,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Z: Doragon bôru zetto",
+    "ano_salida": 1989,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder Goes Forth",
+    "ano_salida": 1989,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monty Python's Flying Circus",
+    "ano_salida": 1969,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "ano_salida": 2016,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chappelle's Show",
+    "ano_salida": 2003,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Senke nad Balkanom",
+    "ano_salida": 2017,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Behzat Ç.",
+    "ano_salida": 2010,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mister Rogers' Neighborhood",
+    "ano_salida": 1968,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rocket Boys",
+    "ano_salida": 2022,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Flames",
+    "ano_salida": 2018,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sarabhai V/S Sarabhai",
+    "ano_salida": 2004,
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ted Lasso",
+    "ano_salida": 2020,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "South Park",
+    "ano_salida": 1997,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Trek: The Next Generation",
+    "ano_salida": 1987,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Mirror",
+    "ano_salida": 2011,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dark",
+    "ano_salida": 2017,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "House M.D.",
+    "ano_salida": 2004,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mad Men",
+    "ano_salida": 2007,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Peaky Blinders",
+    "ano_salida": 2013,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Twin Peaks",
+    "ano_salida": 1990,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heated Rivalry",
+    "ano_salida": 2025,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Invincible",
+    "ano_salida": 2021,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "This Is Us",
+    "ano_salida": 2016,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Downton Abbey",
+    "ano_salida": 2010,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Six Feet Under",
+    "ano_salida": 2001,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Line of Duty",
+    "ano_salida": 2012,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Naruto: Shippûden",
+    "ano_salida": 2007,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Friday Night Lights",
+    "ano_salida": 2006,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr Inbetween",
+    "ano_salida": 2018,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fleabag",
+    "ano_salida": 2016,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Battlestar Galactica",
+    "ano_salida": 2004,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Narcos",
+    "ano_salida": 2015,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rome",
+    "ano_salida": 2005,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Shield",
+    "ano_salida": 2002,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Adventure Time",
+    "ano_salida": 2010,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blue Eye Samurai",
+    "ano_salida": 2023,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kôdo Giasu: Hangyaku no Rurûshu",
+    "ano_salida": 2006,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oz",
+    "ano_salida": 1997,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "X-Men '97",
+    "ano_salida": 2024,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Freaks and Geeks",
+    "ano_salida": 1999,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gintama",
+    "ano_salida": 2005,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le bureau des légendes",
+    "ano_salida": 2015,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Peep Show",
+    "ano_salida": 2003,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hwan Hon",
+    "ano_salida": 2022,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How to with John Wilson",
+    "ano_salida": 2020,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Haikyû!!",
+    "ano_salida": 2014,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Homicide: Life on the Street",
+    "ano_salida": 1993,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dhindora",
+    "ano_salida": 2021,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Gear",
+    "ano_salida": 2002,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Thick of It",
+    "ano_salida": 2005,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Justice League Unlimited",
+    "ano_salida": 2004,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Grand Tour",
+    "ano_salida": 2016,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Miseuteo Shunshain",
+    "ano_salida": 2018,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Adventures of Sherlock Holmes",
+    "ano_salida": 1984,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Return of Sherlock Holmes",
+    "ano_salida": 1986,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seulgiroun Euisasaenghal",
+    "ano_salida": 2020,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "El Chavo del Ocho",
+    "ano_salida": 1972,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chen qing ling",
+    "ano_salida": 2019,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Umbre",
+    "ano_salida": 2014,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mahabharat",
+    "ano_salida": 2013,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Halka",
+    "ano_salida": 2019,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Harga",
+    "ano_salida": 2021,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pew News",
+    "ano_salida": 2018,
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dexter",
+    "ano_salida": 2006,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stranger Things",
+    "ano_salida": 2016,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Severance",
+    "ano_salida": 2022,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Knight of the Seven Kingdoms",
+    "ano_salida": 2026,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yellowstone",
+    "ano_salida": 2018,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The X Files",
+    "ano_salida": 1993,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Simpsons",
+    "ano_salida": 1989,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Andor",
+    "ano_salida": 2022,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Parks and Recreation",
+    "ano_salida": 2009,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Crown",
+    "ano_salida": 2016,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "JoJo no Kimyô na Bôken",
+    "ano_salida": 2012,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shogun",
+    "ano_salida": 2024,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Daredevil",
+    "ano_salida": 2015,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mindhunter",
+    "ano_salida": 2017,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Justified",
+    "ano_salida": 2010,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Deadwood",
+    "ano_salida": 2004,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Poirot",
+    "ano_salida": 1989,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mandalorian",
+    "ano_salida": 2019,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kusuriya no hitorigoto",
+    "ano_salida": 2023,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "House of Cards",
+    "ano_salida": 2013,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Arrested Development",
+    "ano_salida": 2003,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All Creatures Great & Small",
+    "ano_salida": 2020,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Newsroom",
+    "ano_salida": 2012,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Call the Midwife",
+    "ano_salida": 2012,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Marvelous Mrs. Maisel",
+    "ano_salida": 2017,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Punch Man: Wanpanman",
+    "ano_salida": 2015,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Atlanta",
+    "ano_salida": 2016,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shoresy",
+    "ano_salida": 2022,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Detectorists",
+    "ano_salida": 2014,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Great British Bake Off",
+    "ano_salida": 2010,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Archer",
+    "ano_salida": 2009,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Regular Show",
+    "ano_salida": 2010,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bron/Broen",
+    "ano_salida": 2011,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gomorra",
+    "ano_salida": 2014,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Endeavour",
+    "ano_salida": 2012,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wentworth",
+    "ano_salida": 2013,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Anne with an E",
+    "ano_salida": 2017,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Foyle's War",
+    "ano_salida": 2002,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mauseu",
+    "ano_salida": 2021,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Bean",
+    "ano_salida": 1990,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shigatsu wa kimi no uso",
+    "ano_salida": 2014,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "L'amica geniale",
+    "ano_salida": 2018,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Primal",
+    "ano_salida": 2019,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Owl House",
+    "ano_salida": 2020,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Young Justice",
+    "ano_salida": 2010,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Family Man",
+    "ano_salida": 2019,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pose",
+    "ano_salida": 2018,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hilda",
+    "ano_salida": 2018,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Adventure Time: Fionna and Cake",
+    "ano_salida": 2023,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "QI",
+    "ano_salida": 2003,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Father Ted",
+    "ano_salida": 1995,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dalui Yeonin - Bobogyungsim Ryeo",
+    "ano_salida": 2016,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ezel",
+    "ano_salida": 2009,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder II",
+    "ano_salida": 1986,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Venture Bros.",
+    "ano_salida": 2003,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yes Minister",
+    "ano_salida": 1980,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blackadder the Third",
+    "ano_salida": 1987,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mystery Science Theater 3000",
+    "ano_salida": 1988,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Through the Wormhole",
+    "ano_salida": 2010,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mind Your Language",
+    "ano_salida": 1977,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yes, Prime Minister",
+    "ano_salida": 1986,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I'm Alan Partridge",
+    "ano_salida": 1997,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Permanent Roommates",
+    "ano_salida": 2014,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brass Eye",
+    "ano_salida": 1997,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hunter x Hunter",
+    "ano_salida": 1999,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Very Parivarik",
+    "ano_salida": 2024,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Merlí",
+    "ano_salida": 2015,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Campus Diaries",
+    "ano_salida": 2022,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Avrupa Yakasi",
+    "ano_salida": 2004,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kardes Payi",
+    "ano_salida": 2014,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Isler Güçler",
+    "ano_salida": 2012,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Content Cop",
+    "ano_salida": 2015,
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Boys",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Bear",
+    "ano_salida": 2022,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Modern Family",
+    "ano_salida": 2009,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Rehearsal",
+    "ano_salida": 2022,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shameless",
+    "ano_salida": 2011,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jujutsu Kaisen",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sons of Anarchy",
+    "ano_salida": 2008,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vikings",
+    "ano_salida": 2013,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doctor Who",
+    "ano_salida": 2005,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hannibal",
+    "ano_salida": 2013,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Robot",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Community",
+    "ano_salida": 2009,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Expanse",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Schitt$ Creek",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Boardwalk Empire",
+    "ano_salida": 2010,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kimetsu no Yaiba",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "What We Do in the Shadows",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ore dake Reberu Appu na Ken",
+    "ano_salida": 2024,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Last Kingdom",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Snowfall",
+    "ano_salida": 2017,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Twin Peaks",
+    "ano_salida": 2017,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "M*A*S*H",
+    "ano_salida": 1972,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bosch",
+    "ano_salida": 2014,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Boston Legal",
+    "ano_salida": 2004,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Happy Valley",
+    "ano_salida": 2014,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Futurama",
+    "ano_salida": 1999,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Silicon Valley",
+    "ano_salida": 2014,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Letterkenny",
+    "ano_salida": 2016,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Derry Girls",
+    "ano_salida": 2018,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Wars: The Clone Wars",
+    "ano_salida": 2008,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The IT Crowd",
+    "ano_salida": 2006,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mob Psycho 100",
+    "ano_salida": 2016,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shinseiki Evangelion",
+    "ano_salida": 1995,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Inside No. 9",
+    "ano_salida": 2014,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pantheon",
+    "ano_salida": 2022,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Southland",
+    "ano_salida": 2009,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Wars: Maul - Shadow Lord",
+    "ano_salida": 2026,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Office",
+    "ano_salida": 2001,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heartstopper",
+    "ano_salida": 2022,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Smiling Friends",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Common Side Effects",
+    "ano_salida": 2024,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Boondocks",
+    "ano_salida": 2005,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Trailer Park Boys",
+    "ano_salida": 2001,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Guimi Zhi Zhu",
+    "ano_salida": 2025,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Jinx: The Life and Deaths of Robert Durst",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kaguya-sama wa kokurasetai ~ Tensai tachi no ren'ai zunô sen ~",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurai Jack",
+    "ano_salida": 2001,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurai Chanpurû",
+    "ano_salida": 2004,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball",
+    "ano_salida": 1995,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hagane no renkinjutsushi",
+    "ano_salida": 2003,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Justice League",
+    "ano_salida": 2001,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kingdom",
+    "ano_salida": 2014,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball: Doragon bôru",
+    "ano_salida": 1986,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nana",
+    "ano_salida": 2006,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Agui kkot",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alfred Hitchcock Presents",
+    "ano_salida": 1955,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Flight of the Conchords",
+    "ano_salida": 2007,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Furûtsu Basuketto",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Impractical Jokers",
+    "ano_salida": 2011,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spaced",
+    "ano_salida": 1999,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Staged",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sacred Games",
+    "ano_salida": 2018,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mushishi",
+    "ano_salida": 2005,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Making a Murderer",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Louie",
+    "ano_salida": 2010,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Coupling",
+    "ano_salida": 2000,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tu Bian Ying Xiong X",
+    "ano_salida": 2025,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I Love Lucy",
+    "ano_salida": 1951,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Meitantei Conan",
+    "ano_salida": 1996,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cheolinwanghoo",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Skam",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yu yu hakusho",
+    "ano_salida": 1992,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "RuPaul's Drag Race",
+    "ano_salida": 2009,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Queer as Folk",
+    "ano_salida": 2000,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Dick Van Dyke Show",
+    "ano_salida": 1961,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whose Line Is It Anyway?",
+    "ano_salida": 1998,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rurôni Kenshin: Meiji kenkaku romantan",
+    "ano_salida": 1996,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "GTO",
+    "ano_salida": 1999,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Made in India: A Titan Story",
+    "ano_salida": 2026,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Eric Andre Show",
+    "ano_salida": 2012,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Larry Sanders Show",
+    "ano_salida": 1992,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kôkaku Kidôtai Sutando Arôn Conpurekkusu",
+    "ano_salida": 2002,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Please Like Me",
+    "ano_salida": 2013,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chef's Table",
+    "ano_salida": 2015,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Prens",
+    "ano_salida": 2023,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Bugs Bunny Show",
+    "ano_salida": 1960,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "RuPaul's Drag Race All Stars",
+    "ano_salida": 2012,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Special Ops",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "ImMATURE",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "TVF Tripling",
+    "ano_salida": 2016,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bandish Bandits",
+    "ano_salida": 2020,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hostel Daze",
+    "ano_salida": 2019,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broken But Beautiful",
+    "ano_salida": 2018,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Queer Eye",
+    "ano_salida": 2018,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Angry Video Game Nerd",
+    "ano_salida": 2004,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sixer",
+    "ano_salida": 2022,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Bugs Bunny/Road Runner Hour",
+    "ano_salida": 1968,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shabhaye Barareh",
+    "ano_salida": 2005,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lucky Guy",
+    "ano_salida": 2023,
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Slow Horses",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Supernatural",
+    "ano_salida": 2005,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Person of Interest",
+    "ano_salida": 2011,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Americans",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Last of Us",
+    "ano_salida": 2023,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ghosts",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Suits",
+    "ano_salida": 2011,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Banshee",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Trek",
+    "ano_salida": 1966,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brooklyn Nine-Nine",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Punisher",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ozark",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Big Little Lies",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Westworld",
+    "ano_salida": 2016,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stargate SG-1",
+    "ano_salida": 1997,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fringe",
+    "ano_salida": 2008,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Scrubs",
+    "ano_salida": 2001,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Psych",
+    "ano_salida": 2006,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Babylon Berlin",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "24",
+    "ano_salida": 2001,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spartacus",
+    "ano_salida": 2010,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Veep",
+    "ano_salida": 2012,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heartland",
+    "ano_salida": 2007,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Naruto",
+    "ano_salida": 2002,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love, Death & Robots",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cobra Kai",
+    "ano_salida": 2018,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Entourage",
+    "ano_salida": 2004,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Unforgotten",
+    "ano_salida": 2015,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chamgyoyuk",
+    "ano_salida": 2026,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Boy",
+    "ano_salida": 2011,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Legend of Vox Machina",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doc Martin",
+    "ano_salida": 2004,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Luther",
+    "ano_salida": 2010,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mirzapur",
+    "ano_salida": 2018,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Red Dwarf",
+    "ano_salida": 1988,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "After Life",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Warrior",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Babylon 5",
+    "ano_salida": 1993,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yakhanyeongung",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mighty Nein",
+    "ano_salida": 2025,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pachinko",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Doctor Who",
+    "ano_salida": 1963,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "American Crime Story",
+    "ano_salida": 2016,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ash vs Evil Dead",
+    "ano_salida": 2015,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The League of Gentlemen",
+    "ano_salida": 1999,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bosch: Legacy",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Halt and Catch Fire",
+    "ano_salida": 2014,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Amazing World of Gumball",
+    "ano_salida": 2011,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bir Baskadir",
+    "ano_salida": 2020,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Inbetweeners",
+    "ano_salida": 2008,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Utopia",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love/Hate",
+    "ano_salida": 2010,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Knick",
+    "ano_salida": 2014,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Northern Exposure",
+    "ano_salida": 1990,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Binsenjo",
+    "ano_salida": 2021,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broad City",
+    "ano_salida": 2014,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yijae, Got Jookseummida",
+    "ano_salida": 2023,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Andy Griffith Show",
+    "ano_salida": 1960,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pushing Daisies",
+    "ano_salida": 2007,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mubing",
+    "ano_salida": 2023,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brassic",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "X-Men",
+    "ano_salida": 1992,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Books",
+    "ano_salida": 2000,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Forbrydelsen",
+    "ano_salida": 2007,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spider-Man",
+    "ano_salida": 1994,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Borgen",
+    "ano_salida": 2010,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Last Tango in Halifax",
+    "ano_salida": 2012,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All in the Family",
+    "ano_salida": 1971,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "This Country",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Steins;Gate 0",
+    "ano_salida": 2018,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Carnivàle",
+    "ano_salida": 2003,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My So-Called Life",
+    "ano_salida": 1994,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Graham Norton Show",
+    "ano_salida": 2007,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sigeuneol",
+    "ano_salida": 2016,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Trollhunters",
+    "ano_salida": 2016,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hilleo",
+    "ano_salida": 2014,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Formula 1: Drive to Survive",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The New Batman Adventures",
+    "ano_salida": 1997,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bimilui Soop",
+    "ano_salida": 2017,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Dark Crystal: Age of Resistance",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Delhi Crime",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Muppet Show",
+    "ano_salida": 1976,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Infinity Train",
+    "ano_salida": 2019,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Spectacular Spider-Man",
+    "ano_salida": 2008,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Prehistoric Planet",
+    "ano_salida": 2022,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Prisoner",
+    "ano_salida": 1967,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Invader ZIM",
+    "ano_salida": 2001,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whose Line Is It Anyway?",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Show with Bob and David",
+    "ano_salida": 1995,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jeeves & Wooster",
+    "ano_salida": 1990,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Asur: Welcome to Your Dark Side",
+    "ano_salida": 2020,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Mad Fat Diary",
+    "ano_salida": 2013,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "'Allo 'Allo!",
+    "ano_salida": 1982,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Kids in the Hall",
+    "ano_salida": 1988,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Julie and the Phantoms",
+    "ano_salida": 2020,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Saint Seiya",
+    "ano_salida": 1986,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Heroes",
+    "ano_salida": 2008,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Ricky Gervais Show",
+    "ano_salida": 2010,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Late Late Show with Craig Ferguson",
+    "ano_salida": 2005,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Adventures of Pete & Pete",
+    "ano_salida": 1992,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Red vs. Blue",
+    "ano_salida": 2003,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mumbai Diaries",
+    "ano_salida": 2021,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stromberg",
+    "ano_salida": 2004,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Top Gear",
+    "ano_salida": 1978,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yarin Yokmus Gibi",
+    "ano_salida": 2024,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Colbert Report",
+    "ano_salida": 2005,
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "MobLand",
+    "ano_salida": 2025,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Clover",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cyberpunk: Edgerunners",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lost",
+    "ano_salida": 2004,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Leftovers",
+    "ano_salida": 2014,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fallout",
+    "ano_salida": 2024,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Outlander",
+    "ano_salida": 2014,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "ano_salida": 2016,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Homeland",
+    "ano_salida": 2011,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How I Met Your Mother",
+    "ano_salida": 2005,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Handmaid's Tale",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Prison Break",
+    "ano_salida": 2005,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Buffy the Vampire Slayer",
+    "ano_salida": 1997,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Piece",
+    "ano_salida": 2023,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hacks",
+    "ano_salida": 2021,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Columbo",
+    "ano_salida": 1971,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rectify",
+    "ano_salida": 2013,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "1923",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bleach",
+    "ano_salida": 2004,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fauda",
+    "ano_salida": 2015,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Good Wife",
+    "ano_salida": 2009,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Legend of Korra",
+    "ano_salida": 2012,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Broadchurch",
+    "ano_salida": 2013,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Barry",
+    "ano_salida": 2018,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shetland",
+    "ano_salida": 2013,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "30 Rock",
+    "ano_salida": 2006,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Other Bennet Sister",
+    "ano_salida": 2026,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Parenthood",
+    "ano_salida": 2010,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Taboo",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Killing",
+    "ano_salida": 2011,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Billions",
+    "ano_salida": 2016,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chainsaw Man",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ray Donovan",
+    "ano_salida": 2013,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blue Mountain State",
+    "ano_salida": 2010,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Police Squad!",
+    "ano_salida": 1982,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Veronica Mars",
+    "ano_salida": 2004,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Why Women Kill",
+    "ano_salida": 2019,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Orphan Black",
+    "ano_salida": 2013,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Studio 60 on the Sunset Strip",
+    "ano_salida": 2006,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Longmire",
+    "ano_salida": 2012,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wayne",
+    "ano_salida": 2019,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "ano_salida": 2024,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Californication",
+    "ano_salida": 2007,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Castlevania",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Perry Mason",
+    "ano_salida": 1957,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Reservation Dogs",
+    "ano_salida": 2021,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dandadan",
+    "ano_salida": 2024,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hell on Wheels",
+    "ano_salida": 2011,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kingdom",
+    "ano_salida": 2019,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spooks",
+    "ano_salida": 2002,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Good Fight",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "86",
+    "ano_salida": 2021,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Somebody Somewhere",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wonder Years",
+    "ano_salida": 1988,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Narcos: México",
+    "ano_salida": 2018,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Super: Doragon bôru cho",
+    "ano_salida": 2015,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Made in Abyss",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tengen toppa gurren lagann",
+    "ano_salida": 2007,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Harley Quinn",
+    "ano_salida": 2019,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rescue Me",
+    "ano_salida": 2004,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oshi no Ko",
+    "ano_salida": 2023,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Extras",
+    "ano_salida": 2005,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Life on Mars",
+    "ano_salida": 2006,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Farzi",
+    "ano_salida": 2023,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cranford",
+    "ano_salida": 2007,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Key and Peele",
+    "ano_salida": 2012,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Welcome to Wrexham",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jung-jeung-eui-sang-sen-teo",
+    "ano_salida": 2025,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Winning Time: The Rise of the Lakers Dynasty",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "DuckTales",
+    "ano_salida": 2017,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Julia",
+    "ano_salida": 2022,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Courage the Cowardly Dog",
+    "ano_salida": 1999,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mary Tyler Moore",
+    "ano_salida": 1970,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Avengers",
+    "ano_salida": 1961,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Avengers: Earth's Mightiest Heroes",
+    "ano_salida": 2010,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Daily Show",
+    "ano_salida": 1996,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Green Wing",
+    "ano_salida": 2004,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Treme",
+    "ano_salida": 2010,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Mighty Boosh",
+    "ano_salida": 2003,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amphibia",
+    "ano_salida": 2019,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dragon Ball Kai: Doragon bôru kai",
+    "ano_salida": 2009,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Saiki Kusuo no Psi Nan",
+    "ano_salida": 2016,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yeokdoyojeong Gim Bokju",
+    "ano_salida": 2016,
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  }
+]
