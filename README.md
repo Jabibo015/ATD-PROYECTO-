@@ -11,7 +11,7 @@ Los archivos del proyecto están organizados según su función dentro del flujo
 
 ### 1. Scrappers principales (Generación de JSON)
 Scripts definitivos encargados de navegar por las webs, limpiar los campos (títulos originales, años, repartos) y exportar los datos en formato `.json`:
-
+* `scrapper_letterbox.py`: Pruebas iniciales sobre IMDb.
 
 
 
