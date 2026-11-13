@@ -1,7 +1,7 @@
 # ATD-PROYECTO-
 Este repositorio contiene los scripts desarrollados para extraer, limpiar y cargar datos de películas, series y videojuegos desde distintas plataformas (IMDb, Letterboxd, Metacritic y Backloggd) hacia una base de datos relacional en Supabase (PostgreSQL).
 
-El sistema unifica la información de las distintas fuentes, normaliza sus escalas de puntuación (escala 10 en IMDb, escala 5 en Letterboxd) y gestiona las relaciones de directores, actores y títulos originales evitando duplicados.
+El sistema unifica la información de las distintas fuentes, normaliza sus escalas de puntuación y gestiona las relaciones de directores, actores y títulos originales evitando duplicados.
 
 ---
 
@@ -10,8 +10,8 @@ El sistema unifica la información de las distintas fuentes, normaliza sus escal
 Los archivos del proyecto están organizados según su función dentro del flujo de trabajo:
 
 ### 1. Scrappers principales (Generación de JSON)
-Scripts definitivos encargados de navegar por las webs, limpiar los campos (títulos originales, años, repartos) y exportar los datos en formato `.json`:
-* `scrapper_letterbox.py`: Pruebas iniciales sobre IMDb.
+Scripts definitivos encargados de navegar por las webs y exportar los datos en formato `.json`:
+* `scrapper_letterbox.py`
 
 
 
