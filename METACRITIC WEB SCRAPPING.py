@@ -1,151 +1,170 @@
 # -*- coding: utf-8 -*-
 """
 WEB SCRAPPING SELENIUM METACRITIC (PROYECTO ATD)
+Sacar la lista con cada videojuego --> MEJORES 500 VIDEOJUEGOS DE METACRITIC (USER SCORE HIGH-LOW)
 """
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-
 import time
+import os
+import glob
+import re
+import undetected_chromedriver as uc
 
-# ______________________________________________________________________________________________________________-
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import TimeoutException
+
+# ______________________________________________________________________________________________________________
+
+# CONFIGURACIÓN DE CHROME
+
+options = uc.ChromeOptions()
+options.binary_location = chrome_path
+
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-infobars")
+
+prefs = {"profile.default_content_setting_values.notifications": 2}
+options.add_experimental_option("prefs", prefs)
+
+# ______________________________________________________________________________________________________________
 
 # Act 1: Cargar la página web
 
-driver = webdriver.Chrome()
-driver.get("https://www.metacritic.com/") # Cambiar la página web
+driver = uc.Chrome(options=options, browser_executable_path=chrome_path)
+
+# Forzar tamaño de ventana
+driver.set_window_rect(
+    x=50,
+    y=50,
+    width=950,
+    height=750)
+
+driver.execute_cdp_cmd("Network.enable", {})
+
+driver.execute_cdp_cmd("Network.setBlockedURLs", {
+    "urls": [
+        "*doubleclick.net/*",
+        "*googlesyndication.com/*",
+        "*googleadservices.com/*",
+        "*adservice.google.com/*",
+        "*amazon-adsystem.com/*",
+        "*adnxs.com/*"
+    ]})
+
+driver.get("https://www.metacritic.com/browse/game/?pageSize=100")
 driver.implicitly_wait(10)
 
+# ______________________________________________________________________________________________________________
 
 # Act 2: Aceptar cookies
 
-#1º forma, menos eficiente si hay muchos:
-#boton_aceptar = driver.find_element(by=By.ID, value="onetrust-accept-btn-handler") 
-
-#boton_aceptar = driver.find_element(by=By.ID, value="save-button")
-
-
-#2º forma, más eficiente si hay muchos porque vas recorriendo:
-    
 """
 <button id="onetrust-accept-btn-handler">I Accept</button>
-<div id="onetrust-button-group-parent" class="ot-sdk-columns has-reject-all-button ot-sdk-two"><div id="onetrust-button-group"><button id="onetrust-accept-btn-handler">I Accept</button> <button id="onetrust-reject-all-handler">Reject All</button> <button id="onetrust-pc-btn-handler" aria-label="Show Purposes, Opens the preference center dialog">Show Purposes</button></div></div>
 """
 
 boton_aceptar = driver.find_element(by=By.ID, value="onetrust-accept-btn-handler")
 print(boton_aceptar.text)
 boton_aceptar.click()
 
-
-#Act 3: Meterte en un subapartado (Movies)
-
-"""
-<button class="c-site-header-mobile-menu" data-testid="mobile-menu-button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" width="1.29em" height="1em" viewBox="0 0 18 14" class="iconify iconify--core w-4.5 h-3.75 text-white"><g fill="none"><path d="M1 1h16M1 7h16M1 13h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path></g></svg></button>
-"""
-
-#Meterte al apartado del menú 
-
-boton_menu = driver.find_element(by=By.CLASS_NAME, value="c-site-header-mobile-menu")
-boton_menu.click()
-
-
-"""
-<button class="c-site-header-mobile-menu-flyout__submenu-button">Explore Movies <span class="iconify i-core:chevron-right ml-2 size-5" aria-hidden="true"></span></button>
-"""
-
-#Meterte a subapartado Explore movies
-
-boton_explorar_movies = driver.find_elements(by=By.CLASS_NAME, value="c-site-header-mobile-menu-flyout__submenu-button")
-
-# Como existen varios botones con el mismo value, buscar específicamente el de 'Explore Movies'
-
-for boton in boton_explorar_movies:
-   if boton.text == "Explore Movies":
-      boton.click()
-   else:
-      pass
-
-#Meterse al subapartado de 'Best Movies of All Time'
-
-boton_best_movies = driver.find_element(by=By.LINK_TEXT, value="Best Movies of All Time")
-boton_best_movies.click()
-time.sleep(2)
-
-# Lista con todas las películas de la página 
-
-"""
-Copiamos y pegamos la clase
-
-<h3 data-testid="product-title" class="m-0 text-base leading-5.5 font-bold lg:overflow-hidden lg:text-ellipsis lg:line-clamp-1 lg:max-h-5.5 lg:wrap-break-word"><span>27. </span><span>Au hasard Balthazar</span></h3>
-"""
-
-# Metemos las peliculas en una lista
-
-lista_peliculas = driver.find_elements(by=By.CLASS_NAME, value="m-0")
-
-for elemento in lista_peliculas:
-    print(elemento.text)
-
-
-# Para ver la lista completa de pelis
-
-print(f"Total: {len(lista_peliculas)}")
-
-for i, elemento in enumerate(lista_peliculas, start=1):
-    spans = elemento.find_elements(By.TAG_NAME, "span")
-    print(i, spans[1].text)
-
-
-
-# ______________________________________________________________________________________________________________
-
-# A tener en cuenta:
-    
-    # 1. Cuando hay una condición for utilizar find_elements
-    # 2. Cuando se hace directamente boton.click() sin condición, utilizar find_element
-    # 3. Si no se puede encontrar el elemento por botón, hacerlo por texto
     
 # ______________________________________________________________________________________________________________
 
-# Buscamos toda la información de cada película
+# Lista donde guardaremos los 500 videojuegos
+
+videojuegos = []
+
+# Primero recopilamos los títulos y enlaces de las cinco páginas
+
+juegos_enlaces = []
+
+for pagina in range(1, 6):
+
+    url = f"https://www.metacritic.com/browse/game/?page={pagina}&pageSize=100"
+    driver.get(url)
+
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.TAG_NAME, "h3")))
+
+    time.sleep(2)
+
+    elementos = driver.find_elements(By.TAG_NAME, "h3")
+
+    for elemento in elementos:
+        titulo = elemento.text.strip()
+
+        try:
+            enlace = elemento.find_element(By.XPATH, "./ancestor::a[1]").get_attribute("href")
+
+            if titulo and enlace:
+                juegos_enlaces.append((titulo, enlace))
+
+        except Exception:
+            continue
+
+    print(f"Página {pagina}: {len(juegos_enlaces)} enlaces acumulados")
 
 
-
-# ______________________________________________________________________________________________________________
-
-# Metemos la información en una lista
-
-from datetime import datetime
-
-# Lista vacía donde meteremos todas las películas 
-
-peliculas = []
-
-# Función para añadir toda la información dentro de la lista
-
-def agregar_pelicula(titulo, valoracion, plataforma, generos, director, año_salida, duracion):
-    peliculas.append({
-        "titulo": titulo,
-        "valoracion": valoracion,
-        "plataforma": plataforma,
-        "generos": generos,
-        "director": director,
-        "año_salida": año_salida,
-        "duracion": duracion,
-        "fecha_extraccion": datetime.now(),
-    })
+print("Total de enlaces recopilados:", len(juegos_enlaces))
 
 
-"""
-# Para pasarlo a JSON
-import json
+# Ahora entramos en cada ficha para extraer el año
 
-datos = {
-    "peliculas": peliculas
-}
+for i, (titulo, enlace) in enumerate(juegos_enlaces):
 
-json_resultado = json.dumps(datos, ensure_ascii=False, indent=4)
-print(json_resultado)
+    try:
+        driver.get(enlace)
 
-"""
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body")))
 
+        texto_pagina = driver.find_element(By.TAG_NAME, "body").text
+
+        # Buscar la fecha que aparece después de Released On
+
+        resultado = re.search(
+            r"Released On:\s*.*?(\d{4})",
+            texto_pagina,
+            re.IGNORECASE)
+
+        if resultado:
+            anio = resultado.group(1)
+        else:
+            anio = ""
+
+        # Eliminar numeración inicial y año del título si lo contiene
+
+        nombre = re.sub(r"^\s*\d+\.\s*", "", titulo)
+        nombre = re.sub(r"\s*\(\d{4}\)\s*$", "", nombre)
+
+        videojuegos.append((nombre, anio))
+
+        print(f"{i + 1}/{len(juegos_enlaces)}: {nombre} - {anio}")
+
+        time.sleep(1)
+
+    except Exception as e:
+        print(f"Error con {titulo}: {e}")
+        videojuegos.append((titulo, ""))
+
+
+# Exportar la lista a un archivo Python
+
+with open("videojuegos.py", "w", encoding="utf-8") as archivo:
+
+    archivo.write("videojuegos = [\n")
+
+    for nombre, anio in videojuegos:
+        archivo.write(f"    ({nombre!r}, {anio!r}),\n")
+
+    archivo.write("]\n")
+
+
+# Comprobación final
+
+print("Total de enlaces:", len(juegos_enlaces))
+print("Total de videojuegos:", len(videojuegos))
+print("Archivo videojuegos.py creado correctamente.")
