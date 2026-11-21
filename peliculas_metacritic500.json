@@ -1,0 +1,3778 @@
+[
+    {
+        "titulo": "The Godfather",
+        "anio": 1972,
+        "metascore": 100,
+        "userscore": 9.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Project Hail Mary",
+        "anio": 2026,
+        "metascore": 77,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Michael",
+        "anio": 2012,
+        "metascore": 64,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "12 Angry Men",
+        "anio": 1957,
+        "metascore": 97,
+        "userscore": 9.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Schindler's List",
+        "anio": 1993,
+        "metascore": 95,
+        "userscore": 9.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spirited Away",
+        "anio": 2002,
+        "metascore": 96,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Your Name.",
+        "anio": 2017,
+        "metascore": 81,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Interstellar",
+        "anio": 2014,
+        "metascore": 74,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Parasite",
+        "anio": 2019,
+        "metascore": 97,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "anio": 1994,
+        "metascore": 95,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Forrest Gump",
+        "anio": 1994,
+        "metascore": 82,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Seven Samurai",
+        "anio": 1956,
+        "metascore": 98,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "GoodFellas",
+        "anio": 1990,
+        "metascore": 92,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Fight Club",
+        "anio": 1999,
+        "metascore": 67,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Cinema Paradiso",
+        "anio": 1990,
+        "metascore": 80,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Psycho",
+        "anio": 1960,
+        "metascore": 97,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Howl's Moving Castle",
+        "anio": 2005,
+        "metascore": 82,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Whiplash",
+        "anio": 2014,
+        "metascore": 89,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Inception",
+        "anio": 2010,
+        "metascore": 74,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rear Window",
+        "anio": 1954,
+        "metascore": 100,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Princess Mononoke",
+        "anio": 1999,
+        "metascore": 78,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dead Poets Society",
+        "anio": 1989,
+        "metascore": 79,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Sunset Boulevard",
+        "anio": 1950,
+        "metascore": 94,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Apocalypse Now",
+        "anio": 1979,
+        "metascore": 94,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Avengers: Endgame",
+        "anio": 2019,
+        "metascore": 78,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Saving Private Ryan",
+        "anio": 1998,
+        "metascore": 91,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Oldboy",
+        "anio": 2005,
+        "metascore": 78,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gladiator",
+        "anio": 2000,
+        "metascore": 67,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Green Book",
+        "anio": 2018,
+        "metascore": 69,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Inglourious Basterds",
+        "anio": 2009,
+        "metascore": 69,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Klaus",
+        "anio": 2019,
+        "metascore": 65,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Coco",
+        "anio": 2017,
+        "metascore": 81,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Shutter Island",
+        "anio": 2010,
+        "metascore": 63,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Hacksaw Ridge",
+        "anio": 2016,
+        "metascore": 71,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Django Unchained",
+        "anio": 2012,
+        "metascore": 81,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Alien",
+        "anio": 1979,
+        "metascore": 89,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Obsession",
+        "anio": 2026,
+        "metascore": 77,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Memento",
+        "anio": 2001,
+        "metascore": 83,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "anio": 2022,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Scarface",
+        "anio": 1932,
+        "metascore": 90,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dune: Part Two",
+        "anio": 2024,
+        "metascore": 79,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Casablanca",
+        "anio": 1943,
+        "metascore": 100,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Vertigo",
+        "anio": 1958,
+        "metascore": 100,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "WALL·E",
+        "anio": 2008,
+        "metascore": 95,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Singin' in the Rain",
+        "anio": 1952,
+        "metascore": 99,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "anio": 1964,
+        "metascore": 97,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Full Metal Jacket",
+        "anio": 1987,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Taxi Driver",
+        "anio": 1976,
+        "metascore": 94,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Joker",
+        "anio": 2019,
+        "metascore": 59,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Reservoir Dogs",
+        "anio": 1992,
+        "metascore": 81,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Prisoners",
+        "anio": 2013,
+        "metascore": 70,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Incendies",
+        "anio": 2011,
+        "metascore": 80,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Wonder",
+        "anio": 2017,
+        "metascore": 66,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Soul",
+        "anio": 2020,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Metropolis",
+        "anio": 2002,
+        "metascore": 75,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Call Me by Your Name",
+        "anio": 2017,
+        "metascore": 94,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Some Like It Hot",
+        "anio": 1959,
+        "metascore": 98,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Zack Snyder's Justice League",
+        "anio": 2021,
+        "metascore": 54,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "My Neighbor Totoro",
+        "anio": 1988,
+        "metascore": 87,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "There Will Be Blood",
+        "anio": 2007,
+        "metascore": 93,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Flow",
+        "anio": 2024,
+        "metascore": 87,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Hidden Figures",
+        "anio": 2016,
+        "metascore": 74,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Three Billboards Outside Ebbing, Missouri",
+        "anio": 2017,
+        "metascore": 88,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Pride & Prejudice",
+        "anio": 2005,
+        "metascore": 82,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Lion",
+        "anio": 2016,
+        "metascore": 69,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Amadeus",
+        "anio": 1984,
+        "metascore": 87,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Flipped",
+        "anio": 2010,
+        "metascore": 45,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Oppenheimer",
+        "anio": 2023,
+        "metascore": 90,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Barry Lyndon",
+        "anio": 1975,
+        "metascore": 89,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Lawrence of Arabia",
+        "anio": 1962,
+        "metascore": 100,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Casino",
+        "anio": 1995,
+        "metascore": 73,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "American Beauty",
+        "anio": 1999,
+        "metascore": 84,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Guillermo del Toro's Pinocchio",
+        "anio": 2022,
+        "metascore": 79,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Toy Story",
+        "anio": 1995,
+        "metascore": 96,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gran Torino",
+        "anio": 2008,
+        "metascore": 73,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gifted",
+        "anio": 2017,
+        "metascore": 60,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Room",
+        "anio": 2015,
+        "metascore": 86,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "1917",
+        "anio": 2019,
+        "metascore": 78,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "KPop Demon Hunters",
+        "anio": 2025,
+        "metascore": 77,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Jurassic Park",
+        "anio": 1993,
+        "metascore": 68,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Jojo Rabbit",
+        "anio": 2019,
+        "metascore": 58,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Aliens",
+        "anio": 1986,
+        "metascore": 84,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Before Sunrise",
+        "anio": 1995,
+        "metascore": 79,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Citizen Kane",
+        "anio": 1941,
+        "metascore": 100,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "North by Northwest",
+        "anio": 1959,
+        "metascore": 98,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Cruella",
+        "anio": 2021,
+        "metascore": 59,
+        "userscore": 7.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Up",
+        "anio": 2009,
+        "metascore": 88,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Trainspotting",
+        "anio": 1996,
+        "metascore": 83,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Million Dollar Baby",
+        "anio": 2004,
+        "metascore": 86,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "No Country for Old Men",
+        "anio": 2007,
+        "metascore": 92,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "BohemianRhapsody",
+        "anio": 2018,
+        "metascore": 49,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Braveheart",
+        "anio": 1995,
+        "metascore": 68,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Heat",
+        "anio": 1995,
+        "metascore": 76,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Coraline",
+        "anio": 2009,
+        "metascore": 80,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Akira",
+        "anio": 1989,
+        "metascore": 68,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Blade Runner",
+        "anio": 1982,
+        "metascore": 84,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rope",
+        "anio": 1948,
+        "metascore": 73,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "12 Years a Slave",
+        "anio": 2013,
+        "metascore": 96,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Amélie",
+        "anio": 2001,
+        "metascore": 70,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Unforgiven",
+        "anio": 1992,
+        "metascore": 85,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Chinatown",
+        "anio": 1974,
+        "metascore": 92,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Inside Out",
+        "anio": 2015,
+        "metascore": 94,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dallas Buyers Club",
+        "anio": 2013,
+        "metascore": 77,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gone with the Wind",
+        "anio": 1940,
+        "metascore": 97,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mulan",
+        "anio": 1998,
+        "metascore": 72,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Titanic",
+        "anio": 1997,
+        "metascore": 75,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "La La Land",
+        "anio": 2016,
+        "metascore": 94,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Raging Bull",
+        "anio": 1980,
+        "metascore": 90,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gone Girl",
+        "anio": 2014,
+        "metascore": 79,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ben-Hur",
+        "anio": 1959,
+        "metascore": 90,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Captain Fantastic",
+        "anio": 2016,
+        "metascore": 72,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kill Bill: Vol. 2",
+        "anio": 2004,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Downfall",
+        "anio": 2005,
+        "metascore": 82,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Wild Tales",
+        "anio": 2015,
+        "metascore": 77,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Monsters, Inc.",
+        "anio": 2001,
+        "metascore": 79,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Nobody",
+        "anio": 2021,
+        "metascore": 64,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Young Frankenstein",
+        "anio": 1974,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dog Day Afternoon",
+        "anio": 1975,
+        "metascore": 86,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ratatouille",
+        "anio": 2007,
+        "metascore": 96,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Fargo",
+        "anio": 1996,
+        "metascore": 88,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Little Women",
+        "anio": 1933,
+        "metascore": 92,
+        "userscore": 6.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Predator: Badlands",
+        "anio": 2025,
+        "metascore": 71,
+        "userscore": 6.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Knives Out",
+        "anio": 2019,
+        "metascore": 82,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Warrior",
+        "anio": 2011,
+        "metascore": 71,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kiki's Delivery Service",
+        "anio": 1989,
+        "metascore": 85,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Her",
+        "anio": 2013,
+        "metascore": 91,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Snatch",
+        "anio": 2001,
+        "metascore": 55,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Fantastic Mr. Fox",
+        "anio": 2009,
+        "metascore": 83,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Carlito's Way",
+        "anio": 1993,
+        "metascore": 66,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Logan",
+        "anio": 2017,
+        "metascore": 77,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Finding Nemo",
+        "anio": 2003,
+        "metascore": 90,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Toy Story 3",
+        "anio": 2010,
+        "metascore": 92,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Finch",
+        "anio": 2021,
+        "metascore": 57,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Die Hard",
+        "anio": 1988,
+        "metascore": 72,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Paprika",
+        "anio": 2007,
+        "metascore": 81,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rosemary's Baby",
+        "anio": 1968,
+        "metascore": 96,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "L.A. Confidential",
+        "anio": 1997,
+        "metascore": 91,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spotlight",
+        "anio": 2015,
+        "metascore": 93,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Before Sunset",
+        "anio": 2004,
+        "metascore": 91,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rocky",
+        "anio": 1976,
+        "metascore": 73,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Porco Rosso",
+        "anio": 1992,
+        "metascore": 83,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dune",
+        "anio": 1984,
+        "metascore": 41,
+        "userscore": 6.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Brokeback Mountain",
+        "anio": 2005,
+        "metascore": 87,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Shrek",
+        "anio": 2001,
+        "metascore": 84,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Straight Outta Compton",
+        "anio": 2015,
+        "metascore": 72,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Luca",
+        "anio": 2021,
+        "metascore": 71,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Pan's Labyrinth",
+        "anio": 2006,
+        "metascore": 98,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Zootopia",
+        "anio": 2016,
+        "metascore": 78,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ponyo",
+        "anio": 2009,
+        "metascore": 86,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Donnie Darko",
+        "anio": 2001,
+        "metascore": 71,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Misery",
+        "anio": 1990,
+        "metascore": 75,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rush",
+        "anio": 2013,
+        "metascore": 74,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Platoon",
+        "anio": 1986,
+        "metascore": 92,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mystic River",
+        "anio": 2003,
+        "metascore": 84,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Marriage Story",
+        "anio": 2019,
+        "metascore": 94,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Batman Begins",
+        "anio": 2005,
+        "metascore": 70,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Slumdog Millionaire",
+        "anio": 2008,
+        "metascore": 84,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Big Hero 6",
+        "anio": 2014,
+        "metascore": 74,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Hotel Rwanda",
+        "anio": 2004,
+        "metascore": 79,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Magnolia",
+        "anio": 1999,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Edward Scissorhands",
+        "anio": 1990,
+        "metascore": 74,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "John Wick: Chapter 4",
+        "anio": 2023,
+        "metascore": 78,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Annie Hall",
+        "anio": 1977,
+        "metascore": 92,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Nightcrawler",
+        "anio": 2014,
+        "metascore": 76,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Philadelphia",
+        "anio": 1993,
+        "metascore": 66,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Little Miss Sunshine",
+        "anio": 2006,
+        "metascore": 80,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Jaws",
+        "anio": 1975,
+        "metascore": 87,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gran Turismo",
+        "anio": 2023,
+        "metascore": 48,
+        "userscore": 7.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Black Swan",
+        "anio": 2010,
+        "metascore": 79,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Moonrise Kingdom",
+        "anio": 2012,
+        "metascore": 84,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Apocalypto",
+        "anio": 2006,
+        "metascore": 68,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Cast Away",
+        "anio": 2000,
+        "metascore": 74,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Primal Fear",
+        "anio": 1996,
+        "metascore": 47,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Aladdin",
+        "anio": 1992,
+        "metascore": 86,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "What's Eating Gilbert Grape",
+        "anio": 1994,
+        "metascore": 73,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Brazil",
+        "anio": 1985,
+        "metascore": 84,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Amores Perros",
+        "anio": 2001,
+        "metascore": 83,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Prey",
+        "anio": 2022,
+        "metascore": 71,
+        "userscore": 6.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mad Max: Fury Road",
+        "anio": 2015,
+        "metascore": 91,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Arrival",
+        "anio": 2016,
+        "metascore": 81,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Atonement",
+        "anio": 2007,
+        "metascore": 85,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Boogie Nights",
+        "anio": 1997,
+        "metascore": 87,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Onward",
+        "anio": 2020,
+        "metascore": 61,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Another Round",
+        "anio": 2020,
+        "metascore": 79,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Deadpool",
+        "anio": 2016,
+        "metascore": 65,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Get Out",
+        "anio": 2017,
+        "metascore": 85,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Poor Things",
+        "anio": 2023,
+        "metascore": 88,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Toy Story2",
+        "anio": 1999,
+        "metascore": 88,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Tangled",
+        "anio": 2010,
+        "metascore": 71,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Roma",
+        "anio": 2018,
+        "metascore": 96,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Twelve Monkeys",
+        "anio": 1996,
+        "metascore": 75,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Avatar",
+        "anio": 2009,
+        "metascore": 83,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Blade Runner 2049",
+        "anio": 2017,
+        "metascore": 81,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Sleepers",
+        "anio": 1996,
+        "metascore": 49,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Godzilla Minus One",
+        "anio": 2023,
+        "metascore": 81,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Billy Elliot",
+        "anio": 2000,
+        "metascore": 74,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Anastasia",
+        "anio": 1997,
+        "metascore": 61,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Frankenstein",
+        "anio": 1931,
+        "metascore": 91,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Seven Pounds",
+        "anio": 2008,
+        "metascore": 36,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "American Gangster",
+        "anio": 2007,
+        "metascore": 76,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Corpse Bride",
+        "anio": 2005,
+        "metascore": 83,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Thelma & Louise",
+        "anio": 1991,
+        "metascore": 89,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Elemental",
+        "anio": 2013,
+        "metascore": 63,
+        "userscore": 5.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Deadpool & Wolverine",
+        "anio": 2024,
+        "metascore": 56,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "CoachCarter",
+        "anio": 2005,
+        "metascore": 57,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Predator",
+        "anio": 1987,
+        "metascore": 47,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Drive",
+        "anio": 2011,
+        "metascore": 79,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Treasure Planet",
+        "anio": 2002,
+        "metascore": 60,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Thor: Ragnarok",
+        "anio": 2017,
+        "metascore": 74,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Casino Royale",
+        "anio": 2006,
+        "metascore": 80,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Hot Fuzz",
+        "anio": 2007,
+        "metascore": 81,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ex Machina",
+        "anio": 2015,
+        "metascore": 78,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Gattaca",
+        "anio": 1997,
+        "metascore": 64,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Moana",
+        "anio": 2016,
+        "metascore": 81,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Changeling",
+        "anio": 2008,
+        "metascore": 63,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Encanto",
+        "anio": 2021,
+        "metascore": 75,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Searching",
+        "anio": 2018,
+        "metascore": 71,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Moon",
+        "anio": 2009,
+        "metascore": 67,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Lilo & Stitch",
+        "anio": 2002,
+        "metascore": 75,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Halloween",
+        "anio": 1978,
+        "metascore": 91,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mary Poppins",
+        "anio": 1964,
+        "metascore": 88,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Manchester by the Sea",
+        "anio": 2016,
+        "metascore": 96,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Fury",
+        "anio": 2014,
+        "metascore": 64,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Who Framed Roger Rabbit",
+        "anio": 1988,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Captain Phillips",
+        "anio": 2013,
+        "metascore": 82,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "True Romance",
+        "anio": 1993,
+        "metascore": 59,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Donnie Brasco",
+        "anio": 1997,
+        "metascore": 77,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Zodiac",
+        "anio": 2007,
+        "metascore": 79,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kung Fu Hustle",
+        "anio": 2005,
+        "metascore": 78,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Moulin Rouge!",
+        "anio": 2001,
+        "metascore": 66,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Upgrade",
+        "anio": 2018,
+        "metascore": 67,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Godzilla vs. Kong",
+        "anio": 2021,
+        "metascore": 59,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Sinners",
+        "anio": 2025,
+        "metascore": 84,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Almost Famous",
+        "anio": 2000,
+        "metascore": 90,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Escape from Alcatraz",
+        "anio": 1979,
+        "metascore": 76,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Hercules",
+        "anio": 1997,
+        "metascore": 74,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ghostbusters",
+        "anio": 1984,
+        "metascore": 71,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Boyhood",
+        "anio": 2014,
+        "metascore": 100,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Carol",
+        "anio": 2015,
+        "metascore": 94,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "BlacKkKlansman",
+        "anio": 2018,
+        "metascore": 83,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Grave of the Fireflies",
+        "anio": 1989,
+        "metascore": 94,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Five Feet Apart",
+        "anio": 2019,
+        "metascore": 53,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Father",
+        "anio": 1972,
+        "metascore": 100,
+        "userscore": 9.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Portrait of a Lady on Fire",
+        "anio": 2019,
+        "metascore": 95,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kill Bill: Vol. 1",
+        "anio": 2004,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mulholland Drive",
+        "anio": 2001,
+        "metascore": 87,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Midnight Sun",
+        "anio": 1988,
+        "metascore": 78,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mr. Nobody",
+        "anio": 2013,
+        "metascore": 63,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Beauty and the Beast",
+        "anio": 1991,
+        "metascore": 95,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Everything Everywhere All at Once",
+        "anio": 2022,
+        "metascore": 81,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Zootopia 2",
+        "anio": 2016,
+        "metascore": 78,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Iron Man",
+        "anio": 2008,
+        "metascore": 79,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Breakfast at Tiffany's",
+        "anio": 1961,
+        "metascore": 77,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Blue Velvet",
+        "anio": 1986,
+        "metascore": 75,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Irishman",
+        "anio": 2019,
+        "metascore": 94,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Blood Diamond",
+        "anio": 2006,
+        "metascore": 64,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Inside Out 2",
+        "anio": 2015,
+        "metascore": 94,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Evil Dead II",
+        "anio": 1987,
+        "metascore": 72,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Mission: Impossible - Dead Reckoning Part One",
+        "anio": 2023,
+        "metascore": 81,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Instant Family",
+        "anio": 2018,
+        "metascore": 57,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Shawshank Redemption",
+        "anio": 1994,
+        "metascore": 82,
+        "userscore": 9.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Godfather Part II",
+        "anio": 1974,
+        "metascore": 90,
+        "userscore": 9.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Dark Knight",
+        "anio": 2008,
+        "metascore": 85,
+        "userscore": 9.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Green Mile",
+        "anio": 1999,
+        "metascore": 61,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Lord of the Rings: The Return of the King",
+        "anio": 2003,
+        "metascore": 94,
+        "userscore": 9.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Good, the Bad and the Ugly",
+        "anio": 1967,
+        "metascore": 90,
+        "userscore": 9.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spider-Man: Brand New Day",
+        "anio": 2026,
+        "metascore": 66,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "anio": 2001,
+        "metascore": 92,
+        "userscore": 9.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Life Is Beautiful",
+        "anio": 1998,
+        "metascore": 58,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Lord of the Rings: The Two Towers",
+        "anio": 2002,
+        "metascore": 87,
+        "userscore": 9.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "City of God",
+        "anio": 2003,
+        "metascore": 79,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "One Flew Over the Cuckoo's Nest",
+        "anio": 1975,
+        "metascore": 84,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spider-Man: Into the Spider-Verse",
+        "anio": 2018,
+        "metascore": 87,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Pianist",
+        "anio": 2002,
+        "metascore": 85,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Once Upon a Time in America",
+        "anio": 1984,
+        "metascore": 75,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spider-Man: Across the Spider-Verse",
+        "anio": 2023,
+        "metascore": 86,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Silence of the Lambs",
+        "anio": 1991,
+        "metascore": 86,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Back to the Future",
+        "anio": 1985,
+        "metascore": 88,
+        "userscore": 9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "American History X",
+        "anio": 1998,
+        "metascore": 62,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wild Robot",
+        "anio": 2024,
+        "metascore": 85,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Perfect Blue",
+        "anio": 1999,
+        "metascore": 67,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "It's a Wonderful Life",
+        "anio": 1947,
+        "metascore": 89,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Intouchables",
+        "anio": 2012,
+        "metascore": 57,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Matrix",
+        "anio": 1999,
+        "metascore": 73,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Lion King",
+        "anio": 1994,
+        "metascore": 88,
+        "userscore": 8.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Paths of Glory",
+        "anio": 1957,
+        "metascore": 90,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Avengers:Infinity War",
+        "anio": 2018,
+        "metascore": 68,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Puss in Boots: The Last Wish",
+        "anio": 2022,
+        "metascore": 73,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Prestige",
+        "anio": 2006,
+        "metascore": 66,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Super Mario Galaxy Movie",
+        "anio": 2026,
+        "metascore": 37,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Help",
+        "anio": 2011,
+        "metascore": 62,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Shining",
+        "anio": 1980,
+        "metascore": 68,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Handmaiden",
+        "anio": 2016,
+        "metascore": 85,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Terminator 2: Judgment Day",
+        "anio": 1991,
+        "metascore": 75,
+        "userscore": 9.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Clockwork Orange",
+        "anio": 1971,
+        "metascore": 77,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Good Will Hunting",
+        "anio": 1997,
+        "metascore": 71,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Usual Suspects",
+        "anio": 1995,
+        "metascore": 76,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Truman Show",
+        "anio": 1998,
+        "metascore": 90,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Departed",
+        "anio": 2006,
+        "metascore": 85,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Seventh Seal",
+        "anio": 1958,
+        "metascore": 88,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Hunt",
+        "anio": 2013,
+        "metascore": 77,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Lock, Stock and Two Smoking Barrels",
+        "anio": 1999,
+        "metascore": 67,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Eternal Sunshine of the Spotless Mind",
+        "anio": 2004,
+        "metascore": 89,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "In the Mood for Love",
+        "anio": 2001,
+        "metascore": 87,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Avengers",
+        "anio": 2012,
+        "metascore": 69,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Deathly Hallows: Part 2",
+        "anio": 2011,
+        "metascore": 85,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Thing",
+        "anio": 2011,
+        "metascore": 49,
+        "userscore": 6.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Memories of Murder",
+        "anio": 2005,
+        "metascore": 82,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Elephant Man",
+        "anio": 1980,
+        "metascore": 78,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "2001: A Space Odyssey",
+        "anio": 1968,
+        "metascore": 84,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Lives of Others",
+        "anio": 2006,
+        "metascore": 89,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "For a Few Dollars More",
+        "anio": 1967,
+        "metascore": 74,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wolf of Wall Street",
+        "anio": 2013,
+        "metascore": 75,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Grand Budapest Hotel",
+        "anio": 2014,
+        "metascore": 88,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Odyssey",
+        "anio": 2026,
+        "metascore": 88,
+        "userscore": 5.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Prisoner of Azkaban",
+        "anio": 2004,
+        "metascore": 82,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Sting",
+        "anio": 1973,
+        "metascore": 83,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ford v Ferrari",
+        "anio": 2019,
+        "metascore": 81,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Requiem for a Dream",
+        "anio": 2000,
+        "metascore": 71,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Catch Me If You Can",
+        "anio": 2002,
+        "metascore": 75,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Imitation Game",
+        "anio": 2014,
+        "metascore": 71,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Castle in the Sky",
+        "anio": 1989,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dragon Ball Super: Broly",
+        "anio": 2019,
+        "metascore": 59,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Iron Giant",
+        "anio": 1999,
+        "metascore": 85,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Society of the Snow",
+        "anio": 2023,
+        "metascore": 72,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Love, Simon",
+        "anio": 2018,
+        "metascore": 72,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Deer Hunter",
+        "anio": 1978,
+        "metascore": 90,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Sixth Sense",
+        "anio": 1999,
+        "metascore": 64,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spider-Man: No Way Home",
+        "anio": 2021,
+        "metascore": 71,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Me Before You",
+        "anio": 2016,
+        "metascore": 51,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ghost in the Shell",
+        "anio": 2017,
+        "metascore": 52,
+        "userscore": 6.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "How to Train Your Dragon",
+        "anio": 2010,
+        "metascore": 75,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Raiders of the Lost Ark",
+        "anio": 1981,
+        "metascore": 86,
+        "userscore": 8.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Bronx Tale",
+        "anio": 1993,
+        "metascore": 80,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Guardians of the Galaxy",
+        "anio": 2014,
+        "metascore": 76,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "About Time",
+        "anio": 2013,
+        "metascore": 55,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "V for Vendetta",
+        "anio": 2006,
+        "metascore": 62,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dragon Ball Super: Super Hero",
+        "anio": 2022,
+        "metascore": 65,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Notebook",
+        "anio": 2004,
+        "metascore": 53,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Pursuit of Happyness",
+        "anio": 2006,
+        "metascore": 64,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Indiana Jones and the Last Crusade",
+        "anio": 1989,
+        "metascore": 65,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Beautiful Mind",
+        "anio": 2001,
+        "metascore": 72,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Isle of Dogs",
+        "anio": 2018,
+        "metascore": 82,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Greatest Showman",
+        "anio": 2017,
+        "metascore": 48,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Nightmare Before Christmas",
+        "anio": 1993,
+        "metascore": 82,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Big Lebowski",
+        "anio": 1998,
+        "metascore": 71,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Dances with Wolves",
+        "anio": 1990,
+        "metascore": 72,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "anio": 2003,
+        "metascore": 63,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Stand by Me",
+        "anio": 1986,
+        "metascore": 76,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Sing 2",
+        "anio": 2021,
+        "metascore": 49,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Fistful of Dollars",
+        "anio": 1967,
+        "metascore": 65,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Mitchells vs. the Machines",
+        "anio": 2021,
+        "metascore": 81,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Theory of Everything",
+        "anio": 2014,
+        "metascore": 71,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Best Offer",
+        "anio": 2014,
+        "metascore": 49,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Love, Rosie",
+        "anio": 2015,
+        "metascore": 44,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "I Saw the Devil",
+        "anio": 2011,
+        "metascore": 67,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Perks of Being a Wallflower",
+        "anio": 2012,
+        "metascore": 67,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Goblet of Fire",
+        "anio": 2005,
+        "metascore": 81,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Monty Python and the Holy Grail",
+        "anio": 1975,
+        "metascore": 91,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Dark Knight Rises",
+        "anio": 2012,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Into the Wild",
+        "anio": 2007,
+        "metascore": 73,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Scent of a Woman",
+        "anio": 1992,
+        "metascore": 57,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Raya and the Last Dragon",
+        "anio": 2021,
+        "metascore": 74,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wind Rises",
+        "anio": 2013,
+        "metascore": 83,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Back to the Future Part II",
+        "anio": 1989,
+        "metascore": 57,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ip Man",
+        "anio": 2010,
+        "metascore": 59,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Hateful Eight",
+        "anio": 2015,
+        "metascore": 68,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Untouchables",
+        "anio": 1987,
+        "metascore": 79,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Train to Busan",
+        "anio": 2016,
+        "metascore": 73,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Whale",
+        "anio": 2022,
+        "metascore": 60,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "How to Train Your Dragon: The Hidden World",
+        "anio": 2019,
+        "metascore": 71,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Exorcist",
+        "anio": 1973,
+        "metascore": 83,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rain Man",
+        "anio": 1988,
+        "metascore": 65,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A ManCalled Otto",
+        "anio": 2022,
+        "metascore": 51,
+        "userscore": 6.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Walk to Remember",
+        "anio": 2002,
+        "metascore": 35,
+        "userscore": 6.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Big Fish",
+        "anio": 2003,
+        "metascore": 58,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "All Quiet on the Western Front",
+        "anio": 2022,
+        "metascore": 76,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The King's Speech",
+        "anio": 2010,
+        "metascore": 88,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Sound of Music",
+        "anio": 1965,
+        "metascore": 63,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Incredibles",
+        "anio": 2004,
+        "metascore": 90,
+        "userscore": 8.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Guy Ritchie's The Covenant",
+        "anio": 2023,
+        "metascore": 63,
+        "userscore": 7.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Breakfast Club",
+        "anio": 1985,
+        "metascore": 66,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spirit: Stallion of the Cimarron",
+        "anio": 2002,
+        "metascore": 52,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Blues Brothers",
+        "anio": 1980,
+        "metascore": 60,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Martian",
+        "anio": 2015,
+        "metascore": 80,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Princess Bride",
+        "anio": 1987,
+        "metascore": 78,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Chamber of Secrets",
+        "anio": 2002,
+        "metascore": 63,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Gorge",
+        "anio": 2025,
+        "metascore": 57,
+        "userscore": 6.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Terminator",
+        "anio": 1984,
+        "metascore": 84,
+        "userscore": 8.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "How to Train Your Dragon 2",
+        "anio": 2014,
+        "metascore": 77,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Half-Blood Prince",
+        "anio": 2009,
+        "metascore": 78,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Batman",
+        "anio": 2022,
+        "metascore": 72,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Harry Potter and the Order of the Phoenix",
+        "anio": 2007,
+        "metascore": 71,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Remember the Titans",
+        "anio": 2000,
+        "metascore": 48,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Gentlemen",
+        "anio": 2020,
+        "metascore": 51,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Blind Side",
+        "anio": 2009,
+        "metascore": 53,
+        "userscore": 7.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Planet of the Apes",
+        "anio": 1968,
+        "metascore": 79,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Captain America: The Winter Soldier",
+        "anio": 2014,
+        "metascore": 70,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Trial of the Chicago 7",
+        "anio": 2020,
+        "metascore": 76,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kubo and the Two Strings",
+        "anio": 2016,
+        "metascore": 84,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Avatar: Fire and Ash",
+        "anio": 2025,
+        "metascore": 61,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Edge of Tomorrow",
+        "anio": 2014,
+        "metascore": 71,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Dog's Purpose",
+        "anio": 2017,
+        "metascore": 43,
+        "userscore": 6.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "All the Bright Places",
+        "anio": 2020,
+        "metascore": 61,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Longest Ride",
+        "anio": 2015,
+        "metascore": 33,
+        "userscore": 5.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Groundhog Day",
+        "anio": 1993,
+        "metascore": 72,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Memoirs of a Geisha",
+        "anio": 2005,
+        "metascore": 54,
+        "userscore": 7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Little Prince",
+        "anio": 2016,
+        "metascore": 70,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Graduate",
+        "anio": 1967,
+        "metascore": 83,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Children of Men",
+        "anio": 2006,
+        "metascore": 84,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Others",
+        "anio": 2001,
+        "metascore": 74,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Kingsman: The Secret Service",
+        "anio": 2015,
+        "metascore": 60,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Last Samurai",
+        "anio": 2003,
+        "metascore": 55,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Guardians of the Galaxy Vol. 2",
+        "anio": 2017,
+        "metascore": 67,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Curious Case of Benjamin Button",
+        "anio": 2008,
+        "metascore": 70,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "10 Things I Hate About You",
+        "anio": 1999,
+        "metascore": 70,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Sonic the Hedgehog 3",
+        "anio": 2024,
+        "metascore": 56,
+        "userscore": 8.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Kissing Booth 2",
+        "anio": 2020,
+        "metascore": 39,
+        "userscore": 3.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Fifth Element",
+        "anio": 1997,
+        "metascore": 52,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "To All the Boys I've Loved Before",
+        "anio": 2018,
+        "metascore": 64,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Super Mario Bros. Movie",
+        "anio": 2023,
+        "metascore": 46,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Fault in Our Stars",
+        "anio": 2014,
+        "metascore": 69,
+        "userscore": 7.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ready Player One",
+        "anio": 2018,
+        "metascore": 64,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Avatar: The Way of Water",
+        "anio": 2022,
+        "metascore": 67,
+        "userscore": 7.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wizard of Oz",
+        "anio": 1939,
+        "metascore": 92,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Game",
+        "anio": 1997,
+        "metascore": 63,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Hobbit: The Desolation of Smaug",
+        "anio": 2013,
+        "metascore": 66,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Butterfly Effect",
+        "anio": 2004,
+        "metascore": 30,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Wrath of Man",
+        "anio": 2021,
+        "metascore": 57,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Emperor's New Groove",
+        "anio": 2000,
+        "metascore": 70,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Few GoodMen",
+        "anio": 1992,
+        "metascore": 62,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "I Origins",
+        "anio": 2014,
+        "metascore": 57,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Ferris Bueller's Day Off",
+        "anio": 1986,
+        "metascore": 61,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Girl, Interrupted",
+        "anio": 1999,
+        "metascore": 51,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Lost Highway",
+        "anio": 1997,
+        "metascore": 53,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Conjuring",
+        "anio": 2013,
+        "metascore": 68,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Shaun of the Dead",
+        "anio": 2004,
+        "metascore": 76,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Spies in Disguise",
+        "anio": 2019,
+        "metascore": 54,
+        "userscore": 6.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Revenant",
+        "anio": 2015,
+        "metascore": 76,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "What We Do in the Shadows",
+        "anio": 2015,
+        "metascore": 76,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Let the Right One In",
+        "anio": 2008,
+        "metascore": 82,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Book of Life",
+        "anio": 2014,
+        "metascore": 67,
+        "userscore": 7.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Passion of the Christ",
+        "anio": 2004,
+        "metascore": 47,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "X-Men: Days of Future Past",
+        "anio": 2014,
+        "metascore": 75,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Girl with the Dragon Tattoo",
+        "anio": 2011,
+        "metascore": 71,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wrestler",
+        "anio": 2008,
+        "metascore": 80,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Danish Girl",
+        "anio": 2015,
+        "metascore": 66,
+        "userscore": 6.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Training Day",
+        "anio": 2001,
+        "metascore": 71,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Crow",
+        "anio": 1994,
+        "metascore": 72,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "We Need to Talk About Kevin",
+        "anio": 2011,
+        "metascore": 68,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Tomorrow War",
+        "anio": 2021,
+        "metascore": 45,
+        "userscore": 6.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "First Blood",
+        "anio": 1982,
+        "metascore": 61,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "E.T. the Extra-Terrestrial",
+        "anio": 1982,
+        "metascore": 92,
+        "userscore": 8.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Machinist",
+        "anio": 2004,
+        "metascore": 61,
+        "userscore": 7.5,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Rogue One: A Star Wars Story",
+        "anio": 2016,
+        "metascore": 65,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Goonies",
+        "anio": 1985,
+        "metascore": 62,
+        "userscore": 7.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Midnight in Paris",
+        "anio": 2011,
+        "metascore": 81,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Birds",
+        "anio": 1963,
+        "metascore": 90,
+        "userscore": 8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Anatomy of a Fall",
+        "anio": 2023,
+        "metascore": 86,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Great Beauty",
+        "anio": 2013,
+        "metascore": 86,
+        "userscore": 8.1,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Call of the Wild",
+        "anio": 2020,
+        "metascore": 48,
+        "userscore": 6.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Black Phone",
+        "anio": 2022,
+        "metascore": 65,
+        "userscore": 7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "In Bruges",
+        "anio": 2008,
+        "metascore": 67,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Walk the Line",
+        "anio": 2005,
+        "metascore": 72,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Name of the Rose",
+        "anio": 1986,
+        "metascore": 54,
+        "userscore": 7.7,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Fugitive",
+        "anio": 1993,
+        "metascore": 87,
+        "userscore": 8.3,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Back to the Future Part III",
+        "anio": 1990,
+        "metascore": 55,
+        "userscore": 7.8,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Book Thief",
+        "anio": 2013,
+        "metascore": 53,
+        "userscore": 7.2,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "Deadpool 2",
+        "anio": 2018,
+        "metascore": 66,
+        "userscore": 7.6,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "A Star Is Born",
+        "anio": 2018,
+        "metascore": 88,
+        "userscore": 8.4,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Wave",
+        "anio": 2026,
+        "metascore": 52,
+        "userscore": 0,
+        "director": [],
+        "actores": []
+    },
+    {
+        "titulo": "The Bourne Identity",
+        "anio": 2002,
+        "metascore": 68,
+        "userscore": 7.9,
+        "director": [],
+        "actores": []
+    }
+]
