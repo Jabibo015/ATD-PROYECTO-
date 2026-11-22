@@ -1,0 +1,639 @@
+# Web Scraping para videojuegos de IMDB
+"""
+@author: aymrl
+"""
+
+import json
+import time
+from datetime import datetime
+import undetected_chromedriver as uc  # pip install undetected-chromedriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
+Titulos = [
+    ('The Legend of Zelda: Ocarina of Time', '1998'),
+    ('SoulCalibur', '1999'),
+    ('Super Mario Galaxy 2', '2010'),
+    ('Grand Theft Auto IV', '2008'),
+    ('Super Mario Galaxy', '2007'),
+    ('Grand Theft Auto V', '2013'),
+    ('The Legend of Zelda: Breath of the Wild', '2017'),
+    ("Tony Hawk's Pro Skater 3", '2001'),
+    ('Perfect Dark', '2000'),
+    ('Red Dead Redemption 2', '2018'),
+    ('Metroid Prime', '2002'),
+    ('Grand Theft Auto III', '2001'),
+    ('Super Mario Odyssey', '2017'),
+    ('Halo: Combat Evolved', '2001'),
+    ('NFL 2K1', '2000'),
+    ('Half-Life 2', '2004'),
+    ('BioShock', '2007'),
+    ('GoldenEye 007', '1997'),
+    ('Uncharted 2: Among Thieves', '2009'),
+    ('Resident Evil 4', '2005'),
+    ("Baldur's Gate 3", '2023'),
+    ('The Orange Box', '2007'),
+    ('Tekken 3', '1998'),
+    ('Mass Effect 2', '2010'),
+    ('The House in Fata Morgana - Dreams of the Revenants Edition -', '2021'),
+    ('Elden Ring', '2022'),
+    ('The Elder Scrolls V: Skyrim', '2011'),
+    ('Half-Life', '1998'),
+    ('The Legend of Zelda: Tears of the Kingdom', '2023'),
+    ('The Legend of Zelda: The Wind Waker', '2003'),
+    ('Gran Turismo', '1998'),
+    ('The Legend of Zelda: Ocarina of Time', '2026'),
+    ('Metal Gear Solid 2: Sons of Liberty', '2001'),
+    ('Grand Theft Auto Double Pack', '2003'),
+    ('Portal: Companion Collection', '2022'),
+    ("Baldur's Gate II: Shadows of Amn", '2000'),
+    ('Grand Theft Auto: San Andreas', '2004'),
+    ('The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition', '2025'),
+    ('Grand Theft Auto: Vice City', '2002'),
+    ('LittleBigPlanet', '2008'),
+    ("The Legend of Zelda Collector's Edition", '2003'),
+    ('Halo 2', '2004'),
+    ('Gran Turismo 3: A-Spec', '2001'),
+    ('The Legend of Zelda: A Link to the Past / Four Swords', '2002'),
+    ("The Legend of Zelda: Majora's Mask", '2000'),
+    ('The Last of Us', '2013'),
+    ('The Legend of Zelda: Twilight Princess', '2006'),
+    ('Madden NFL 2003', '2002'),
+    ('Hades II', '2025'),
+    ('Persona 5 Royal', '2020'),
+    ('The Last of Us Remastered', '2014'),
+    ('Red Dead Redemption', '2010'),
+    ('Portal 2', '2011'),
+    ('The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition', '2025'),
+    ('Astro Bot', '2024'),
+    ('Final Fantasy IX', '2000'),
+    ('God of War', '2018'),
+    ("Tony Hawk's Pro Skater 4", '2002'),
+    ('Elden Ring: Shadow of the Erdtree', '2024'),
+    ('Devil May Cry', '2001'),
+    ('Madden NFL 2002', '2001'),
+    ('Batman: Arkham City', '2011'),
+    ('Metroid Prime Remastered', '2023'),
+    ('The Legend of Zelda: Ocarina of Time 3D', '2011'),
+    ('Chrono Cross', '2000'),
+    ('Madden NFL 2004', '2003'),
+    ('Gears of War', '2006'),
+    ('The Elder Scrolls IV: Oblivion', '2006'),
+    ("Sid Meier's Civilization II", '1996'),
+    ('Quake', '1996'),
+    ('Metaphor: ReFantazio', '2024'),
+    ('Call of Duty 4: Modern Warfare', '2007'),
+    ('BioShock Infinite', '2013'),
+    ('Halo 3', '2007'),
+    ('Ninja Gaiden Black', '2005'),
+    ('Metal Gear Solid', '1998'),
+    ('Grim Fandango', '1998'),
+    ('Jet Set Radio', '2000'),
+    ('Super Mario Advance 4: Super Mario Bros. 3', '2003'),
+    ("Tom Clancy's Splinter Cell: Chaos Theory", '2005'),
+    ('God of War: Ragnarok', '2022'),
+    ('Resident Evil Code: Veronica', '2000'),
+    ('Burnout 3: Takedown', '2004'),
+    ('Diablo', '1996'),
+    ('Metal Gear Solid 3: Subsistence', '2006'),
+    ('Call of Duty: Modern Warfare 2', '2009'),
+    ('Metal Gear Solid 4: Guns of the Patriots', '2008'),
+    ('God of War', '2005'),
+    ('Star Wars: Knights of the Old Republic', '2003'),
+    ("Sid Meier's Civilization IV", '2005'),
+    ('Super Mario 64', '1996'),
+    ('Virtua Fighter 4', '2002'),
+    ('Super Smash Bros. Brawl', '2008'),
+    ('Company of Heroes', '2006'),
+    ('Gran Turismo 2', '1999'),
+    ('The Last of Us Part II', '2020'),
+    ("Tom Clancy's Splinter Cell: Pandora Tomorrow", '2004'),
+    ('Grand Theft Auto: Chinatown Wars', '2009'),
+    ('Pac-Man Championship Edition DX', '2010'),
+    ('Half-Life: Alyx', '2020'),
+    ('Divinity: Original Sin II', '2017'),
+    ('Unreal Tournament 2004', '2004'),
+    ('Braid', '2008'),
+    ('God of War II', '2007'),
+    ('Super Mario 3D World', '2013'),
+    ('Starcraft II: Wings of Liberty', '2010'),
+    ('SSX', '2000'),
+    ('Street Fighter IV', '2009'),
+    ('Minecraft', '2011'),
+    ('Persona 4 Golden', '2012'),
+    ('Persona 5', '2017'),
+    ('SSX 3', '2003'),
+    ('Homeworld', '1999'),
+    ('Quake III Arena', '2000'),
+    ("Tom Clancy's Splinter Cell", '2002'),
+    ('Okami', '2006'),
+    ('Fallout 3', '2008'),
+    ('Gears of War 2', '2008'),
+    ('SoulCalibur II', '2003'),
+    ('Pro Evolution Soccer 2', '2003'),
+    ('Mass Effect 3', '2012'),
+    ('Metal Gear Solid V: The Phantom Pain', '2015'),
+    ('Skies of Arcadia', '2000'),
+    ('The Legend of Zelda: Skyward Sword', '2011'),
+    ('Mario Kart: Super Circuit', '2001'),
+    ('Rock Band 3', '2010'),
+    ('NBA 2K1', '2000'),
+    ('Viewtiful Joe', '2003'),
+    ('Hades', '2020'),
+    ('Resident Evil 4', '2023'),
+    ('Virtua Fighter 4: Evolution', '2003'),
+    ("Uncharted 4: A Thief's End", '2016'),
+    ('Super Smash Bros. Ultimate', '2018'),
+    ('Resident Evil 2: Deluxe Edition', '2026'),
+    ('Paper Mario', '2001'),
+    ('Wipeout XL', '1996'),
+    ('INSIDE', '2016'),
+    ('World of Warcraft', '2004'),
+    ('World Soccer Winning Eleven 7 International', '2004'),
+    ('Flipnote Studio', '2009'),
+    ('The Witcher 3: Wild Hunt - Remastered', '2026'),
+    ('Clair Obscur: Expedition 33', '2025'),
+    ('Forza Horizon 4', '2018'),
+    ('God of War III', '2010'),
+    ('NFL 2K3', '2002'),
+    ('SSX Tricky', '2001'),
+    ('NHL 2002', '2001'),
+    ('Prince of Persia: The Sands of Time', '2003'),
+    ("Uncharted 3: Drake's Deception", '2011'),
+    ('Final Fantasy VII Rebirth', '2024'),
+    ('Rock Band', '2007'),
+    ('Super Mario Bros. Wonder', '2023'),
+    ('Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed', '2023'),
+    ('Bloodborne', '2015'),
+    ("Eternal Darkness: Sanity's Requiem", '2002'),
+    ('Warcraft III: Reign of Chaos', '2002'),
+    ('The Sims', '2000'),
+    ('Banjo-Kazooie', '1998'),
+    ("Sid Meier's Gettysburg!", '1997'),
+    ('Celeste', '2018'),
+    ('Forza Motorsport', '2005'),
+    ('Forza Horizon 5', '2021'),
+    ('Advance Wars', '2001'),
+    ('Vagrant Story', '2000'),
+    ('Blue Prince', '2025'),
+    ('Sektori', '2026'),
+    ('Team Fortress 2', '2007'),
+    ('System Shock 2', '1999'),
+    ('Final Fantasy XII', '2006'),
+    ('The Witcher 3: Wild Hunt', '2015'),
+    ('Super Mario World: Super Mario Advance 2', '2002'),
+    ('ESPN NFL 2K5', '2004'),
+    ('Super Smash Bros. Melee', '2001'),
+    ('Street Fighter 6', '2023'),
+    ('Virtua Tennis', '2000'),
+    ('Rome: Total War', '2004'),
+    ('Forza Motorsport 3', '2009'),
+    ("Demon's Souls", '2020'),
+    ('Undertale', '2015'),
+    ('Batman: Arkham Asylum', '2009'),
+    ('Super Mario Sunshine', '2002'),
+    ("Tony Hawk's Pro Skater", '1999'),
+    ('Thief: The Dark Project', '1998'),
+    ('Fire Emblem: Awakening', '2013'),
+    ('Age of Empires II: The Age of Kings', '1999'),
+    ('Final Fantasy X', '2001'),
+    ('Wave Race 64', '1996'),
+    ("Sid Meier's Alpha Centauri", '1999'),
+    ('Divinity: Original Sin II - Definitive Edition', '2018'),
+    ('Galactic Civilizations II: Twilight of the Arnor', '2008'),
+    ('Super Smash Bros. for Nintendo 3DS / Wii U', '2014'),
+    ('Guitar Hero II', '2006'),
+    ('Final Fantasy VII', '1997'),
+    ('Chrono Trigger', '2008'),
+    ('Final Fantasy XIV: Endwalker', '2021'),
+    ('Journey', '2012'),
+    ("Conker's Bad Fur Day", '2001'),
+    ('Medal of Honor', '1999'),
+    ('Rock Band 2', '2008'),
+    ('Mario Kart 8 Deluxe', '2017'),
+    ('The ICO & Shadow of the Colossus Collection', '2011'),
+    ('Metroid Prime 2: Echoes', '2004'),
+    ('Out of the Park Baseball 17', '2016'),
+    ('Metroid Fusion', '2002'),
+    ('The Witcher 3: Wild Hunt - Blood and Wine', '2016'),
+    ('Final Fantasy VI', '2007'),
+    ('Rayman Legends', '2013'),
+    ('UFO 50', '2024'),
+    ('Madden NFL 2005', '2004'),
+    ('Against the Storm', '2023'),
+    ('Medal of Honor: Allied Assault', '2002'),
+    ('Myth: The Fallen Lords', '1997'),
+    ('LittleBigPlanet 2', '2011'),
+    ('Microsoft Flight Simulator', '2020'),
+    ('Guitar Hero', '2005'),
+    ('Slay The Princess - The Pristine Cut', '2024'),
+    ('World of Warcraft: Wrath of the Lich King', '2008'),
+    ('Metroid Prime Trilogy', '2009'),
+    ('I Was a Teenage Exocolonist', '2022'),
+    ('Madden NFL 2001', '2000'),
+    ("Baldur's Gate", '1998'),
+    ('Overwatch', '2016'),
+    ('Bayonetta 2', '2014'),
+    ('Big Walk', '2026'),
+    ("Klonoa 2: Lunatea's Veil", '2001'),
+    ('Mario Tennis', '2000'),
+    ('IL-2 Sturmovik', '2001'),
+    ('Colony Wars', '1997'),
+    ('FreeSpace 2', '1999'),
+    ('Ratchet & Clank: Up Your Arsenal', '2004'),
+    ('Resident Evil (Remake)', '2002'),
+    ('Metal Gear Solid 3: Snake Eater', '2004'),
+    ('Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition', '2019'),
+    ('Twisted Metal: Black', '2001'),
+    ('Spyro: Year of the Dragon', '2000'),
+    ('Tomb Raider', '1996'),
+    ('Forza Horizon 3', '2016'),
+    ('The Legend of Zelda: Ocarina of Time / Master Quest', '2003'),
+    ('NCAA Football 2003', '2002'),
+    ('Dwarf Fortress', '2006'),
+    ('Kentucky Route Zero - Act III', '2014'),
+    ('Crysis', '2007'),
+    ('Ninja Gaiden', '2004'),
+    ('God of War: Chains of Olympus', '2008'),
+    ('DOA2: Hardcore', '2000'),
+    ('World of Warcraft: The Burning Crusade', '2007'),
+    ('MLB 10: The Show', '2010'),
+    ('Shadow of the Colossus', '2018'),
+    ("Yoshi's Island: Super Mario Advance 3", '2002'),
+    ('The Longest Journey', '2000'),
+    ('Star Wars Jedi Knight: Dark Forces II', '1997'),
+    ("Tony Hawk's Pro Skater 2", '2000'),
+    ('ESPN NFL Football', '2003'),
+    ('Killzone 2', '2009'),
+    ('Halo: Reach', '2010'),
+    ('Galactic Civilizations II: Dark Avatar', '2007'),
+    ('Mass Effect', '2007'),
+    ('The Operative: No One Lives Forever', '2000'),
+    ('Resident Evil 3: Nemesis', '1999'),
+    ('Forza Motorsport 4', '2011'),
+    ('Resident Evil', '1996'),
+    ('Crusader Kings III', '2020'),
+    ('Split Fiction', '2025'),
+    ('Battlefield 2', '2005'),
+    ('God of War Collection', '2009'),
+    ('Planescape: Torment', '1999'),
+    ('Gears of War 3', '2011'),
+    ('Neverwinter Nights', '2002'),
+    ("No One Lives Forever 2: A Spy in H.A.R.M.'s Way", '2002'),
+    ('Castlevania: Aria of Sorrow', '2003'),
+    ('Legacy of Kain: Soul Reaver', '1999'),
+    ('Golden Sun', '2001'),
+    ('DOOM: The Dark Ages - Revelations', '2026'),
+    ('Disco Elysium', '2019'),
+    ('World Soccer Winning Eleven 8 International', '2005'),
+    ('The Legend of Zelda: A Link Between Worlds', '2013'),
+    ('NieR: Automata - Game of the YoRHa Edition', '2019'),
+    ('Castlevania: Circle of the Moon', '2001'),
+    ('Resident Evil 2', '2019'),
+    ('Donkey Kong Bananza', '2025'),
+    ('Satisfactory', '2024'),
+    ('Caves of Qud', '2024'),
+    ('Dark Souls II', '2014'),
+    ('Shovel Knight: Treasure Trove', '2017'),
+    ('Mario Golf', '1999'),
+    ('Crash Bandicoot: Warped', '1998'),
+    ('Mario Kart DS', '2005'),
+    ('Call of Duty', '2003'),
+    ("Assassin's Creed II", '2009'),
+    ('Animal Well', '2024'),
+    ('Balatro', '2024'),
+    ('Project Gotham Racing 2', '2003'),
+    ('Animal Crossing: New Horizons', '2020'),
+    ('The Sims 2', '2004'),
+    ('Final Fantasy XIV: Shadowbringers', '2019'),
+    ('Forza Horizon 6', '2026'),
+    ('World of Warcraft: Cataclysm', '2010'),
+    ('Bayonetta', '2010'),
+    ('Diablo III: Ultimate Evil Edition', '2014'),
+    ('ICO', '2001'),
+    ("Tom Clancy's Ghost Recon Advanced Warfighter", '2006'),
+    ('World of Goo', '2008'),
+    ('Mario & Luigi: Superstar Saga', '2003'),
+    ('Hollow Knight: Silksong', '2025'),
+    ('Slay the Princess', '2023'),
+    ('Marvel vs. Capcom 2', '2000'),
+    ('Syphon Filter', '1999'),
+    ('Ape Escape', '1999'),
+    ("Tony Hawk's Underground", '2003'),
+    ("Mario & Luigi: Bowser's Inside Story", '2009'),
+    ('Trials Evolution', '2012'),
+    ('Grand Theft Auto IV: The Lost and Damned', '2009'),
+    ('FIFA Soccer 12', '2011'),
+    ('Factorio', '2020'),
+    ('Black & White', '2001'),
+    ('NBA Street Vol. 2', '2003'),
+    ('Ratchet & Clank: Going Commando', '2003'),
+    ('FIFA Soccer 10', '2009'),
+    ('The Legend of Zelda: The Wind Waker HD', '2013'),
+    ('Portal', '2007'),
+    ('The Legend of Zelda: Phantom Hourglass', '2007'),
+    ('Dance Dance Revolution', '2001'),
+    ('NHL 2001', '2000'),
+    ('Jack Jeanne', '2023'),
+    ('Advance Wars: Dual Strike', '2005'),
+    ("Marvel's Spider-Man 2", '2023'),
+    ('MLB 11: The Show', '2011'),
+    ('NieR: Automata - Become as Gods Edition', '2018'),
+    ('Mina the Hollower', '2026'),
+    ('Jak and Daxter: The Precursor Legacy', '2001'),
+    ('Star Wars Rogue Leader: Rogue Squadron II', '2001'),
+    ('Deus Ex', '2000'),
+    ('Donkey Kong 64', '1999'),
+    ('NCAA Football 2002', '2001'),
+    ('Tsukihime: A Piece of Blue Glass Moon', '2024'),
+    ("Stephen's Sausage Roll", '2016'),
+    ('Panzer Dragoon Orta', '2003'),
+    ('Portal: Still Alive', '2008'),
+    ('Half-Life 2: Episode Two', '2007'),
+    ('Elden Ring: Tarnished Edition', '2026'),
+    ('Shin Megami Tensei: Persona 4', '2008'),
+    ('Hollow Knight', '2018'),
+    ('MLB 09: The Show', '2009'),
+    ('Blast Corps', '1997'),
+    ('Ori and the Will of the Wisps', '2020'),
+    ('Trails in the Sky 2nd Chapter', '2026'),
+    ("Sid Meier's Civilization III", '2001'),
+    ('WWF SmackDown! 2: Know Your Role', '2000'),
+    ('MVP Baseball 2004', '2004'),
+    ('VIDEOVERSE', '2023'),
+    ('The Last of Us Part II Remastered', '2024'),
+    ('DAVE THE DIVER', '2023'),
+    ('LIMBO', '2010'),
+    ('Silent Hunter III', '2005'),
+    ('Mark of the Ninja', '2012'),
+    ('Chained Echoes', '2022'),
+    ('Super Meat Boy', '2010'),
+    ('Dead Space 2', '2011'),
+    ('Pikmin 2', '2004'),
+    ('Okami HD', '2012'),
+    ('Geometry Wars: Retro Evolved 2', '2008'),
+    ("Sid Meier's Civilization V", '2010'),
+    ('Super Mario 3D Land', '2011'),
+    ('Mario Kart 8 DLC Pack 2', '2015'),
+    ('Falcon 4.0: Allied Force', '2005'),
+    ('The Stanley Parable: Ultra Deluxe', '2022'),
+    ('Metroid Prime 3: Corruption', '2007'),
+    ('Flight Simulator 2002', '2001'),
+    ('Monster Hunter: World', '2018'),
+    ('Dota 2', '2013'),
+    ('TimeSplitters 2', '2002'),
+    ('Guild Wars 2', '2012'),
+    ('Forza Motorsport 2', '2007'),
+    ('Pushmo', '2011'),
+    ('Freedom Force', '2002'),
+    ('FIFA Soccer 13', '2012'),
+    ('and Roger', '2026'),
+    ('Into the Breach', '2018'),
+    ('Chicory: A Colorful Tale', '2021'),
+    ('Tekken 8', '2024'),
+    ('Sekiro: Shadows Die Twice', '2019'),
+    ('GTR 2', '2006'),
+    ('Total War: Shogun 2', '2011'),
+    ('Empire: Total War', '2009'),
+    ('Beetle Adventure Racing', '1999'),
+    ('Final Fantasy VIII', '1999'),
+    ('NBA 2K12', '2011'),
+    ('Kentucky Route Zero - Act IV', '2016'),
+    ('Astro Bot Rescue Mission', '2018'),
+    ('Bayonetta + Bayonetta 2', '2018'),
+    ('Command & Conquer: Red Alert', '1996'),
+    ('The Witcher 3: Wild Hunt - Hearts of Stone', '2015'),
+    ('Star Wars Jedi Knight II: Jedi Outcast', '2002'),
+    ('Halo 2 Multiplayer Map Pack', '2005'),
+    ('Wipeout HD Fury', '2009'),
+    ('Borderlands 2', '2012'),
+    ('Shin Megami Tensei: Persona 3 Portable', '2010'),
+    ("Schrodinger's Call", '2026'),
+    ('Neon White', '2022'),
+    ('Xenoblade Chronicles: Definitive Edition', '2020'),
+    ('Call of Duty 2', '2005'),
+    ('Burnout Revenge', '2005'),
+    ('Dragon Quest VIII: Journey of the Cursed King', '2005'),
+    ('Metroid: Zero Mission', '2004'),
+    ("The Legend of Zelda: Majora's Mask 3D", '2015'),
+    ('Sacrifice', '2000'),
+    ('Pikmin', '2001'),
+    ('Wipeout 3', '1999'),
+    ('Age of Mythology', '2002'),
+    ('Tiger Woods PGA Tour 2004', '2003'),
+    ('The Walking Dead: A Telltale Games Series', '2012'),
+    ('Final Fantasy VII Remake Intergrade', '2026'),
+    ('Monster Hunter: World - Iceborne', '2019'),
+    ('Dead Cells', '2018'),
+    ('Resident Evil 4: Gold Edition', '2026'),
+    ('Rhythm Doctor', '2025'),
+    ('despelote', '2025'),
+    ('Rez', '2008'),
+    ("Demon's Souls", '2009'),
+    ('Pillars of Eternity', '2015'),
+    ('Castlevania: Symphony of the Night', '2007'),
+    ('Fable II', '2008'),
+    ('Rez Infinite', '2016'),
+    ('NHL 2K3', '2002'),
+    ('Final Fantasy Chronicles', '2001'),
+    ('Fallout', '1997'),
+    ('Valheim', '2026'),
+    ('The Talos Principle: Reawakened', '2025'),
+    ('Pizza Tower', '2023'),
+    ("Assassin's Creed: Brotherhood", '2010'),
+    ('Left 4 Dead 2', '2009'),
+    ('Worldwide Soccer Manager 2005', '2004'),
+    ('Left 4 Dead', '2008'),
+    ('Slay the Spire', '2019'),
+    ('Titanfall 2', '2016'),
+    ('Dark Souls III', '2016'),
+    ('NASCAR Racing 2002 Season', '2002'),
+    ('Phantasy Star Online', '2001'),
+    ('NBA 2K3', '2002'),
+    ('Jade Empire', '2005'),
+    ('Gunstar Heroes', '2015'),
+    ('Tekken 2', '1996'),
+    ('Xenoblade Chronicles 3', '2022'),
+    ('F-Zero GX', '2003'),
+    ("Super Mario 3D World + Bowser's Fury", '2021'),
+    ('Dark Souls', '2011'),
+    ('Pokemon Pokopia', '2026'),
+    ('NBA Street V3', '2005'),
+    ('Need for Speed: Hot Pursuit 2', '2002'),
+    ('Grand Theft Auto IV: The Ballad of Gay Tony', '2009'),
+    ('Kynseed', '2022'),
+    ("Thank Goodness You're Here!", '2024'),
+    ('The Legend of Zelda: The Minish Cap', '2005'),
+    ('Homeworld: Cataclysm', '2000'),
+    ('Combat Mission: Barbarossa to Berlin', '2002'),
+    ('NCAA Football 2004', '2003'),
+    ('Cyberpunk 2077: Phantom Liberty', '2023'),
+    ('Tetris Effect', '2018'),
+    ('Fez', '2012'),
+    ('Dead Space', '2023'),
+    ('Cave Story', '2010'),
+    ('Guild Wars', '2005'),
+    ('The Walking Dead: Episode 5 - No Time Left', '2012'),
+    ('The Seance of Blake Manor', '2025'),
+    ('Atari 50: The Anniversary Celebration', '2022'),
+    ("Fire Emblem: Fortune's Weave", '2026'),
+    ('World Soccer Winning Eleven 9', '2006'),
+    ('Ace Combat 04: Shattered Skies', '2001'),
+    ('Max Payne', '2001'),
+    ('Football Manager Handheld', ''),
+    ('Hollow Knight: Voidheart Edition', '2018'),
+    ('Streets of Rage 2', '2015'),
+    ('Out of the Park Baseball 15', '2014'),
+    ('Fire Emblem: Three Houses', '2019'),
+    ('World in Conflict', '2007'),
+    ('NieR: Automata - The End of YoRHa Edition', '2022'),
+    ('Quake II - Enhanced Edition', '2023'),
+    ('Resident Evil Requiem', '2026'),
+    ('Castlevania: Dawn of Sorrow', '2005'),
+    ('Destiny 2: The Final Shape', '2024'),
+    ('NASCAR Racing 4', '2001'),
+    ('Death Stranding 2: On The Beach', '2025'),
+    ('Far Cry', '2004'),
+    ('Horizon Forbidden West: Complete Edition', '2024'),
+    ('Nuclear Throne', '2015'),
+    ('Dead Space', '2008'),
+    ('Like a Dragon: Infinite Wealth', '2024'),
+    ('Cuphead in the Delicious Last Course', '2022'),
+    ('Desktop Explorer', '2026'),
+    ('Lone Echo', '2017'),
+    ('XCOM: Enemy Unknown', '2012'),
+    ('Rise of Nations', '2003'),
+    ('Descent 3', '1999'),
+    ('World Series Baseball 2K3', '2003'),
+    ('NASCAR Racing 2003 Season', '2003'),
+    ('The Curse of Monkey Island', '1997'),
+    ('Shin Megami Tensei: Persona 3 FES', '2008'),
+    ('Apex Legends', '2019'),
+    ('NORCO', '2022'),
+    ('Dark Souls: Artorias of the Abyss', '2012'),
+]
+
+ARCHIVO_JSON = "videojuegos_imdb.json"
+PAUSA = 2 
+
+# Cargar el JSON si ya existe de una ejecución anterior pa continuar por donde iba
+try:
+    with open(ARCHIVO_JSON, encoding="utf-8") as f:
+        videojuegos = json.load(f)
+except Exception:
+    videojuegos = []
+
+pendientes = Titulos[len(videojuegos):]
+print(f"{len(pendientes)} videojuegos pendientes ({len(videojuegos)} ya guardados).")
+
+# ---Configuración optimizada para evitar crashes con la versión 157 y anuncios --- BLOQUE INICIO IA
+options = uc.ChromeOptions()
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-extensions")
+options.add_argument("--disable-infobars")
+
+prefs = {
+    "profile.managed_default_content_settings.images": 2,
+    "profile.default_content_setting_values.notifications": 2
+}
+options.add_experimental_option("prefs", prefs)
+#-------------------------BLOQUE FIN IA----------------------------
+
+driver = uc.Chrome(options=options, version_main=157)
+
+try:
+    driver.get("https://www.imdb.com/es/")
+    time.sleep(3)
+
+    #Aceptar cookies 
+    try:
+        selector_cookies = ".icb-btn.sc-bdnyFh.sc-dlniIP.sc-iCoHzw.kTxEXP.jqScCk.kQxsXA"
+        boton_aceptar = WebDriverWait(driver, 6).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, selector_cookies))
+        )
+        boton_aceptar.click()
+        time.sleep(2)
+    except Exception:
+        print("No apareció el banner de cookies o ya fue aceptado.")
+
+    #Recorrer la lista de películas pendientes usando tuplas (titulo, anio)
+    for i, (titulo, anio) in enumerate(pendientes, start=1):
+        registro = {
+            "titulo": titulo, 
+            "valoracion": None, 
+            "generos": [], 
+            "plataformas": [],
+            "tiempo_med_acabar": 0,
+            "tiempo_acabar_focus": 0,
+            "fecha_salida": anio,
+            "compania": None,
+            "fecha_extraccion":datetime.now().isoformat()
+        
+        }
+
+        try:
+            # Búsqueda Título + Año 
+            texto_busqueda = f"{titulo} {anio}".replace("/", " ").replace("?", " ").replace("#", " ")
+            driver.get(f"https://www.imdb.com/es/find/?q={texto_busqueda}&s=tt&ttype=vg&ref_=fn_vg")
+
+            selector_bloque = "li.ipc-metadata-list-summary-item"
+            WebDriverWait(driver, 8).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, selector_bloque))
+            )
+            
+            bloques = driver.find_elements(By.CSS_SELECTOR, selector_bloque)
+            
+            enlace_valido = None
+            
+            # Recorrer los primeros resultados para buscar uno con valoración válida
+            for bloque in bloques[:4]:
+                try:
+                    val_check = bloque.find_element(By.CSS_SELECTOR, "span.ipc-rating-star--rating")
+                    if val_check:
+                        enlace_valido = bloque.find_element(By.CSS_SELECTOR, "a[href*='/title/']")
+                        break
+                except:
+                    continue
+            
+            # Si ninguno tiene nota visible, cogemos primero y null.
+            if not enlace_valido and bloques:
+                enlace_valido = bloques[0].find_element(By.CSS_SELECTOR, "a[href*='/title/']")
+
+            if enlace_valido:
+                # Entrar en la película exacta para sacar la valoración
+                driver.get(enlace_valido.get_attribute("href"))
+                
+                WebDriverWait(driver, 8).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, '[data-testid="hero-rating-bar__aggregate-rating__score"]'))
+                )
+                
+                val_elem = driver.find_element(By.CSS_SELECTOR, '[data-testid="hero-rating-bar__aggregate-rating__score"] span')
+                valoracion_str = val_elem.text.strip().replace(",", ".")
+                
+                if valoracion_str:
+                    registro["valoracion"] = float(valoracion_str)
+                
+                print(f"[{i}/{len(pendientes)}] {titulo} ({anio}) -> {registro['valoracion']}")
+            else:
+                print(f"[{i}/{len(pendientes)}] SIN RESULTADOS para '{titulo} ({anio})'")
+
+        except Exception as e:
+            print(f"[{i}/{len(pendientes)}] ERROR con '{titulo} ({anio})': {e}")
+
+        # Guardar en el JSON 
+        videojuegos.append(registro)
+        with open(ARCHIVO_JSON, "w", encoding="utf-8") as f:
+            json.dump(videojuegos, f, ensure_ascii=False, indent=2)
+
+        time.sleep(PAUSA)
+
+finally:
+    try:
+        driver.quit()
+    except OSError:
+        pass
+
+print("Todo correcto.")
