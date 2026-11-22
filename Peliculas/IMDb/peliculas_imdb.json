@@ -1,0 +1,3002 @@
+[
+  {
+    "titulo": "Harakiri",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Human Condition III: A Soldier’s Prayer",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "12 Angry Men",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Come and See",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "High and Low",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seven Samurai",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Shawshank Redemption",
+    "valoracion": 9.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Godfather Part II",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Human Condition I: No Greater Love",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "City of God",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lord of the Rings: The Return of the King",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Schindler’s List",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yi Yi",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cinema Paradiso",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ikiru",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Good, the Bad and the Ugly",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Parasite",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Godfather",
+    "valoracion": 9.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ran",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Haine",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le Trou",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Autumn Sonata",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Dark Knight",
+    "valoracion": 9.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Human Condition II: Road to Eternity",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Brighter Summer Day",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Grave of the Fireflies",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Neon Genesis Evangelion: The End of Evangelion",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Battle of Algiers",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I Am Cuba",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Cranes Are Flying",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "GoodFellas",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Interstellar",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "There Will Be Blood",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Bola Negra",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Incendies",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Woman in the Dunes",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "It’s a Wonderful Life",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Paths of Glory",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lord of the Rings: The Two Towers",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Andrei Rublev",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sunset Boulevard",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Ascent",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Apocalypse Now",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spirited Away",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Apartment",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Portrait of a Lady on Fire",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tokyo Story",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whiplash",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Memories of Murder",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lawrence of Arabia",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Swing Girls",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Life Is Beautiful",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Witness for the Prosecution",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Passion of Joan of Arc",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nobody Knows",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mishima: A Life in Four Chapters",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Barry Lyndon",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Voice of Hind Rajab",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Farewell My Concubine",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Red Shoes",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Pianist",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Empire Strikes Back",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sansho the Bailiff",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Close-Up",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Club Kid",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spider-Man: Across the Spider-Verse",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Woman Under the Influence",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Separation",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fanny and Alexander",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Princess Mononoke",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Do the Right Thing",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love Exposure",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spider-Man: Into the Spider-Verse",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wildwood",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+    "valoracion": 8.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Good Will Hunting",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Handmaiden",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Once Upon a Time in the West",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nights of Cabiria",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Paper Moon",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "An Elephant Sitting Still",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Se7en",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stalker",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Red Beard",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Z",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Apur Sansar",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dune: Part Two",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Judgment at Nuremberg",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amadeus",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Perfect Blue",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "One Flew Over the Cuckoo’s Nest",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How to Make Millions Before Grandma Dies",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "In the Mood for Love",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Persona",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wages of Fear",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Inglourious Basterds",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Where Is the Friend’s House?",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All About Eve",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Scenes from a Marriage",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Howl’s Moving Castle",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rear Window",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Satantango",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oldboy",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chainsaw Man – The Movie: Reze Arc",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dead Poets Society",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Paris, Texas",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Twin Peaks: Fire Walk with Me",
+    "valoracion": 7.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Central Station",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "It’s Such a Beautiful Day",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sherlock Jr.",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monster",
+    "valoracion": 4.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Departed",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Singin’ in the Rain",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Thing",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Army of Shadows",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Raise the Red Lantern",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Django Unchained",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Prisoners",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Eternity and a Day",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Man Escaped",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All That Jazz",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Still Walking",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Silence of the Lambs",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Special Day",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I’m Still Here",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Odyssey",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Das Boot",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Three Colours: Red",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "To Be or Not to Be",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ordet",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Young Girls of Rochefort",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Heat",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Great Dictator",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Perfect Days",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Celebration",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Elephant Man",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Late Spring",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Taste of Cherry",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rocco and His Brothers",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mommy",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pather Panchali",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wild Strawberries",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Funeral Parade of Roses",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brief Encounter",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shoplifters",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Seventh Seal",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Project Hail Mary",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Landscape in the Mist",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Prestige",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dog Day Afternoon",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "City Lights",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Before Sunset",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Green Mile",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mirror",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Psycho",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wings of Desire",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chinatown",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "No Country for Old Men",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Underground",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fail Safe",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Children of Men",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sing Sing",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Yojimbo",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Father",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Song of the Sea",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Malcolm X",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fantastic Mr. Fox",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tampopo",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Treasure of the Sierra Madre",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Cremator",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Terminator 2: Judgment Day",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Life, and Nothing More...",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Samurai Rebellion",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dersu Uzala",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Werckmeister Harmonies",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Before Sunrise",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lives of Others",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The 400 Blows",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Iron Giant",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Secrets & Lies",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Hunt",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Fall",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Look Back",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Some Like It Hot",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "M",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ritual",
+    "valoracion": 5.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Opening Night",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Casablanca",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cure",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Children of Paradise",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Man Who Shot Liberty Valance",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Bicycle Thieves",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kizumonogatari Part 3: Reiketsu",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Devils",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ace in the Hole",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Sacrifice",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Akira",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sorcerer",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "We All Loved Each Other So Much",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fight Club",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mary and Max",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Chungking Express",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Who’s Afraid of Virginia Woolf?",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kamikaze Girls",
+    "valoracion": 7.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Matter of Life and Death",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Holdovers",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Tale of The Princess Kaguya",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tokyo Godfathers",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Saving Private Ryan",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I Swear",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Notte",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Network",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Throne of Blood",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rififi",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Aparajito",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Sound of Music",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Better Days",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Double Indemnity",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mulholland Drive",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nostalgia",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The First Slam Dunk",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "8½",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Dolce Vita",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "4 Months, 3 Weeks and 2 Days",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Night of the Hunter",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wolfwalkers",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "For a Few Dollars More",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Moment of Innocence",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "WALL·E",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Il Sorpasso",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ugetsu",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Best Years of Our Lives",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Face of Another",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Secret in Their Eyes",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Anatomy of a Murder",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vada Chennai",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Bridge on the River Kwai",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Meiyazhagan",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Quo Vadis, Aida?",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Marcel the Shell with Shoes On",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alien",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Umberto D.",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Inception",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dreams",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Macario",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Capernaum",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Modern Times",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The King of Comedy",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Eternal Sunshine of the Spotless Mind",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Your Name.",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Millennium Actress",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Turtles Can Fly",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Children of Heaven",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amour",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Metropolis",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sweet Smell of Success",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Taxi Driver",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Third Man",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kes",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Grand Budapest Hotel",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Joint Security Area",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Everything Everywhere All at Once",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fireworks",
+    "valoracion": 5.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hope",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Silent Voice: The Movie",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Magnolia",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Manila in the Claws of Light",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Poetry",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Trainspotting",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Life and Death of Colonel Blimp",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Thelma & Louise",
+    "valoracion": 6.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Winter Light",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Son of the White Mare",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Persepolis",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "To Live",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mysterious Skin",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kagemusha",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lion King",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "2001: A Space Odyssey",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ratatouille",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dancer in the Dark",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Deer Hunter",
+    "valoracion": null,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Casino",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Once Upon a Time in America",
+    "valoracion": null,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kwaidan",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Little Miss Sunshine",
+    "valoracion": null,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kill Bill: Vol. 1",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Truman Show",
+    "valoracion": null,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Baththa",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Azur & Asmar: The Princes’ Quest",
+    "valoracion": 7.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "They Shoot Horses, Don’t They?",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Lovers on the Bridge",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Solaris",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Back to the Future",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sound of Metal",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "In the Name of the Father",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "HAIKYU!! The Dumpster Battle",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Big World",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Embrace of the Serpent",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Time of the Gypsies",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Young and the Damned",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le Samouraï",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All of a Sudden",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vertigo",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Shining",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Unforgiven",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "An Autumn Afternoon",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kumbalangi Nights",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Happy Together",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Aftersun",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Sting",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Children’s Hour",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wild Robot",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The White Ribbon",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Drive My Car",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Taste of Tea",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Linda Linda Linda",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shame",
+    "valoracion": 3.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rosemary’s Baby",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gladiator",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "RRR",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Comrades, Almost a Love Story",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le Cercle Rouge",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Shutter Island",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Roman Holiday",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Raging Bull",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Night Is Short, Walk On Girl",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Y Tu Mamá También",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Investigation of a Citizen Above Suspicion",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Boogie Nights",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nirvanna the Band the Show the Movie",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Last Picture Show",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Gangs of Wasseypur – Part 2",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Au Revoir les Enfants",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Coraline",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nausicaä of the Valley of the Wind",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Face in the Crowd",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amélie",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Straight Story",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Like Father, Like Son",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Vampire Hunter D: Bloodlust",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hard Boiled",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cria!",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Joyland",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Man Who Sleeps",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "North by Northwest",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "What Ever Happened to Baby Jane?",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Stand by Me",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hamnet",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Moonlight",
+    "valoracion": 7.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Good Morning",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All About My Mother",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Little Women",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Klaus",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Threads",
+    "valoracion": 7.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Full Metal Jacket",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Neighbor Totoro",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Turin Horse",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Conformist",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Grand Illusion",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Kid",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Whisper of the Heart",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Diabolique",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ivan’s Childhood",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Life as a Zucchini",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All the President’s Men",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Tokyo Sonata",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Amores Perros",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "PlayTime",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Winter Sleep",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Forrest Gump",
+    "valoracion": 8.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ernest & Celestine",
+    "valoracion": 5.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rashomon",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "It Happened One Night",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Long Goodbye",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "3 Idiots",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Citizen Kane",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mind Game",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pixote",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Blue Giant",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All Quiet on the Western Front",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Prophet",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Lilya 4-ever",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Memoir of a Snail",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Matrix",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Memento",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dogville",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Shop Around the Corner",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cabaret",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Silenced",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mulan",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Grapes of Wrath",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Céline and Julie Go Boating",
+    "valoracion": 7.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Cook, the Thief, His Wife & Her Lover",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Carandiru",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "12 Years a Slave",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Day for Night",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "In a Lonely Place",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The General",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cléo from 5 to 7",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cries and Whispers",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Killer",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mother",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Dog’s Will",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "American History X",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Ali: Fear Eats the Soul",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Short Term 12",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Touch of Evil",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "All About Lily Chou-Chou",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Butch Cassidy and the Sundance Kid",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "valoracion": 6.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Who Killed Captain Alex?",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sunrise: A Song of Two Humans",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Black Swan",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Great Escape",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rome, Open City",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Through the Olive Trees",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Güeros",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "A Bronx Tale",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love Streams",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Phantom Thread",
+    "valoracion": 7.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Green Ray",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Spring, Summer, Fall, Winter... and Spring",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mad Max: Fury Road",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Fire Within",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Brokeback Mountain",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rio Bravo",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Possible Love",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Ox-Bow Incident",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Cool Hand Luke",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pride",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "How to Train Your Dragon",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Star Wars",
+    "valoracion": 8.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pink Floyd: The Wall",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Iron Boy",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "La Strada",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dial M for Murder",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Society of the Snow",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "After Life",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Intouchables",
+    "valoracion": 8.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mustang",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Second Mother",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "On the Waterfront",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Father’s Shadow",
+    "valoracion": 7.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Fallen Angels",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Dorothy",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "I Dream in Another Language",
+    "valoracion": 7.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Scarface",
+    "valoracion": 8.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Return",
+    "valoracion": 9.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "12th Fail",
+    "valoracion": 8.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Past Lives",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Raiders of the Lost Ark",
+    "valoracion": 8.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Phantom of the Paradise",
+    "valoracion": 7.3,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Nashville",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Mr. Smith Goes to Washington",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pan’s Labyrinth",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Love Letter",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Virgin Spring",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Great Silence",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Oppenheimer",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Synecdoche, New York",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Harry Potter and the Prisoner of Azkaban",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sentimental Value",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Wild Horse Nine",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Midnight Cowboy",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Punishment Park",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Redline",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Monty Python and the Holy Grail",
+    "valoracion": 8.1,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Le Bonheur",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Spirit of the Beehive",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Kiki’s Delivery Service",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Pride & Prejudice",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "There’s Still Tomorrow",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Hidden Fortress",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Eat Drink Man Woman",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Seconds",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "My Night at Maud’s",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Umbrellas of Cherbourg",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Billy Elliot",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Sword of Doom",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Arrival",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Exterminating Angel",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Princes and Princesses",
+    "valoracion": 7.6,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Alice in the Cities",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Rope",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Through a Glass Darkly",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Leopard",
+    "valoracion": 7.9,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Wolf House",
+    "valoracion": 7.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hiroshima Mon Amour",
+    "valoracion": 7.8,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Sanjuro",
+    "valoracion": 8.0,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Falling in Love Like in Movies",
+    "valoracion": 8.2,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Us and Them",
+    "valoracion": 7.4,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "The Conversation",
+    "valoracion": 7.7,
+    "director": [],
+    "actores": []
+  },
+  {
+    "titulo": "Hundreds of Beavers",
+    "valoracion": 7.5,
+    "director": [],
+    "actores": []
+  }
+]
