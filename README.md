@@ -65,5 +65,4 @@ DB_PASSWORD=tu_contraseña
 2. Ejecutar el script de scraping correspondiente para generar el archivo de datos (por ejemplo, `imdb_series_original.py`).
 3. Ejecutar el script de importación para volcar los registros procesados en la base de datos de Supabase.
 
-```
 
