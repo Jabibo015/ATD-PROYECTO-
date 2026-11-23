@@ -1,0 +1,8163 @@
+[
+    {
+        "id_tmdb": 14537,
+        "title": "Harakiri",
+        "vote_average": 8.472,
+        "runtime": 135,
+        "revenue": 0,
+        "release_date": "1962-09-16",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 34530,
+        "title": "The Human Condition III: A Soldier's Prayer",
+        "vote_average": 8.4,
+        "runtime": 190,
+        "revenue": 0,
+        "release_date": "1961-01-28",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 389,
+        "title": "12 Angry Men",
+        "vote_average": 8.6,
+        "runtime": 97,
+        "revenue": 4360000,
+        "release_date": "1957-04-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 397751
+    },
+    {
+        "id_tmdb": 25237,
+        "title": "Come and See",
+        "vote_average": 8.191,
+        "runtime": 142,
+        "revenue": 20929648,
+        "release_date": "1985-10-17",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "War",
+            "Horror",
+            "History"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 12493,
+        "title": "High and Low",
+        "vote_average": 8.382,
+        "runtime": 142,
+        "revenue": 0,
+        "release_date": "1963-03-01",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 250000
+    },
+    {
+        "id_tmdb": 346,
+        "title": "Seven Samurai",
+        "vote_average": 8.45,
+        "runtime": 207,
+        "revenue": 105000000,
+        "release_date": "1954-04-26",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 278,
+        "title": "The Shawshank Redemption",
+        "vote_average": 8.735,
+        "runtime": 142,
+        "revenue": 28341469,
+        "release_date": "1994-09-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 240,
+        "title": "The Godfather Part II",
+        "vote_average": 8.574,
+        "runtime": 202,
+        "revenue": 102600000,
+        "release_date": "1974-12-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 31217,
+        "title": "The Human Condition I: No Greater Love",
+        "vote_average": 8.164,
+        "runtime": 204,
+        "revenue": 0,
+        "release_date": "1959-01-15",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 598,
+        "title": "City of God",
+        "vote_average": 8.423,
+        "runtime": 129,
+        "revenue": 30641770,
+        "release_date": "2002-08-30",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 3300000
+    },
+    {
+        "id_tmdb": 122,
+        "title": "The Lord of the Rings: The Return of the King",
+        "vote_average": 8.5,
+        "runtime": 201,
+        "revenue": 1118888979,
+        "release_date": "2003-12-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "budget": 94000000
+    },
+    {
+        "id_tmdb": 424,
+        "title": "Schindler's List",
+        "vote_average": 8.57,
+        "runtime": 195,
+        "revenue": 321365567,
+        "release_date": "1993-12-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 22000000
+    },
+    {
+        "id_tmdb": 25538,
+        "title": "Yi Yi",
+        "vote_average": 7.963,
+        "runtime": 174,
+        "revenue": 1528767,
+        "release_date": "2000-09-20",
+        "origin_country": [
+            "TW"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11216,
+        "title": "Cinema Paradiso",
+        "vote_average": 8.431,
+        "runtime": 124,
+        "revenue": 35962062,
+        "release_date": "1988-11-17",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 3782,
+        "title": "Ikiru",
+        "vote_average": 8.312,
+        "runtime": 143,
+        "revenue": 55240,
+        "release_date": "1952-10-09",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 85000
+    },
+    {
+        "id_tmdb": 429,
+        "title": "The Good, the Bad and the Ugly",
+        "vote_average": 8.467,
+        "runtime": 161,
+        "revenue": 38900000,
+        "release_date": "1966-12-23",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "budget": 1200000
+    },
+    {
+        "id_tmdb": 496243,
+        "title": "Parasite",
+        "vote_average": 8.489,
+        "runtime": 133,
+        "revenue": 257591776,
+        "release_date": "2019-05-30",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Comedy",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 11363000
+    },
+    {
+        "id_tmdb": 238,
+        "title": "The Godfather",
+        "vote_average": 8.689,
+        "runtime": 175,
+        "revenue": 245066411,
+        "release_date": "1972-03-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 11645,
+        "title": "Ran",
+        "vote_average": 8.028,
+        "runtime": 160,
+        "revenue": 23334156,
+        "release_date": "1985-06-01",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 406,
+        "title": "La Haine",
+        "vote_average": 8.088,
+        "runtime": 98,
+        "revenue": 15300000,
+        "release_date": "1995-05-31",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2600000
+    },
+    {
+        "id_tmdb": 29259,
+        "title": "Le Trou",
+        "vote_average": 8.226,
+        "runtime": 132,
+        "revenue": 33187,
+        "release_date": "1960-03-18",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 12761,
+        "title": "Autumn Sonata",
+        "vote_average": 7.971,
+        "runtime": 93,
+        "revenue": 0,
+        "release_date": "1978-10-08",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 155,
+        "title": "The Dark Knight",
+        "vote_average": 8.5,
+        "runtime": 152,
+        "revenue": 1008480529,
+        "release_date": "2008-07-16",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 185000000
+    },
+    {
+        "id_tmdb": 34528,
+        "title": "The Human Condition II: Road to Eternity",
+        "vote_average": 8.2,
+        "runtime": 178,
+        "revenue": 0,
+        "release_date": "1959-11-20",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 15804,
+        "title": "A Brighter Summer Day",
+        "vote_average": 8.2,
+        "runtime": 237,
+        "revenue": 0,
+        "release_date": "1991-07-27",
+        "origin_country": [
+            "TW"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 12477,
+        "title": "Grave of the Fireflies",
+        "vote_average": 8.448,
+        "runtime": 89,
+        "revenue": 4979495,
+        "release_date": "1988-04-16",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "budget": 3700000
+    },
+    {
+        "id_tmdb": 18491,
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "vote_average": 8.264,
+        "runtime": 87,
+        "revenue": 26000000,
+        "release_date": "1997-07-19",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Drama",
+            "Fantasy",
+            "Action"
+        ],
+        "budget": 7500000
+    },
+    {
+        "id_tmdb": 17295,
+        "title": "The Battle of Algiers",
+        "vote_average": 7.9,
+        "runtime": 122,
+        "revenue": 964028,
+        "release_date": "1966-09-08",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "War",
+            "History"
+        ],
+        "budget": 800000
+    },
+    {
+        "id_tmdb": 32015,
+        "title": "I Am Cuba",
+        "vote_average": 7.902,
+        "runtime": 141,
+        "revenue": 0,
+        "release_date": "1964-10-26",
+        "origin_country": [
+            "CU",
+            "SU"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 600000
+    },
+    {
+        "id_tmdb": 38360,
+        "title": "The Cranes Are Flying",
+        "vote_average": 7.936,
+        "runtime": 97,
+        "revenue": 0,
+        "release_date": "1957-10-12",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 769,
+        "title": "GoodFellas",
+        "vote_average": 8.451,
+        "runtime": 145,
+        "revenue": 47072327,
+        "release_date": "1990-09-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 157336,
+        "title": "Interstellar",
+        "vote_average": 8.494,
+        "runtime": 169,
+        "revenue": 746606706,
+        "release_date": "2014-11-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ],
+        "budget": 165000000
+    },
+    {
+        "id_tmdb": 7345,
+        "title": "There Will Be Blood",
+        "vote_average": 8.061,
+        "runtime": 158,
+        "revenue": 77208711,
+        "release_date": "2007-12-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 1422041,
+        "title": "LA BOLA NEGRA",
+        "vote_average": 7.9,
+        "runtime": 159,
+        "revenue": 47570312,
+        "release_date": "2026-09-25",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 17000000
+    },
+    {
+        "id_tmdb": 46738,
+        "title": "Incendies",
+        "vote_average": 8.106,
+        "runtime": 131,
+        "revenue": 6788659,
+        "release_date": "2010-09-17",
+        "origin_country": [
+            "CA"
+        ],
+        "genres": [
+            "Drama",
+            "War",
+            "Mystery"
+        ],
+        "budget": 6800000
+    },
+    {
+        "id_tmdb": 16672,
+        "title": "Woman in the Dunes",
+        "vote_average": 8.2,
+        "runtime": 147,
+        "revenue": 0,
+        "release_date": "1964-02-15",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1585,
+        "title": "It's a Wonderful Life",
+        "vote_average": 8.279,
+        "runtime": 131,
+        "revenue": 9644124,
+        "release_date": "1946-12-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 3180000
+    },
+    {
+        "id_tmdb": 975,
+        "title": "Paths of Glory",
+        "vote_average": 8.251,
+        "runtime": 88,
+        "revenue": 1200000,
+        "release_date": "1957-10-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "War",
+            "Drama"
+        ],
+        "budget": 935000
+    },
+    {
+        "id_tmdb": 121,
+        "title": "The Lord of the Rings: The Two Towers",
+        "vote_average": 8.434,
+        "runtime": 179,
+        "revenue": 926287400,
+        "release_date": "2002-12-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "budget": 79000000
+    },
+    {
+        "id_tmdb": 895,
+        "title": "Andrei Rublev",
+        "vote_average": 7.945,
+        "runtime": 183,
+        "revenue": 24173,
+        "release_date": "1966-12-16",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 599,
+        "title": "Sunset Boulevard",
+        "vote_average": 8.272,
+        "runtime": 110,
+        "revenue": 5000000,
+        "release_date": "1950-08-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1752000
+    },
+    {
+        "id_tmdb": 50183,
+        "title": "The Ascent",
+        "vote_average": 7.888,
+        "runtime": 110,
+        "revenue": 0,
+        "release_date": "1977-04-02",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 28,
+        "title": "Apocalypse Now",
+        "vote_average": 8.256,
+        "runtime": 147,
+        "revenue": 150000000,
+        "release_date": "1979-05-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 31500000
+    },
+    {
+        "id_tmdb": 129,
+        "title": "Spirited Away",
+        "vote_average": 8.537,
+        "runtime": 125,
+        "revenue": 274925095,
+        "release_date": "2001-07-20",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 284,
+        "title": "The Apartment",
+        "vote_average": 8.2,
+        "runtime": 126,
+        "revenue": 25000000,
+        "release_date": "1960-06-21",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 531428,
+        "title": "Portrait of a Lady on Fire",
+        "vote_average": 8.086,
+        "runtime": 121,
+        "revenue": 9923127,
+        "release_date": "2019-09-06",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 5740000
+    },
+    {
+        "id_tmdb": 18148,
+        "title": "Tokyo Story",
+        "vote_average": 8.145,
+        "runtime": 137,
+        "revenue": 0,
+        "release_date": "1953-11-03",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 244786,
+        "title": "Whiplash",
+        "vote_average": 8.376,
+        "runtime": 107,
+        "revenue": 50307484,
+        "release_date": "2014-10-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Music",
+            "Thriller"
+        ],
+        "budget": 3300000
+    },
+    {
+        "id_tmdb": 11423,
+        "title": "Memories of Murder",
+        "vote_average": 8.065,
+        "runtime": 131,
+        "revenue": 26000000,
+        "release_date": "2003-04-25",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 2800000
+    },
+    {
+        "id_tmdb": 947,
+        "title": "Lawrence of Arabia",
+        "vote_average": 8.002,
+        "runtime": 228,
+        "revenue": 70000000,
+        "release_date": "1962-12-11",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Adventure",
+            "History",
+            "War"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id_tmdb": 36592,
+        "title": "Swing Girls",
+        "vote_average": 7.9,
+        "runtime": 105,
+        "revenue": 18758613,
+        "release_date": "2004-09-11",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 637,
+        "title": "Life Is Beautiful",
+        "vote_average": 8.434,
+        "runtime": 116,
+        "revenue": 230098753,
+        "release_date": "1997-12-20",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 37257,
+        "title": "Witness for the Prosecution",
+        "vote_average": 8.207,
+        "runtime": 116,
+        "revenue": 9000000,
+        "release_date": "1957-12-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Crime"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 780,
+        "title": "The Passion of Joan of Arc",
+        "vote_average": 7.97,
+        "runtime": 81,
+        "revenue": 18121,
+        "release_date": "1928-04-21",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2517,
+        "title": "Nobody Knows",
+        "vote_average": 8.01,
+        "runtime": 141,
+        "revenue": 0,
+        "release_date": "2004-08-07",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 27064,
+        "title": "Mishima: A Life in Four Chapters",
+        "vote_average": 7.8,
+        "runtime": 121,
+        "revenue": 502758,
+        "release_date": "1985-09-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 3175,
+        "title": "Barry Lyndon",
+        "vote_average": 8.0,
+        "runtime": 188,
+        "revenue": 31500000,
+        "release_date": "1975-12-16",
+        "origin_country": [
+            "US",
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 11000000
+    },
+    {
+        "id_tmdb": 1480382,
+        "title": "The Voice of Hind Rajab",
+        "vote_average": 8.1,
+        "runtime": 89,
+        "revenue": 5780333,
+        "release_date": "2025-09-10",
+        "origin_country": [
+            "TN"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10997,
+        "title": "Farewell My Concubine",
+        "vote_average": 8.1,
+        "runtime": 171,
+        "revenue": 6400000,
+        "release_date": "1993-01-01",
+        "origin_country": [
+            "CN",
+            "HK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 19542,
+        "title": "The Red Shoes",
+        "vote_average": 8.0,
+        "runtime": 133,
+        "revenue": 10000000,
+        "release_date": "1948-09-06",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 500000
+    },
+    {
+        "id_tmdb": 423,
+        "title": "The Pianist",
+        "vote_average": 8.369,
+        "runtime": 150,
+        "revenue": 120098945,
+        "release_date": "2002-09-17",
+        "origin_country": [
+            "GB",
+            "FR",
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 35000000
+    },
+    {
+        "id_tmdb": 1891,
+        "title": "The Empire Strikes Back",
+        "vote_average": 8.392,
+        "runtime": 124,
+        "revenue": 538400000,
+        "release_date": "1980-05-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "budget": 18000000
+    },
+    {
+        "id_tmdb": 20532,
+        "title": "Sansho the Bailiff",
+        "vote_average": 8.075,
+        "runtime": 124,
+        "revenue": 0,
+        "release_date": "1954-03-31",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 30017,
+        "title": "Close-Up",
+        "vote_average": 7.985,
+        "runtime": 98,
+        "revenue": 0,
+        "release_date": "1990-05-09",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1585239,
+        "title": "Club Kid",
+        "vote_average": 7.925,
+        "runtime": 122,
+        "revenue": 1866299,
+        "release_date": "2026-11-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "vote_average": 8.345,
+        "runtime": 140,
+        "revenue": 690897910,
+        "release_date": "2023-05-31",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "budget": 100000000
+    },
+    {
+        "id_tmdb": 29845,
+        "title": "A Woman Under the Influence",
+        "vote_average": 7.7,
+        "runtime": 155,
+        "revenue": 12200000,
+        "release_date": "1974-11-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 60243,
+        "title": "A Separation",
+        "vote_average": 7.904,
+        "runtime": 123,
+        "revenue": 24426169,
+        "release_date": "2011-02-15",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 5961,
+        "title": "Fanny and Alexander",
+        "vote_average": 7.756,
+        "runtime": 188,
+        "revenue": 6800000,
+        "release_date": "1982-12-17",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 128,
+        "title": "Princess Mononoke",
+        "vote_average": 8.322,
+        "runtime": 134,
+        "revenue": 231379818,
+        "release_date": "1997-07-12",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Animation"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 925,
+        "title": "Do the Right Thing",
+        "vote_average": 7.776,
+        "runtime": 120,
+        "revenue": 37300000,
+        "release_date": "1989-06-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 6500000
+    },
+    {
+        "id_tmdb": 28422,
+        "title": "Love Exposure",
+        "vote_average": 7.9,
+        "runtime": 237,
+        "revenue": 0,
+        "release_date": "2008-11-29",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 324857,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "vote_average": 8.403,
+        "runtime": 117,
+        "revenue": 394884133,
+        "release_date": "2018-12-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "budget": 90000000
+    },
+    {
+        "id_tmdb": 791523,
+        "title": "Wildwood",
+        "vote_average": 8.46,
+        "runtime": 132,
+        "revenue": 67370469,
+        "release_date": "2026-10-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 100000000
+    },
+    {
+        "id_tmdb": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "vote_average": 8.452,
+        "runtime": 179,
+        "revenue": 871368364,
+        "release_date": "2001-12-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "budget": 93000000
+    },
+    {
+        "id_tmdb": 489,
+        "title": "Good Will Hunting",
+        "vote_average": 8.169,
+        "runtime": 127,
+        "revenue": 225933435,
+        "release_date": "1997-12-05",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 10000000
+    },
+    {
+        "id_tmdb": 290098,
+        "title": "The Handmaiden",
+        "vote_average": 8.176,
+        "runtime": 145,
+        "revenue": 38600000,
+        "release_date": "2016-06-01",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 8575000
+    },
+    {
+        "id_tmdb": 335,
+        "title": "Once Upon a Time in the West",
+        "vote_average": 8.256,
+        "runtime": 166,
+        "revenue": 5380118,
+        "release_date": "1968-12-21",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 19426,
+        "title": "Nights of Cabiria",
+        "vote_average": 7.964,
+        "runtime": 110,
+        "revenue": 752045,
+        "release_date": "1957-10-03",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11293,
+        "title": "Paper Moon",
+        "vote_average": 7.866,
+        "runtime": 102,
+        "revenue": 30900000,
+        "release_date": "1973-05-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 2500000
+    },
+    {
+        "id_tmdb": 499556,
+        "title": "An Elephant Sitting Still",
+        "vote_average": 7.7,
+        "runtime": 235,
+        "revenue": 0,
+        "release_date": "2018-12-14",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2500000
+    },
+    {
+        "id_tmdb": 807,
+        "title": "Se7en",
+        "vote_average": 8.383,
+        "runtime": 127,
+        "revenue": 327311859,
+        "release_date": "1995-09-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 33000000
+    },
+    {
+        "id_tmdb": 1398,
+        "title": "Stalker",
+        "vote_average": 8.072,
+        "runtime": 162,
+        "revenue": 36784519,
+        "release_date": "1979-05-25",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Drama"
+        ],
+        "budget": 120000
+    },
+    {
+        "id_tmdb": 3780,
+        "title": "Red Beard",
+        "vote_average": 8.2,
+        "runtime": 185,
+        "revenue": 1110000,
+        "release_date": "1965-03-04",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 650000
+    },
+    {
+        "id_tmdb": 2721,
+        "title": "Z",
+        "vote_average": 7.815,
+        "runtime": 122,
+        "revenue": 83305,
+        "release_date": "1969-02-26",
+        "origin_country": [
+            "FR",
+            "DZ"
+        ],
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 896,
+        "title": "The World of Apu",
+        "vote_average": 8.1,
+        "runtime": 107,
+        "revenue": 134241,
+        "release_date": "1959-05-01",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 693134,
+        "title": "Dune: Part Two",
+        "vote_average": 8.1,
+        "runtime": 167,
+        "revenue": 714844358,
+        "release_date": "2024-02-27",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "budget": 190000000
+    },
+    {
+        "id_tmdb": 821,
+        "title": "Judgment at Nuremberg",
+        "vote_average": 7.998,
+        "runtime": 191,
+        "revenue": 10000000,
+        "release_date": "1961-12-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 279,
+        "title": "Amadeus",
+        "vote_average": 8.027,
+        "runtime": 160,
+        "revenue": 90007557,
+        "release_date": "1984-09-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Music"
+        ],
+        "budget": 18000000
+    },
+    {
+        "id_tmdb": 10494,
+        "title": "Perfect Blue",
+        "vote_average": 8.294,
+        "runtime": 82,
+        "revenue": 2743097,
+        "release_date": "1998-02-28",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Thriller"
+        ],
+        "budget": 830442
+    },
+    {
+        "id_tmdb": 510,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "vote_average": 8.401,
+        "runtime": 135,
+        "revenue": 108981275,
+        "release_date": "1975-11-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 1103621,
+        "title": "How to Make Millions Before Grandma Dies",
+        "vote_average": 8.115,
+        "runtime": 126,
+        "revenue": 73800000,
+        "release_date": "2024-04-04",
+        "origin_country": [
+            "TH"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 843,
+        "title": "In the Mood for Love",
+        "vote_average": 8.086,
+        "runtime": 99,
+        "revenue": 15867968,
+        "release_date": "2000-09-29",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 797,
+        "title": "Persona",
+        "vote_average": 8.119,
+        "runtime": 85,
+        "revenue": 250000,
+        "release_date": "1966-10-18",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 204,
+        "title": "The Wages of Fear",
+        "vote_average": 8.0,
+        "runtime": 148,
+        "revenue": 0,
+        "release_date": "1953-04-22",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 16869,
+        "title": "Inglourious Basterds",
+        "vote_average": 8.2,
+        "runtime": 153,
+        "revenue": 321457747,
+        "release_date": "2009-08-02",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "budget": 70000000
+    },
+    {
+        "id_tmdb": 49964,
+        "title": "Where Is The Friend's House?",
+        "vote_average": 7.9,
+        "runtime": 83,
+        "revenue": 0,
+        "release_date": "1987-07-01",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 705,
+        "title": "All About Eve",
+        "vote_average": 8.1,
+        "runtime": 139,
+        "revenue": 8402553,
+        "release_date": "1950-11-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1400000
+    },
+    {
+        "id_tmdb": 133919,
+        "title": "Scenes from a Marriage",
+        "vote_average": 8.0,
+        "runtime": 169,
+        "revenue": 0,
+        "release_date": "1974-09-15",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 150000
+    },
+    {
+        "id_tmdb": 4935,
+        "title": "Howl's Moving Castle",
+        "vote_average": 8.391,
+        "runtime": 119,
+        "revenue": 236049757,
+        "release_date": "2004-09-09",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Fantasy",
+            "Animation",
+            "Adventure"
+        ],
+        "budget": 24000000
+    },
+    {
+        "id_tmdb": 567,
+        "title": "Rear Window",
+        "vote_average": 8.331,
+        "runtime": 113,
+        "revenue": 37042336,
+        "release_date": "1954-08-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Drama"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 31414,
+        "title": "Satantango",
+        "vote_average": 8.042,
+        "runtime": 432,
+        "revenue": 0,
+        "release_date": "1994-04-28",
+        "origin_country": [
+            "HU"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 670,
+        "title": "Oldboy",
+        "vote_average": 8.232,
+        "runtime": 120,
+        "revenue": 17500000,
+        "release_date": "2003-11-21",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 1218925,
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "vote_average": 8.536,
+        "runtime": 100,
+        "revenue": 191400000,
+        "release_date": "2025-09-19",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Romance",
+            "Fantasy"
+        ],
+        "budget": 4100000
+    },
+    {
+        "id_tmdb": 207,
+        "title": "Dead Poets Society",
+        "vote_average": 8.3,
+        "runtime": 129,
+        "revenue": 235860116,
+        "release_date": "1989-06-02",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 16400000
+    },
+    {
+        "id_tmdb": 655,
+        "title": "Paris, Texas",
+        "vote_average": 8.08,
+        "runtime": 145,
+        "revenue": 2181987,
+        "release_date": "1984-07-16",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1750000
+    },
+    {
+        "id_tmdb": 1923,
+        "title": "Twin Peaks: Fire Walk with Me",
+        "vote_average": 7.4,
+        "runtime": 135,
+        "revenue": 4237427,
+        "release_date": "1992-06-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Horror"
+        ],
+        "budget": 10000000
+    },
+    {
+        "id_tmdb": 666,
+        "title": "Central Station",
+        "vote_average": 8.117,
+        "runtime": 111,
+        "revenue": 5596708,
+        "release_date": "1998-04-03",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2900000
+    },
+    {
+        "id_tmdb": 489412,
+        "title": "It's Such a Beautiful Day",
+        "vote_average": 7.929,
+        "runtime": 62,
+        "revenue": 0,
+        "release_date": "2012-08-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 992,
+        "title": "Sherlock Jr.",
+        "vote_average": 8.046,
+        "runtime": 45,
+        "revenue": 0,
+        "release_date": "1924-04-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1050035,
+        "title": "Monster",
+        "vote_average": 7.943,
+        "runtime": 125,
+        "revenue": 0,
+        "release_date": "2023-06-02",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1422,
+        "title": "The Departed",
+        "vote_average": 8.2,
+        "runtime": 151,
+        "revenue": 291465000,
+        "release_date": "2006-10-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 90000000
+    },
+    {
+        "id_tmdb": 872,
+        "title": "Singin' in the Rain",
+        "vote_average": 8.1,
+        "runtime": 103,
+        "revenue": 7200000,
+        "release_date": "1952-04-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 2540800
+    },
+    {
+        "id_tmdb": 1091,
+        "title": "The Thing",
+        "vote_average": 8.074,
+        "runtime": 109,
+        "revenue": 19629760,
+        "release_date": "1982-06-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id_tmdb": 15383,
+        "title": "Army of Shadows",
+        "vote_average": 7.9,
+        "runtime": 145,
+        "revenue": 906133,
+        "release_date": "1969-09-10",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10404,
+        "title": "Raise the Red Lantern",
+        "vote_average": 8.0,
+        "runtime": 125,
+        "revenue": 16600000,
+        "release_date": "1991-10-10",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 68718,
+        "title": "Django Unchained",
+        "vote_average": 8.194,
+        "runtime": 165,
+        "revenue": 425368238,
+        "release_date": "2012-12-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "budget": 100000000
+    },
+    {
+        "id_tmdb": 146233,
+        "title": "Prisoners",
+        "vote_average": 8.105,
+        "runtime": 153,
+        "revenue": 122127446,
+        "release_date": "2013-09-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 46000000
+    },
+    {
+        "id_tmdb": 24858,
+        "title": "Eternity and a Day",
+        "vote_average": 7.764,
+        "runtime": 133,
+        "revenue": 0,
+        "release_date": "1998-10-23",
+        "origin_country": [],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 15244,
+        "title": "A Man Escaped",
+        "vote_average": 7.951,
+        "runtime": 101,
+        "revenue": 0,
+        "release_date": "1956-11-11",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 16858,
+        "title": "All That Jazz",
+        "vote_average": 7.5,
+        "runtime": 123,
+        "revenue": 37823676,
+        "release_date": "1979-12-16",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 25050,
+        "title": "Still Walking",
+        "vote_average": 7.795,
+        "runtime": 114,
+        "revenue": 3511120,
+        "release_date": "2008-06-28",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 274,
+        "title": "The Silence of the Lambs",
+        "vote_average": 8.3,
+        "runtime": 119,
+        "revenue": 272742922,
+        "release_date": "1991-02-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 42229,
+        "title": "A Special Day",
+        "vote_average": 8.067,
+        "runtime": 106,
+        "revenue": 0,
+        "release_date": "1977-08-11",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1000837,
+        "title": "I'm Still Here",
+        "vote_average": 7.911,
+        "runtime": 138,
+        "revenue": 36361572,
+        "release_date": "2024-09-19",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 8000000
+    },
+    {
+        "id_tmdb": 212162,
+        "title": "Puella Magi Madoka Magica the Movie -Rebellion-",
+        "vote_average": 7.745,
+        "runtime": 117,
+        "revenue": 12947880,
+        "release_date": "2013-10-26",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Mystery",
+            "Animation",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1368337,
+        "title": "The Odyssey",
+        "vote_average": 8.02,
+        "runtime": 173,
+        "revenue": 1804589435,
+        "release_date": "2026-07-15",
+        "origin_country": [
+            "GB",
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "budget": 250000000
+    },
+    {
+        "id_tmdb": 387,
+        "title": "Das Boot",
+        "vote_average": 8.09,
+        "runtime": 150,
+        "revenue": 85000000,
+        "release_date": "1981-09-17",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 14000000
+    },
+    {
+        "id_tmdb": 110,
+        "title": "Three Colors: Red",
+        "vote_average": 7.88,
+        "runtime": 100,
+        "revenue": 4127033,
+        "release_date": "1994-05-18",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 198,
+        "title": "To Be or Not to Be",
+        "vote_average": 7.8,
+        "runtime": 99,
+        "revenue": 1500000,
+        "release_date": "1942-03-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "War",
+            "Romance"
+        ],
+        "budget": 1200000
+    },
+    {
+        "id_tmdb": 48035,
+        "title": "Ordet",
+        "vote_average": 7.9,
+        "runtime": 125,
+        "revenue": 0,
+        "release_date": "1955-01-09",
+        "origin_country": [
+            "DK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2433,
+        "title": "The Young Girls of Rochefort",
+        "vote_average": 7.7,
+        "runtime": 126,
+        "revenue": 0,
+        "release_date": "1967-03-08",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 949,
+        "title": "Heat",
+        "vote_average": 7.949,
+        "runtime": 170,
+        "revenue": 187400000,
+        "release_date": "1995-12-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Action"
+        ],
+        "budget": 60000000
+    },
+    {
+        "id_tmdb": 914,
+        "title": "The Great Dictator",
+        "vote_average": 8.3,
+        "runtime": 124,
+        "revenue": 11000000,
+        "release_date": "1940-10-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 976893,
+        "title": "Perfect Days",
+        "vote_average": 7.8,
+        "runtime": 124,
+        "revenue": 24094016,
+        "release_date": "2023-11-10",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 14000000
+    },
+    {
+        "id_tmdb": 309,
+        "title": "The Celebration",
+        "vote_average": 7.699,
+        "runtime": 101,
+        "revenue": 0,
+        "release_date": "1998-06-19",
+        "origin_country": [
+            "DK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 1955,
+        "title": "The Elephant Man",
+        "vote_average": 8.052,
+        "runtime": 124,
+        "revenue": 26000000,
+        "release_date": "1980-10-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 20530,
+        "title": "Late Spring",
+        "vote_average": 8.015,
+        "runtime": 108,
+        "revenue": 0,
+        "release_date": "1949-09-13",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 30020,
+        "title": "Taste of Cherry",
+        "vote_average": 7.7,
+        "runtime": 99,
+        "revenue": 10923,
+        "release_date": "1997-10-10",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 120000
+    },
+    {
+        "id_tmdb": 8422,
+        "title": "Rocco and His Brothers",
+        "vote_average": 8.0,
+        "runtime": 178,
+        "revenue": 0,
+        "release_date": "1960-10-07",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "Crime"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 265177,
+        "title": "Mommy",
+        "vote_average": 8.185,
+        "runtime": 138,
+        "revenue": 3494070,
+        "release_date": "2014-09-19",
+        "origin_country": [
+            "CA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4900000
+    },
+    {
+        "id_tmdb": 5801,
+        "title": "Pather Panchali",
+        "vote_average": 7.827,
+        "runtime": 125,
+        "revenue": 536364,
+        "release_date": "1955-08-26",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 31500
+    },
+    {
+        "id_tmdb": 614,
+        "title": "Wild Strawberries",
+        "vote_average": 8.073,
+        "runtime": 91,
+        "revenue": 0,
+        "release_date": "1957-08-28",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1556,
+        "title": "Funeral Parade of Roses",
+        "vote_average": 7.542,
+        "runtime": 105,
+        "revenue": 0,
+        "release_date": "1969-09-13",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 851,
+        "title": "Brief Encounter",
+        "vote_average": 7.7,
+        "runtime": 86,
+        "revenue": 0,
+        "release_date": "1945-11-24",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 1200000
+    },
+    {
+        "id_tmdb": 505192,
+        "title": "Shoplifters",
+        "vote_average": 7.83,
+        "runtime": 120,
+        "revenue": 0,
+        "release_date": "2018-06-02",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 490,
+        "title": "The Seventh Seal",
+        "vote_average": 8.135,
+        "runtime": 96,
+        "revenue": 311212,
+        "release_date": "1957-02-16",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 150000
+    },
+    {
+        "id_tmdb": 687163,
+        "title": "Project Hail Mary",
+        "vote_average": 8.622,
+        "runtime": 157,
+        "revenue": 684639091,
+        "release_date": "2026-03-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "budget": 200000000
+    },
+    {
+        "id_tmdb": 47795,
+        "title": "Landscape in the Mist",
+        "vote_average": 7.561,
+        "runtime": 125,
+        "revenue": 0,
+        "release_date": "1988-09-10",
+        "origin_country": [
+            "GR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1124,
+        "title": "The Prestige",
+        "vote_average": 8.213,
+        "runtime": 131,
+        "revenue": 109676311,
+        "release_date": "2006-10-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "budget": 40000000
+    },
+    {
+        "id_tmdb": 968,
+        "title": "Dog Day Afternoon",
+        "vote_average": 7.858,
+        "runtime": 124,
+        "revenue": 56665856,
+        "release_date": "1975-09-21",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 1800000
+    },
+    {
+        "id_tmdb": 901,
+        "title": "City Lights",
+        "vote_average": 8.248,
+        "runtime": 87,
+        "revenue": 4250000,
+        "release_date": "1931-02-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 80,
+        "title": "Before Sunset",
+        "vote_average": 7.812,
+        "runtime": 80,
+        "revenue": 15992615,
+        "release_date": "2004-06-16",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 2700000
+    },
+    {
+        "id_tmdb": 497,
+        "title": "The Green Mile",
+        "vote_average": 8.504,
+        "runtime": 189,
+        "revenue": 286801374,
+        "release_date": "1999-12-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Crime"
+        ],
+        "budget": 60000000
+    },
+    {
+        "id_tmdb": 1396,
+        "title": "Mirror",
+        "vote_average": 7.92,
+        "runtime": 107,
+        "revenue": 124367,
+        "release_date": "1975-03-07",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 825000
+    },
+    {
+        "id_tmdb": 539,
+        "title": "Psycho",
+        "vote_average": 8.405,
+        "runtime": 109,
+        "revenue": 50000000,
+        "release_date": "1960-06-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 806947
+    },
+    {
+        "id_tmdb": 144,
+        "title": "Wings of Desire",
+        "vote_average": 7.759,
+        "runtime": 128,
+        "revenue": 3548590,
+        "release_date": "1987-09-23",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "budget": 2500000
+    },
+    {
+        "id_tmdb": 829,
+        "title": "Chinatown",
+        "vote_average": 7.908,
+        "runtime": 130,
+        "revenue": 30000000,
+        "release_date": "1974-06-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 6977,
+        "title": "No Country for Old Men",
+        "vote_average": 7.95,
+        "runtime": 122,
+        "revenue": 171627166,
+        "release_date": "2007-11-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Western"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 11902,
+        "title": "Underground",
+        "vote_average": 7.7,
+        "runtime": 170,
+        "revenue": 182134,
+        "release_date": "1995-10-25",
+        "origin_country": [
+            "YU"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "budget": 14000000
+    },
+    {
+        "id_tmdb": 502,
+        "title": "Fail Safe",
+        "vote_average": 7.8,
+        "runtime": 112,
+        "revenue": 0,
+        "release_date": "1964-10-07",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 9693,
+        "title": "Children of Men",
+        "vote_average": 7.62,
+        "runtime": 109,
+        "revenue": 70595464,
+        "release_date": "2006-09-22",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Action"
+        ],
+        "budget": 76000000
+    },
+    {
+        "id_tmdb": 1155828,
+        "title": "Sing Sing",
+        "vote_average": 7.384,
+        "runtime": 107,
+        "revenue": 3401789,
+        "release_date": "2024-07-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 11878,
+        "title": "Yojimbo",
+        "vote_average": 8.1,
+        "runtime": 110,
+        "revenue": 0,
+        "release_date": "1961-04-25",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 600354,
+        "title": "The Father",
+        "vote_average": 8.087,
+        "runtime": 97,
+        "revenue": 21029340,
+        "release_date": "2020-12-23",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 110416,
+        "title": "Song of the Sea",
+        "vote_average": 7.978,
+        "runtime": 94,
+        "revenue": 857522,
+        "release_date": "2014-06-23",
+        "origin_country": [
+            "IE"
+        ],
+        "genres": [
+            "Family",
+            "Animation",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1883,
+        "title": "Malcolm X",
+        "vote_average": 7.5,
+        "runtime": 202,
+        "revenue": 48169908,
+        "release_date": "1992-11-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 34000000
+    },
+    {
+        "id_tmdb": 10315,
+        "title": "Fantastic Mr. Fox",
+        "vote_average": 7.828,
+        "runtime": 87,
+        "revenue": 46471023,
+        "release_date": "2009-10-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "budget": 40000000
+    },
+    {
+        "id_tmdb": 935,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "vote_average": 8.117,
+        "runtime": 95,
+        "revenue": 9500000,
+        "release_date": "1964-01-29",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "budget": 1800000
+    },
+    {
+        "id_tmdb": 11830,
+        "title": "Tampopo",
+        "vote_average": 7.803,
+        "runtime": 115,
+        "revenue": 0,
+        "release_date": "1985-11-23",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 3090,
+        "title": "The Treasure of the Sierra Madre",
+        "vote_average": 7.954,
+        "runtime": 126,
+        "revenue": 4307000,
+        "release_date": "1948-01-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "budget": 3800000
+    },
+    {
+        "id_tmdb": 18352,
+        "title": "The Cremator",
+        "vote_average": 7.8,
+        "runtime": 101,
+        "revenue": 0,
+        "release_date": "1969-03-14",
+        "origin_country": [
+            "XC"
+        ],
+        "genres": [
+            "Horror",
+            "Drama",
+            "Crime",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 283566,
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "vote_average": 8.2,
+        "runtime": 155,
+        "revenue": 93882453,
+        "release_date": "2021-03-08",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction",
+            "Drama"
+        ],
+        "budget": 29700000
+    },
+    {
+        "id_tmdb": 280,
+        "title": "Terminator 2: Judgment Day",
+        "vote_average": 8.179,
+        "runtime": 137,
+        "revenue": 517814175,
+        "release_date": "1991-07-03",
+        "origin_country": [
+            "US",
+            "FR"
+        ],
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ],
+        "budget": 102000000
+    },
+    {
+        "id_tmdb": 83761,
+        "title": "And Life Goes On",
+        "vote_average": 7.7,
+        "runtime": 95,
+        "revenue": 0,
+        "release_date": "1992-10-21",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 27031,
+        "title": "Samurai Rebellion",
+        "vote_average": 8.254,
+        "runtime": 121,
+        "revenue": 0,
+        "release_date": "1967-05-27",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 9764,
+        "title": "Dersu Uzala",
+        "vote_average": 7.9,
+        "runtime": 141,
+        "revenue": 0,
+        "release_date": "1975-08-02",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 23160,
+        "title": "Werckmeister Harmonies",
+        "vote_average": 7.865,
+        "runtime": 139,
+        "revenue": 64974,
+        "release_date": "2001-02-01",
+        "origin_country": [
+            "HU"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 76,
+        "title": "Before Sunrise",
+        "vote_average": 8.0,
+        "runtime": 101,
+        "revenue": 5987386,
+        "release_date": "1995-01-27",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 2500000
+    },
+    {
+        "id_tmdb": 582,
+        "title": "The Lives of Others",
+        "vote_average": 8.038,
+        "runtime": 137,
+        "revenue": 77672685,
+        "release_date": "2006-03-23",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 147,
+        "title": "The 400 Blows",
+        "vote_average": 7.994,
+        "runtime": 99,
+        "revenue": 0,
+        "release_date": "1959-06-03",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10386,
+        "title": "The Iron Giant",
+        "vote_average": 8.0,
+        "runtime": 86,
+        "revenue": 23300000,
+        "release_date": "1999-08-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "budget": 50000000
+    },
+    {
+        "id_tmdb": 11159,
+        "title": "Secrets & Lies",
+        "vote_average": 7.6,
+        "runtime": 142,
+        "revenue": 13417292,
+        "release_date": "1996-05-24",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4500000
+    },
+    {
+        "id_tmdb": 103663,
+        "title": "The Hunt",
+        "vote_average": 8.102,
+        "runtime": 116,
+        "revenue": 18300000,
+        "release_date": "2012-10-25",
+        "origin_country": [
+            "DK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3800000
+    },
+    {
+        "id_tmdb": 14784,
+        "title": "The Fall",
+        "vote_average": 7.621,
+        "runtime": 117,
+        "revenue": 3984390,
+        "release_date": "2008-01-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 30000000
+    },
+    {
+        "id_tmdb": 1244492,
+        "title": "Look Back",
+        "vote_average": 8.188,
+        "runtime": 58,
+        "revenue": 25198872,
+        "release_date": "2024-06-28",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 239,
+        "title": "Some Like It Hot",
+        "vote_average": 8.075,
+        "runtime": 123,
+        "revenue": 25000000,
+        "release_date": "1959-03-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Crime"
+        ],
+        "budget": 2900000
+    },
+    {
+        "id_tmdb": 832,
+        "title": "M",
+        "vote_average": 8.057,
+        "runtime": 110,
+        "revenue": 35274,
+        "release_date": "1931-05-11",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 39056,
+        "title": "Ritual",
+        "vote_average": 7.7,
+        "runtime": 128,
+        "revenue": 0,
+        "release_date": "2000-12-07",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11049,
+        "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "vote_average": 7.8,
+        "runtime": 68,
+        "revenue": 6664789,
+        "release_date": "2003-05-28",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Music",
+            "Adventure"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 33665,
+        "title": "Opening Night",
+        "vote_average": 7.6,
+        "runtime": 144,
+        "revenue": 0,
+        "release_date": "1977-12-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 289,
+        "title": "Casablanca",
+        "vote_average": 8.1,
+        "runtime": 102,
+        "revenue": 10462500,
+        "release_date": "1943-01-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 878000
+    },
+    {
+        "id_tmdb": 36095,
+        "title": "Cure",
+        "vote_average": 7.608,
+        "runtime": 111,
+        "revenue": 234821,
+        "release_date": "1997-12-27",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Crime"
+        ],
+        "budget": 20000
+    },
+    {
+        "id_tmdb": 2457,
+        "title": "Children of Paradise",
+        "vote_average": 8.054,
+        "runtime": 190,
+        "revenue": 1457,
+        "release_date": "1945-03-15",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11697,
+        "title": "The Man Who Shot Liberty Valance",
+        "vote_average": 7.817,
+        "runtime": 123,
+        "revenue": 8000000,
+        "release_date": "1962-04-13",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "budget": 3200000
+    },
+    {
+        "id_tmdb": 5156,
+        "title": "Bicycle Thieves",
+        "vote_average": 8.16,
+        "runtime": 89,
+        "revenue": 450159,
+        "release_date": "1948-07-21",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 133000
+    },
+    {
+        "id_tmdb": 362585,
+        "title": "Kizumonogatari Part 3: Reiketsu",
+        "vote_average": 8.0,
+        "runtime": 83,
+        "revenue": 817874,
+        "release_date": "2017-01-06",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 31767,
+        "title": "The Devils",
+        "vote_average": 7.527,
+        "runtime": 112,
+        "revenue": 4440798,
+        "release_date": "1971-07-16",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Horror"
+        ],
+        "budget": 4800000
+    },
+    {
+        "id_tmdb": 25364,
+        "title": "Ace in the Hole",
+        "vote_average": 7.8,
+        "runtime": 112,
+        "revenue": 1300000,
+        "release_date": "1951-06-29",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1821052
+    },
+    {
+        "id_tmdb": 24657,
+        "title": "The Sacrifice",
+        "vote_average": 7.7,
+        "runtime": 149,
+        "revenue": 1095380,
+        "release_date": "1986-05-09",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 149,
+        "title": "Akira",
+        "vote_average": 7.938,
+        "runtime": 124,
+        "revenue": 56725538,
+        "release_date": "1988-07-16",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Action"
+        ],
+        "budget": 5700000
+    },
+    {
+        "id_tmdb": 38985,
+        "title": "Sorcerer",
+        "vote_average": 7.5,
+        "runtime": 122,
+        "revenue": 9000000,
+        "release_date": "1977-06-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Adventure",
+            "Action"
+        ],
+        "budget": 22000000
+    },
+    {
+        "id_tmdb": 42269,
+        "title": "We All Loved Each Other So Much",
+        "vote_average": 8.271,
+        "runtime": 125,
+        "revenue": 0,
+        "release_date": "1974-12-21",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 550,
+        "title": "Fight Club",
+        "vote_average": 8.437,
+        "runtime": 139,
+        "revenue": 100853753,
+        "release_date": "1999-10-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 63000000
+    },
+    {
+        "id_tmdb": 24238,
+        "title": "Mary and Max",
+        "vote_average": 7.882,
+        "runtime": 92,
+        "revenue": 1740429,
+        "release_date": "2009-04-09",
+        "origin_country": [
+            "AU"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 8240000
+    },
+    {
+        "id_tmdb": 11104,
+        "title": "Chungking Express",
+        "vote_average": 7.969,
+        "runtime": 102,
+        "revenue": 1000000,
+        "release_date": "1994-07-14",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 160000
+    },
+    {
+        "id_tmdb": 396,
+        "title": "Who's Afraid of Virginia Woolf?",
+        "vote_average": 7.7,
+        "runtime": 131,
+        "revenue": 33736689,
+        "release_date": "1966-06-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 7500000
+    },
+    {
+        "id_tmdb": 26275,
+        "title": "Kamikaze Girls",
+        "vote_average": 7.191,
+        "runtime": 102,
+        "revenue": 0,
+        "release_date": "2004-05-29",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 28162,
+        "title": "A Matter of Life and Death",
+        "vote_average": 7.8,
+        "runtime": 104,
+        "revenue": 1750000,
+        "release_date": "1946-12-15",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Romance",
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 450000
+    },
+    {
+        "id_tmdb": 840430,
+        "title": "The Holdovers",
+        "vote_average": 7.647,
+        "runtime": 133,
+        "revenue": 42513270,
+        "release_date": "2023-10-27",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 149871,
+        "title": "The Tale of The Princess Kaguya",
+        "vote_average": 8.087,
+        "runtime": 137,
+        "revenue": 24366656,
+        "release_date": "2013-11-23",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 49300000
+    },
+    {
+        "id_tmdb": 13398,
+        "title": "Tokyo Godfathers",
+        "vote_average": 7.926,
+        "runtime": 92,
+        "revenue": 607735,
+        "release_date": "2003-12-05",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 2400000
+    },
+    {
+        "id_tmdb": 857,
+        "title": "Saving Private Ryan",
+        "vote_average": 8.236,
+        "runtime": 169,
+        "revenue": 481840909,
+        "release_date": "1998-07-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ],
+        "budget": 70000000
+    },
+    {
+        "id_tmdb": 1317149,
+        "title": "I Swear",
+        "vote_average": 8.289,
+        "runtime": 121,
+        "revenue": 15564404,
+        "release_date": "2025-09-22",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 3730000
+    },
+    {
+        "id_tmdb": 41050,
+        "title": "La Notte",
+        "vote_average": 7.9,
+        "runtime": 122,
+        "revenue": 0,
+        "release_date": "1961-01-24",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10774,
+        "title": "Network",
+        "vote_average": 7.787,
+        "runtime": 122,
+        "revenue": 23700000,
+        "release_date": "1976-11-27",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3800000
+    },
+    {
+        "id_tmdb": 3777,
+        "title": "Throne of Blood",
+        "vote_average": 7.925,
+        "runtime": 108,
+        "revenue": 13422,
+        "release_date": "1957-01-15",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 934,
+        "title": "Rififi",
+        "vote_average": 7.785,
+        "runtime": 118,
+        "revenue": 460000,
+        "release_date": "1955-04-13",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 200000
+    },
+    {
+        "id_tmdb": 897,
+        "title": "Aparajito",
+        "vote_average": 7.8,
+        "runtime": 110,
+        "revenue": 170215,
+        "release_date": "1956-10-11",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 15121,
+        "title": "The Sound of Music",
+        "vote_average": 7.727,
+        "runtime": 174,
+        "revenue": 286214286,
+        "release_date": "1965-03-29",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Family",
+            "Music",
+            "Romance"
+        ],
+        "budget": 8200000
+    },
+    {
+        "id_tmdb": 44012,
+        "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+        "vote_average": 7.373,
+        "runtime": 202,
+        "revenue": 0,
+        "release_date": "1976-01-21",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 120000
+    },
+    {
+        "id_tmdb": 575813,
+        "title": "Better Days",
+        "vote_average": 8.1,
+        "runtime": 135,
+        "revenue": 225879065,
+        "release_date": "2019-10-25",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama",
+            "Crime",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 996,
+        "title": "Double Indemnity",
+        "vote_average": 8.091,
+        "runtime": 107,
+        "revenue": 2500000,
+        "release_date": "1944-07-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "budget": 927262
+    },
+    {
+        "id_tmdb": 1018,
+        "title": "Mulholland Drive",
+        "vote_average": 7.804,
+        "runtime": 147,
+        "revenue": 20289986,
+        "release_date": "2001-06-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id_tmdb": 1394,
+        "title": "Nostalgia",
+        "vote_average": 7.785,
+        "runtime": 124,
+        "revenue": 311708,
+        "release_date": "1983-05-01",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 875000
+    },
+    {
+        "id_tmdb": 783675,
+        "title": "The First Slam Dunk",
+        "vote_average": 7.8,
+        "runtime": 125,
+        "revenue": 258000000,
+        "release_date": "2022-12-03",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 422,
+        "title": "8½",
+        "vote_average": 8.074,
+        "runtime": 139,
+        "revenue": 0,
+        "release_date": "1963-02-14",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 439,
+        "title": "La Dolce Vita",
+        "vote_average": 8.017,
+        "runtime": 174,
+        "revenue": 19647000,
+        "release_date": "1960-02-05",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2009,
+        "title": "4 Months, 3 Weeks and 2 Days",
+        "vote_average": 7.534,
+        "runtime": 114,
+        "revenue": 1185783,
+        "release_date": "2007-08-24",
+        "origin_country": [
+            "RO"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 852510
+    },
+    {
+        "id_tmdb": 3112,
+        "title": "The Night of the Hunter",
+        "vote_average": 7.851,
+        "runtime": 93,
+        "revenue": 6750,
+        "release_date": "1955-07-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 795000
+    },
+    {
+        "id_tmdb": 441130,
+        "title": "Wolfwalkers",
+        "vote_average": 8.159,
+        "runtime": 102,
+        "revenue": 1310720,
+        "release_date": "2020-10-26",
+        "origin_country": [
+            "IE",
+            "LU",
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 938,
+        "title": "For a Few Dollars More",
+        "vote_average": 8.0,
+        "runtime": 132,
+        "revenue": 15000000,
+        "release_date": "1965-12-18",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "budget": 600000
+    },
+    {
+        "id_tmdb": 43976,
+        "title": "A Moment of Innocence",
+        "vote_average": 7.6,
+        "runtime": 78,
+        "revenue": 37598,
+        "release_date": "1997-04-09",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10681,
+        "title": "WALL·E",
+        "vote_average": 8.129,
+        "runtime": 98,
+        "revenue": 521311860,
+        "release_date": "2008-06-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Science Fiction"
+        ],
+        "budget": 180000000
+    },
+    {
+        "id_tmdb": 24188,
+        "title": "Il Sorpasso",
+        "vote_average": 8.228,
+        "runtime": 105,
+        "revenue": 1892298,
+        "release_date": "1962-12-05",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 14696,
+        "title": "Ugetsu",
+        "vote_average": 8.0,
+        "runtime": 96,
+        "revenue": 0,
+        "release_date": "1953-03-26",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 887,
+        "title": "The Best Years of Our Lives",
+        "vote_average": 7.7,
+        "runtime": 171,
+        "revenue": 23650000,
+        "release_date": "1946-11-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "budget": 2100000
+    },
+    {
+        "id_tmdb": 29452,
+        "title": "The Face of Another",
+        "vote_average": 7.8,
+        "runtime": 122,
+        "revenue": 0,
+        "release_date": "1966-07-15",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 25376,
+        "title": "The Secret in Their Eyes",
+        "vote_average": 7.967,
+        "runtime": 130,
+        "revenue": 33965843,
+        "release_date": "2009-08-13",
+        "origin_country": [
+            "ES",
+            "AR"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 93,
+        "title": "Anatomy of a Murder",
+        "vote_average": 7.836,
+        "runtime": 161,
+        "revenue": 8000000,
+        "release_date": "1959-07-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 410331,
+        "title": "Vada Chennai",
+        "vote_average": 7.84,
+        "runtime": 166,
+        "revenue": 0,
+        "release_date": "2018-10-17",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 826,
+        "title": "The Bridge on the River Kwai",
+        "vote_average": 7.8,
+        "runtime": 162,
+        "revenue": 44908000,
+        "release_date": "1957-10-11",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 2800000
+    },
+    {
+        "id_tmdb": 1136423,
+        "title": "Meiyazhagan",
+        "vote_average": 8.208,
+        "runtime": 177,
+        "revenue": 0,
+        "release_date": "2024-09-27",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Family",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 728118,
+        "title": "Quo Vadis, Aida?",
+        "vote_average": 7.656,
+        "runtime": 104,
+        "revenue": 813253,
+        "release_date": "2021-02-26",
+        "origin_country": [
+            "BA"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "History"
+        ],
+        "budget": 4750000
+    },
+    {
+        "id_tmdb": 869626,
+        "title": "Marcel the Shell with Shoes On",
+        "vote_average": 7.63,
+        "runtime": 90,
+        "revenue": 6909209,
+        "release_date": "2022-06-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 348,
+        "title": "Alien",
+        "vote_average": 8.176,
+        "runtime": 117,
+        "revenue": 104931801,
+        "release_date": "1979-05-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "budget": 11000000
+    },
+    {
+        "id_tmdb": 833,
+        "title": "Umberto D.",
+        "vote_average": 7.9,
+        "runtime": 91,
+        "revenue": 71461,
+        "release_date": "1952-01-20",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 27205,
+        "title": "Inception",
+        "vote_average": 8.373,
+        "runtime": 148,
+        "revenue": 839030630,
+        "release_date": "2010-07-15",
+        "origin_country": [
+            "US",
+            "GB"
+        ],
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Crime"
+        ],
+        "budget": 160000000
+    },
+    {
+        "id_tmdb": 12516,
+        "title": "Dreams",
+        "vote_average": 7.733,
+        "runtime": 119,
+        "revenue": 2970161,
+        "release_date": "1990-05-11",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 122019,
+        "title": "Macario",
+        "vote_average": 8.7,
+        "runtime": 91,
+        "revenue": 0,
+        "release_date": "1960-06-09",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 517814,
+        "title": "Capernaum",
+        "vote_average": 8.132,
+        "runtime": 126,
+        "revenue": 64978931,
+        "release_date": "2018-09-20",
+        "origin_country": [
+            "LB"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 3082,
+        "title": "Modern Times",
+        "vote_average": 8.3,
+        "runtime": 87,
+        "revenue": 1800000,
+        "release_date": "1936-02-05",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 262,
+        "title": "The King of Comedy",
+        "vote_average": 7.761,
+        "runtime": 109,
+        "revenue": 2536000,
+        "release_date": "1982-12-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 38,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "vote_average": 8.091,
+        "runtime": 108,
+        "revenue": 72258126,
+        "release_date": "2004-03-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 372058,
+        "title": "Your Name.",
+        "vote_average": 8.492,
+        "runtime": 106,
+        "revenue": 407210429,
+        "release_date": "2016-07-01",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Romance",
+            "Drama"
+        ],
+        "budget": 7500000
+    },
+    {
+        "id_tmdb": 33320,
+        "title": "Millennium Actress",
+        "vote_average": 7.855,
+        "runtime": 87,
+        "revenue": 37641,
+        "release_date": "2002-09-14",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 8340,
+        "title": "Turtles Can Fly",
+        "vote_average": 7.8,
+        "runtime": 98,
+        "revenue": 1075462,
+        "release_date": "2006-12-28",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1415360,
+        "title": "Children of Heaven",
+        "vote_average": 7.1,
+        "runtime": 97,
+        "revenue": 0,
+        "release_date": "2026-05-27",
+        "origin_country": [
+            "ID"
+        ],
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 86837,
+        "title": "Amour",
+        "vote_average": 7.749,
+        "runtime": 127,
+        "revenue": 29800000,
+        "release_date": "2012-09-20",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 8900000
+    },
+    {
+        "id_tmdb": 19,
+        "title": "Metropolis",
+        "vote_average": 8.085,
+        "runtime": 148,
+        "revenue": 1350322,
+        "release_date": "1927-01-10",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ],
+        "budget": 5300000
+    },
+    {
+        "id_tmdb": 976,
+        "title": "Sweet Smell of Success",
+        "vote_average": 7.605,
+        "runtime": 97,
+        "revenue": 2500000,
+        "release_date": "1957-07-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 3400000
+    },
+    {
+        "id_tmdb": 437068,
+        "title": "A Taxi Driver",
+        "vote_average": 8.03,
+        "runtime": 138,
+        "revenue": 81927980,
+        "release_date": "2017-08-02",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "budget": 12820005
+    },
+    {
+        "id_tmdb": 1092,
+        "title": "The Third Man",
+        "vote_average": 7.888,
+        "runtime": 105,
+        "revenue": 1226098,
+        "release_date": "1949-08-31",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 13384,
+        "title": "Kes",
+        "vote_average": 7.4,
+        "runtime": 111,
+        "revenue": 0,
+        "release_date": "1970-04-03",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 120467,
+        "title": "The Grand Budapest Hotel",
+        "vote_average": 8.025,
+        "runtime": 100,
+        "revenue": 174600318,
+        "release_date": "2014-02-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 30000000
+    },
+    {
+        "id_tmdb": 2440,
+        "title": "Joint Security Area",
+        "vote_average": 7.8,
+        "runtime": 108,
+        "revenue": 20300000,
+        "release_date": "2000-09-09",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 12500000
+    },
+    {
+        "id_tmdb": 545611,
+        "title": "Everything Everywhere All at Once",
+        "vote_average": 7.713,
+        "runtime": 140,
+        "revenue": 139200000,
+        "release_date": "2022-03-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 5910,
+        "title": "Fireworks",
+        "vote_average": 7.666,
+        "runtime": 103,
+        "revenue": 0,
+        "release_date": "1997-10-30",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 255709,
+        "title": "Hope",
+        "vote_average": 8.383,
+        "runtime": 123,
+        "revenue": 0,
+        "release_date": "2013-10-02",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 378064,
+        "title": "A Silent Voice: The Movie",
+        "vote_average": 8.398,
+        "runtime": 129,
+        "revenue": 30819442,
+        "release_date": "2016-09-17",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 334,
+        "title": "Magnolia",
+        "vote_average": 7.72,
+        "runtime": 189,
+        "revenue": 48451803,
+        "release_date": "1999-12-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 37000000
+    },
+    {
+        "id_tmdb": 70580,
+        "title": "Manila in the Claws of Light",
+        "vote_average": 7.4,
+        "runtime": 127,
+        "revenue": 0,
+        "release_date": "1975-07-16",
+        "origin_country": [
+            "PH"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 47909,
+        "title": "Poetry",
+        "vote_average": 7.583,
+        "runtime": 139,
+        "revenue": 349899,
+        "release_date": "2010-05-13",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 627,
+        "title": "Trainspotting",
+        "vote_average": 7.958,
+        "runtime": 94,
+        "revenue": 71981823,
+        "release_date": "1996-02-23",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 25037,
+        "title": "The Life and Death of Colonel Blimp",
+        "vote_average": 7.5,
+        "runtime": 163,
+        "revenue": 275472,
+        "release_date": "1943-07-26",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 1541,
+        "title": "Thelma & Louise",
+        "vote_average": 7.597,
+        "runtime": 130,
+        "revenue": 45361000,
+        "release_date": "1991-05-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 16000000
+    },
+    {
+        "id_tmdb": 29455,
+        "title": "Winter Light",
+        "vote_average": 7.877,
+        "runtime": 80,
+        "revenue": 0,
+        "release_date": "1963-02-11",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 41077,
+        "title": "Son of the White Mare",
+        "vote_average": 7.662,
+        "runtime": 86,
+        "revenue": 0,
+        "release_date": "1981-10-22",
+        "origin_country": [
+            "HU"
+        ],
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2011,
+        "title": "Persepolis",
+        "vote_average": 7.873,
+        "runtime": 95,
+        "revenue": 22783990,
+        "release_date": "2007-06-27",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Animation",
+            "Drama"
+        ],
+        "budget": 7300000
+    },
+    {
+        "id_tmdb": 31439,
+        "title": "To Live",
+        "vote_average": 8.244,
+        "runtime": 133,
+        "revenue": 0,
+        "release_date": "1994-05-18",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11171,
+        "title": "Mysterious Skin",
+        "vote_average": 7.712,
+        "runtime": 105,
+        "revenue": 2148548,
+        "release_date": "2005-03-30",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 11953,
+        "title": "Kagemusha",
+        "vote_average": 7.81,
+        "runtime": 180,
+        "revenue": 4000000,
+        "release_date": "1980-04-26",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 8587,
+        "title": "The Lion King",
+        "vote_average": 8.25,
+        "runtime": 89,
+        "revenue": 763455561,
+        "release_date": "1994-06-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Drama"
+        ],
+        "budget": 45000000
+    },
+    {
+        "id_tmdb": 62,
+        "title": "2001: A Space Odyssey",
+        "vote_average": 8.043,
+        "runtime": 149,
+        "revenue": 71923560,
+        "release_date": "1968-04-02",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Mystery",
+            "Adventure"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 680,
+        "title": "Pulp Fiction",
+        "vote_average": 8.48,
+        "runtime": 154,
+        "revenue": 213928762,
+        "release_date": "1994-09-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Comedy"
+        ],
+        "budget": 8000000
+    },
+    {
+        "id_tmdb": 2062,
+        "title": "Ratatouille",
+        "vote_average": 7.851,
+        "runtime": 111,
+        "revenue": 623726000,
+        "release_date": "2007-06-28",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 150000000
+    },
+    {
+        "id_tmdb": 16,
+        "title": "Dancer in the Dark",
+        "vote_average": 7.827,
+        "runtime": 140,
+        "revenue": 40061153,
+        "release_date": "2000-09-01",
+        "origin_country": [
+            "DK"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 12500000
+    },
+    {
+        "id_tmdb": 11778,
+        "title": "The Deer Hunter",
+        "vote_average": 7.957,
+        "runtime": 183,
+        "revenue": 49000000,
+        "release_date": "1978-12-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id_tmdb": 524,
+        "title": "Casino",
+        "vote_average": 8.0,
+        "runtime": 179,
+        "revenue": 116112375,
+        "release_date": "1995-11-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 50000000
+    },
+    {
+        "id_tmdb": 311,
+        "title": "Once Upon a Time in America",
+        "vote_average": 8.366,
+        "runtime": 139,
+        "revenue": 5500000,
+        "release_date": "1984-05-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 30000000
+    },
+    {
+        "id_tmdb": 30959,
+        "title": "Kwaidan",
+        "vote_average": 7.7,
+        "runtime": 183,
+        "revenue": 625000,
+        "release_date": "1965-01-06",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Horror",
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 885000
+    },
+    {
+        "id_tmdb": 773,
+        "title": "Little Miss Sunshine",
+        "vote_average": 7.692,
+        "runtime": 102,
+        "revenue": 100523351,
+        "release_date": "2006-07-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 8000000
+    },
+    {
+        "id_tmdb": 24,
+        "title": "Kill Bill: Vol. 1",
+        "vote_average": 7.969,
+        "runtime": 111,
+        "revenue": 180906076,
+        "release_date": "2003-10-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "budget": 30000000
+    },
+    {
+        "id_tmdb": 37165,
+        "title": "The Truman Show",
+        "vote_average": 8.161,
+        "runtime": 103,
+        "revenue": 264118712,
+        "release_date": "1998-06-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 60000000
+    },
+    {
+        "id_tmdb": 1515692,
+        "title": "Baththa",
+        "vote_average": 8.071,
+        "runtime": 159,
+        "revenue": 0,
+        "release_date": "2026-10-01",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Action"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 19026,
+        "title": "Azur & Asmar: The Princes' Quest",
+        "vote_average": 7.695,
+        "runtime": 99,
+        "revenue": 0,
+        "release_date": "2006-10-25",
+        "origin_country": [
+            "BE",
+            "FR",
+            "ES",
+            "IT"
+        ],
+        "genres": [
+            "Animation",
+            "Family"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 28145,
+        "title": "They Shoot Horses, Don't They?",
+        "vote_average": 7.6,
+        "runtime": 120,
+        "revenue": 0,
+        "release_date": "1969-12-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2767,
+        "title": "The Lovers on the Bridge",
+        "vote_average": 7.415,
+        "runtime": 126,
+        "revenue": 0,
+        "release_date": "1991-10-16",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 28000000
+    },
+    {
+        "id_tmdb": 2103,
+        "title": "Solaris",
+        "vote_average": 5.954,
+        "runtime": 99,
+        "revenue": 30002758,
+        "release_date": "2002-11-27",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Mystery"
+        ],
+        "budget": 47000000
+    },
+    {
+        "id_tmdb": 105,
+        "title": "Back to the Future",
+        "vote_average": 8.332,
+        "runtime": 116,
+        "revenue": 391546852,
+        "release_date": "1985-07-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 502033,
+        "title": "Sound of Metal",
+        "vote_average": 7.709,
+        "runtime": 121,
+        "revenue": 516520,
+        "release_date": "2020-11-20",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 7984,
+        "title": "In the Name of the Father",
+        "vote_average": 7.882,
+        "runtime": 133,
+        "revenue": 65796862,
+        "release_date": "1993-12-27",
+        "origin_country": [
+            "IE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 1012201,
+        "title": "HAIKYU!! The Dumpster Battle",
+        "vote_average": 7.853,
+        "runtime": 84,
+        "revenue": 100255784,
+        "release_date": "2024-02-16",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 1278101,
+        "title": "Big World",
+        "vote_average": 8.802,
+        "runtime": 131,
+        "revenue": 109500000,
+        "release_date": "2024-12-27",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "budget": 7000000
+    },
+    {
+        "id_tmdb": 336808,
+        "title": "Embrace of the Serpent",
+        "vote_average": 7.7,
+        "runtime": 125,
+        "revenue": 1320005,
+        "release_date": "2015-05-25",
+        "origin_country": [
+            "CO"
+        ],
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "budget": 1400000
+    },
+    {
+        "id_tmdb": 20123,
+        "title": "Time of the Gypsies",
+        "vote_average": 7.6,
+        "runtime": 142,
+        "revenue": 0,
+        "release_date": "1988-12-21",
+        "origin_country": [
+            "YU"
+        ],
+        "genres": [
+            "Drama",
+            "Crime",
+            "Fantasy",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 800,
+        "title": "The Young and the Damned",
+        "vote_average": 8.057,
+        "runtime": 82,
+        "revenue": 0,
+        "release_date": "1950-12-09",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 5511,
+        "title": "Le Samouraï",
+        "vote_average": 7.775,
+        "runtime": 105,
+        "revenue": 215245,
+        "release_date": "1967-10-25",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1476614,
+        "title": "All of a Sudden",
+        "vote_average": 7.8,
+        "runtime": 197,
+        "revenue": 4065,
+        "release_date": "2026-06-19",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 426,
+        "title": "Vertigo",
+        "vote_average": 8.132,
+        "runtime": 128,
+        "revenue": 7808900,
+        "release_date": "1958-05-28",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "budget": 2479000
+    },
+    {
+        "id_tmdb": 694,
+        "title": "The Shining",
+        "vote_average": 8.2,
+        "runtime": 144,
+        "revenue": 50312025,
+        "release_date": "1980-05-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 33,
+        "title": "Unforgiven",
+        "vote_average": 7.913,
+        "runtime": 130,
+        "revenue": 159157447,
+        "release_date": "1992-08-07",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "budget": 14400000
+    },
+    {
+        "id_tmdb": 50759,
+        "title": "An Autumn Afternoon",
+        "vote_average": 7.87,
+        "runtime": 113,
+        "revenue": 0,
+        "release_date": "1962-11-18",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 575351,
+        "title": "Kumbalangi Nights",
+        "vote_average": 8.059,
+        "runtime": 135,
+        "revenue": 0,
+        "release_date": "2019-02-07",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 18329,
+        "title": "Happy Together",
+        "vote_average": 7.593,
+        "runtime": 96,
+        "revenue": 5000000,
+        "release_date": "1997-05-30",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 125000
+    },
+    {
+        "id_tmdb": 965150,
+        "title": "Aftersun",
+        "vote_average": 7.653,
+        "runtime": 101,
+        "revenue": 7834405,
+        "release_date": "2022-10-21",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 9277,
+        "title": "The Sting",
+        "vote_average": 8.008,
+        "runtime": 129,
+        "revenue": 159616327,
+        "release_date": "1973-12-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 5500000
+    },
+    {
+        "id_tmdb": 20139,
+        "title": "The Children's Hour",
+        "vote_average": 7.676,
+        "runtime": 108,
+        "revenue": 3000000,
+        "release_date": "1961-12-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3600000
+    },
+    {
+        "id_tmdb": 1184918,
+        "title": "The Wild Robot",
+        "vote_average": 8.307,
+        "runtime": 102,
+        "revenue": 331982078,
+        "release_date": "2024-09-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Family",
+            "Animation",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "budget": 78000000
+    },
+    {
+        "id_tmdb": 37903,
+        "title": "The White Ribbon",
+        "vote_average": 7.467,
+        "runtime": 144,
+        "revenue": 11652157,
+        "release_date": "2009-09-24",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 21555450
+    },
+    {
+        "id_tmdb": 758866,
+        "title": "Drive My Car",
+        "vote_average": 7.434,
+        "runtime": 179,
+        "revenue": 15356046,
+        "release_date": "2021-08-18",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 15318,
+        "title": "The Taste of Tea",
+        "vote_average": 7.5,
+        "runtime": 143,
+        "revenue": 0,
+        "release_date": "2004-07-17",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 27337,
+        "title": "Linda Linda Linda",
+        "vote_average": 7.6,
+        "runtime": 115,
+        "revenue": 11187,
+        "release_date": "2005-07-23",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy",
+            "Music",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 76025,
+        "title": "Shame",
+        "vote_average": 6.924,
+        "runtime": 102,
+        "revenue": 20400000,
+        "release_date": "2011-10-02",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 6500000
+    },
+    {
+        "id_tmdb": 805,
+        "title": "Rosemary's Baby",
+        "vote_average": 7.8,
+        "runtime": 138,
+        "revenue": 33395426,
+        "release_date": "1968-06-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "budget": 3200000
+    },
+    {
+        "id_tmdb": 98,
+        "title": "Gladiator",
+        "vote_average": 8.234,
+        "runtime": 155,
+        "revenue": 465516248,
+        "release_date": "2000-05-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "budget": 103000000
+    },
+    {
+        "id_tmdb": 579974,
+        "title": "RRR",
+        "vote_average": 7.717,
+        "runtime": 187,
+        "revenue": 166602994,
+        "release_date": "2022-03-24",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Action",
+            "History",
+            "Drama"
+        ],
+        "budget": 69000000
+    },
+    {
+        "id_tmdb": 37185,
+        "title": "Comrades, Almost a Love Story",
+        "vote_average": 7.839,
+        "runtime": 118,
+        "revenue": 0,
+        "release_date": "1996-11-02",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11657,
+        "title": "Le Cercle Rouge",
+        "vote_average": 7.603,
+        "runtime": 140,
+        "revenue": 0,
+        "release_date": "1970-10-19",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11324,
+        "title": "Shutter Island",
+        "vote_average": 8.195,
+        "runtime": 138,
+        "revenue": 294804195,
+        "release_date": "2010-02-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 80000000
+    },
+    {
+        "id_tmdb": 804,
+        "title": "Roman Holiday",
+        "vote_average": 7.89,
+        "runtime": 119,
+        "revenue": 12000000,
+        "release_date": "1953-08-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 1578,
+        "title": "Raging Bull",
+        "vote_average": 7.89,
+        "runtime": 129,
+        "revenue": 23380203,
+        "release_date": "1980-11-14",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 18000000
+    },
+    {
+        "id_tmdb": 430214,
+        "title": "Night Is Short, Walk On Girl",
+        "vote_average": 7.4,
+        "runtime": 93,
+        "revenue": 3878208,
+        "release_date": "2017-04-07",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Animation",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1391,
+        "title": "Y Tu Mamá También",
+        "vote_average": 7.449,
+        "runtime": 106,
+        "revenue": 33600000,
+        "release_date": "2001-06-08",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 26451,
+        "title": "Investigation of a Citizen Above Suspicion",
+        "vote_average": 8.2,
+        "runtime": 111,
+        "revenue": 0,
+        "release_date": "1970-10-16",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 4995,
+        "title": "Boogie Nights",
+        "vote_average": 7.633,
+        "runtime": 156,
+        "revenue": 43101594,
+        "release_date": "1997-10-07",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id_tmdb": 1154538,
+        "title": "Nirvanna the Band the Show the Movie",
+        "vote_average": 7.6,
+        "runtime": 100,
+        "revenue": 5191174,
+        "release_date": "2026-02-02",
+        "origin_country": [
+            "CA"
+        ],
+        "genres": [
+            "Comedy",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "budget": 1200000
+    },
+    {
+        "id_tmdb": 25188,
+        "title": "The Last Picture Show",
+        "vote_average": 7.605,
+        "runtime": 119,
+        "revenue": 29133000,
+        "release_date": "1971-10-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 126400,
+        "title": "Gangs of Wasseypur - Part 2",
+        "vote_average": 7.808,
+        "runtime": 160,
+        "revenue": 4900000,
+        "release_date": "2012-08-08",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Action"
+        ],
+        "budget": 1670000
+    },
+    {
+        "id_tmdb": 1786,
+        "title": "Au Revoir les Enfants",
+        "vote_average": 7.532,
+        "runtime": 105,
+        "revenue": 4542825,
+        "release_date": "1987-10-07",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 3000000
+    },
+    {
+        "id_tmdb": 14836,
+        "title": "Coraline",
+        "vote_average": 7.951,
+        "runtime": 100,
+        "revenue": 185860104,
+        "release_date": "2009-02-05",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy",
+            "Horror"
+        ],
+        "budget": 60000000
+    },
+    {
+        "id_tmdb": 81,
+        "title": "Warriors of the Wind",
+        "vote_average": 7.94,
+        "runtime": 95,
+        "revenue": 9016411,
+        "release_date": "1984-03-11",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 21849,
+        "title": "A Face in the Crowd",
+        "vote_average": 7.637,
+        "runtime": 125,
+        "revenue": 0,
+        "release_date": "1957-05-29",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 194,
+        "title": "Amélie",
+        "vote_average": 7.921,
+        "runtime": 122,
+        "revenue": 173921954,
+        "release_date": "2001-04-25",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 10000000
+    },
+    {
+        "id_tmdb": 404,
+        "title": "The Straight Story",
+        "vote_average": 7.738,
+        "runtime": 112,
+        "revenue": 6418028,
+        "release_date": "1999-10-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 10000000
+    },
+    {
+        "id_tmdb": 36914,
+        "title": "Like Father Like Son",
+        "vote_average": 5.7,
+        "runtime": 96,
+        "revenue": 34377585,
+        "release_date": "1987-10-02",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "budget": 10500000
+    },
+    {
+        "id_tmdb": 15999,
+        "title": "Vampire Hunter D: Bloodlust",
+        "vote_average": 7.744,
+        "runtime": 103,
+        "revenue": 151086,
+        "release_date": "2001-04-21",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Horror",
+            "Action",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11782,
+        "title": "Hard Boiled",
+        "vote_average": 7.516,
+        "runtime": 126,
+        "revenue": 2592782,
+        "release_date": "1992-04-16",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "budget": 4500000
+    },
+    {
+        "id_tmdb": 51857,
+        "title": "Cria!",
+        "vote_average": 7.495,
+        "runtime": 105,
+        "revenue": 0,
+        "release_date": "1976-06-03",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 962571,
+        "title": "Joyland",
+        "vote_average": 7.415,
+        "runtime": 127,
+        "revenue": 1200000,
+        "release_date": "2022-11-18",
+        "origin_country": [
+            "US",
+            "PK"
+        ],
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 104086,
+        "title": "The Man Who Sleeps",
+        "vote_average": 7.859,
+        "runtime": 78,
+        "revenue": 0,
+        "release_date": "1974-04-24",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 213,
+        "title": "North by Northwest",
+        "vote_average": 7.961,
+        "runtime": 137,
+        "revenue": 13275000,
+        "release_date": "1959-08-06",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Adventure"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 10242,
+        "title": "What Ever Happened to Baby Jane?",
+        "vote_average": 7.891,
+        "runtime": 134,
+        "revenue": 0,
+        "release_date": "1962-10-31",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "budget": 980000
+    },
+    {
+        "id_tmdb": 235,
+        "title": "Stand by Me",
+        "vote_average": 7.834,
+        "runtime": 89,
+        "revenue": 52289686,
+        "release_date": "1986-08-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "budget": 8000000
+    },
+    {
+        "id_tmdb": 858024,
+        "title": "Hamnet",
+        "vote_average": 7.728,
+        "runtime": 125,
+        "revenue": 107756183,
+        "release_date": "2025-11-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 35000000
+    },
+    {
+        "id_tmdb": 376867,
+        "title": "Moonlight",
+        "vote_average": 7.353,
+        "runtime": 112,
+        "revenue": 65046687,
+        "release_date": "2016-10-21",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 28276,
+        "title": "Good Morning",
+        "vote_average": 7.713,
+        "runtime": 94,
+        "revenue": 0,
+        "release_date": "1959-05-12",
+        "origin_country": [
+            "JP",
+            "RU"
+        ],
+        "genres": [
+            "Comedy",
+            "Family",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 99,
+        "title": "All About My Mother",
+        "vote_average": 7.6,
+        "runtime": 101,
+        "revenue": 67958231,
+        "release_date": "1999-04-16",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 331482,
+        "title": "Little Women",
+        "vote_average": 7.854,
+        "runtime": 135,
+        "revenue": 332103783,
+        "release_date": "2019-12-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 40000000
+    },
+    {
+        "id_tmdb": 508965,
+        "title": "Klaus",
+        "vote_average": 8.209,
+        "runtime": 97,
+        "revenue": 0,
+        "release_date": "2019-11-08",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 17835,
+        "title": "Threads",
+        "vote_average": 7.649,
+        "runtime": 117,
+        "revenue": 0,
+        "release_date": "1984-09-23",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "War",
+            "Drama",
+            "Science Fiction"
+        ],
+        "budget": 420000
+    },
+    {
+        "id_tmdb": 600,
+        "title": "Full Metal Jacket",
+        "vote_average": 8.118,
+        "runtime": 117,
+        "revenue": 46357676,
+        "release_date": "1987-06-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 30000000
+    },
+    {
+        "id_tmdb": 8392,
+        "title": "My Neighbor Totoro",
+        "vote_average": 8.07,
+        "runtime": 86,
+        "revenue": 41000000,
+        "release_date": "1988-04-16",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Fantasy",
+            "Animation",
+            "Family"
+        ],
+        "budget": 3700000
+    },
+    {
+        "id_tmdb": 81401,
+        "title": "The Turin Horse",
+        "vote_average": 7.6,
+        "runtime": 155,
+        "revenue": 162088,
+        "release_date": "2011-03-31",
+        "origin_country": [
+            "HU"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 8416,
+        "title": "The Conformist",
+        "vote_average": 7.642,
+        "runtime": 108,
+        "revenue": 233493,
+        "release_date": "1971-01-29",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 750000
+    },
+    {
+        "id_tmdb": 777,
+        "title": "Grand Illusion",
+        "vote_average": 7.864,
+        "runtime": 114,
+        "revenue": 172885,
+        "release_date": "1937-06-18",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10098,
+        "title": "The Kid",
+        "vote_average": 8.134,
+        "runtime": 68,
+        "revenue": 5450000,
+        "release_date": "1921-01-21",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 250000
+    },
+    {
+        "id_tmdb": 37797,
+        "title": "Whisper of the Heart",
+        "vote_average": 7.939,
+        "runtime": 111,
+        "revenue": 0,
+        "release_date": "1995-07-15",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 827,
+        "title": "Diabolique",
+        "vote_average": 7.872,
+        "runtime": 118,
+        "revenue": 0,
+        "release_date": "1955-01-29",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 31442,
+        "title": "Ivan's Childhood",
+        "vote_average": 7.8,
+        "runtime": 95,
+        "revenue": 0,
+        "release_date": "1962-05-09",
+        "origin_country": [
+            "SU"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 393559,
+        "title": "My Life as a Zucchini",
+        "vote_average": 7.791,
+        "runtime": 66,
+        "revenue": 5873256,
+        "release_date": "2016-09-22",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 8000000
+    },
+    {
+        "id_tmdb": 891,
+        "title": "All the President's Men",
+        "vote_average": 7.658,
+        "runtime": 138,
+        "revenue": 70600000,
+        "release_date": "1976-04-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 8500000
+    },
+    {
+        "id_tmdb": 8937,
+        "title": "Tokyo Sonata",
+        "vote_average": 7.426,
+        "runtime": 120,
+        "revenue": 943547,
+        "release_date": "2008-09-27",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 55,
+        "title": "Amores Perros",
+        "vote_average": 7.653,
+        "runtime": 154,
+        "revenue": 20908467,
+        "release_date": "2000-06-16",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 2000000
+    },
+    {
+        "id_tmdb": 10227,
+        "title": "PlayTime",
+        "vote_average": 7.7,
+        "runtime": 115,
+        "revenue": 0,
+        "release_date": "1967-12-13",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 265169,
+        "title": "Winter Sleep",
+        "vote_average": 7.508,
+        "runtime": 196,
+        "revenue": 4018705,
+        "release_date": "2014-06-13",
+        "origin_country": [
+            "TR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 13,
+        "title": "Forrest Gump",
+        "vote_average": 8.5,
+        "runtime": 142,
+        "revenue": 677387716,
+        "release_date": "1994-06-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 55000000
+    },
+    {
+        "id_tmdb": 126319,
+        "title": "Ernest & Celestine",
+        "vote_average": 7.752,
+        "runtime": 80,
+        "revenue": 8170333,
+        "release_date": "2012-12-12",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Crime",
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 12500000
+    },
+    {
+        "id_tmdb": 548,
+        "title": "Rashomon",
+        "vote_average": 8.0,
+        "runtime": 88,
+        "revenue": 117668,
+        "release_date": "1950-08-26",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 250000
+    },
+    {
+        "id_tmdb": 3078,
+        "title": "It Happened One Night",
+        "vote_average": 7.8,
+        "runtime": 105,
+        "revenue": 4500000,
+        "release_date": "1934-02-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 325000
+    },
+    {
+        "id_tmdb": 1847,
+        "title": "The Long Goodbye",
+        "vote_average": 7.444,
+        "runtime": 112,
+        "revenue": 959000,
+        "release_date": "1973-03-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Mystery",
+            "Crime",
+            "Comedy"
+        ],
+        "budget": 1700000
+    },
+    {
+        "id_tmdb": 20453,
+        "title": "3 Idiots",
+        "vote_average": 8.006,
+        "runtime": 171,
+        "revenue": 60262836,
+        "release_date": "2009-12-23",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 50000000
+    },
+    {
+        "id_tmdb": 15,
+        "title": "Citizen Kane",
+        "vote_average": 7.96,
+        "runtime": 119,
+        "revenue": 23218000,
+        "release_date": "1941-04-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Mystery",
+            "Drama"
+        ],
+        "budget": 839727
+    },
+    {
+        "id_tmdb": 21712,
+        "title": "Mind Game",
+        "vote_average": 7.528,
+        "runtime": 103,
+        "revenue": 36613,
+        "release_date": "2004-08-07",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Romance",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 42148,
+        "title": "Pixote",
+        "vote_average": 7.8,
+        "runtime": 127,
+        "revenue": 0,
+        "release_date": "1980-09-26",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 887870,
+        "title": "Blue Giant",
+        "vote_average": 7.8,
+        "runtime": 120,
+        "revenue": 0,
+        "release_date": "2023-02-17",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Music"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 143,
+        "title": "All Quiet on the Western Front",
+        "vote_average": 7.766,
+        "runtime": 133,
+        "revenue": 3270000,
+        "release_date": "1930-04-29",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 1448864
+    },
+    {
+        "id_tmdb": 21575,
+        "title": "A Prophet",
+        "vote_average": 7.6,
+        "runtime": 155,
+        "revenue": 17874044,
+        "release_date": "2009-08-26",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 12093,
+        "title": "Lilya 4-ever",
+        "vote_average": 7.627,
+        "runtime": 109,
+        "revenue": 1007747,
+        "release_date": "2002-08-23",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 2700000
+    },
+    {
+        "id_tmdb": 1064486,
+        "title": "Memoir of a Snail",
+        "vote_average": 8.063,
+        "runtime": 94,
+        "revenue": 7,
+        "release_date": "2024-10-17",
+        "origin_country": [
+            "AU"
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 4350000
+    },
+    {
+        "id_tmdb": 603,
+        "title": "The Matrix",
+        "vote_average": 8.3,
+        "runtime": 136,
+        "revenue": 463517383,
+        "release_date": "1999-03-31",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ],
+        "budget": 63000000
+    },
+    {
+        "id_tmdb": 77,
+        "title": "Memento",
+        "vote_average": 8.175,
+        "runtime": 113,
+        "revenue": 40060108,
+        "release_date": "2000-10-11",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 9000000
+    },
+    {
+        "id_tmdb": 553,
+        "title": "Dogville",
+        "vote_average": 7.741,
+        "runtime": 178,
+        "revenue": 16690617,
+        "release_date": "2003-05-21",
+        "origin_country": [
+            "DK"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 10000000
+    },
+    {
+        "id_tmdb": 20334,
+        "title": "The Shop Around the Corner",
+        "vote_average": 8.0,
+        "runtime": 99,
+        "revenue": 0,
+        "release_date": "1940-01-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 500000
+    },
+    {
+        "id_tmdb": 10784,
+        "title": "Cabaret",
+        "vote_average": 7.41,
+        "runtime": 124,
+        "revenue": 42800000,
+        "release_date": "1972-02-13",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Music",
+            "Romance",
+            "Drama"
+        ],
+        "budget": 4600000
+    },
+    {
+        "id_tmdb": 81481,
+        "title": "Silenced",
+        "vote_average": 8.2,
+        "runtime": 125,
+        "revenue": 31500000,
+        "release_date": "2011-09-22",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2200000
+    },
+    {
+        "id_tmdb": 10674,
+        "title": "Mulan",
+        "vote_average": 7.9,
+        "runtime": 88,
+        "revenue": 304320254,
+        "release_date": "1998-06-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "budget": 90000000
+    },
+    {
+        "id_tmdb": 596,
+        "title": "The Grapes of Wrath",
+        "vote_average": 7.8,
+        "runtime": 129,
+        "revenue": 1591000,
+        "release_date": "1940-03-15",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 800000
+    },
+    {
+        "id_tmdb": 27019,
+        "title": "Céline and Julie Go Boating",
+        "vote_average": 6.803,
+        "runtime": 194,
+        "revenue": 0,
+        "release_date": "1974-09-18",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 7452,
+        "title": "The Cook, the Thief, His Wife & Her Lover",
+        "vote_average": 7.3,
+        "runtime": 124,
+        "revenue": 7724701,
+        "release_date": "1989-10-13",
+        "origin_country": [
+            "FR",
+            "NL",
+            "GB"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 2300000
+    },
+    {
+        "id_tmdb": 8440,
+        "title": "Carandiru",
+        "vote_average": 7.6,
+        "runtime": 145,
+        "revenue": 10781635,
+        "release_date": "2003-04-11",
+        "origin_country": [
+            "BR",
+            "AR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 4100000
+    },
+    {
+        "id_tmdb": 76203,
+        "title": "12 Years a Slave",
+        "vote_average": 7.926,
+        "runtime": 134,
+        "revenue": 187000000,
+        "release_date": "2013-10-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 1675,
+        "title": "Day for Night",
+        "vote_average": 7.8,
+        "runtime": 116,
+        "revenue": 850000,
+        "release_date": "1973-05-24",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 700000
+    },
+    {
+        "id_tmdb": 17057,
+        "title": "In a Lonely Place",
+        "vote_average": 7.6,
+        "runtime": 93,
+        "revenue": 1400000,
+        "release_date": "1950-05-17",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Romance",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 961,
+        "title": "The General",
+        "vote_average": 7.917,
+        "runtime": 79,
+        "revenue": 1000000,
+        "release_date": "1926-12-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "War",
+            "Romance"
+        ],
+        "budget": 750000
+    },
+    {
+        "id_tmdb": 499,
+        "title": "Cléo from 5 to 7",
+        "vote_average": 7.7,
+        "runtime": 90,
+        "revenue": 0,
+        "release_date": "1962-04-11",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10238,
+        "title": "Cries and Whispers",
+        "vote_average": 7.8,
+        "runtime": 95,
+        "revenue": 0,
+        "release_date": "1972-12-21",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 400000
+    },
+    {
+        "id_tmdb": 10835,
+        "title": "The Killer",
+        "vote_average": 7.6,
+        "runtime": 110,
+        "revenue": 2350174,
+        "release_date": "1989-03-24",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 30018,
+        "title": "Mother",
+        "vote_average": 7.71,
+        "runtime": 129,
+        "revenue": 17112713,
+        "release_date": "2009-05-28",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 40096,
+        "title": "A Dog's Will",
+        "vote_average": 8.4,
+        "runtime": 102,
+        "revenue": 4903192,
+        "release_date": "2000-09-15",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 73,
+        "title": "American History X",
+        "vote_average": 8.324,
+        "runtime": 119,
+        "revenue": 23900000,
+        "release_date": "1998-07-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 216,
+        "title": "Ali: Fear Eats the Soul",
+        "vote_average": 7.738,
+        "runtime": 93,
+        "revenue": 186757,
+        "release_date": "1974-03-05",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "budget": 130000
+    },
+    {
+        "id_tmdb": 169813,
+        "title": "Short Term 12",
+        "vote_average": 7.741,
+        "runtime": 96,
+        "revenue": 1645164,
+        "release_date": "2013-08-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1000000
+    },
+    {
+        "id_tmdb": 1480,
+        "title": "Touch of Evil",
+        "vote_average": 7.738,
+        "runtime": 111,
+        "revenue": 2247500,
+        "release_date": "1958-03-30",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "budget": 829000
+    },
+    {
+        "id_tmdb": 16664,
+        "title": "All About Lily Chou-Chou",
+        "vote_average": 7.47,
+        "runtime": 146,
+        "revenue": 6776921,
+        "release_date": "2001-10-06",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 1250000
+    },
+    {
+        "id_tmdb": 642,
+        "title": "Butch Cassidy and the Sundance Kid",
+        "vote_average": 7.6,
+        "runtime": 111,
+        "revenue": 102308889,
+        "release_date": "1969-09-23",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Western",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 6000000
+    },
+    {
+        "id_tmdb": 9090,
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+        "vote_average": 7.5,
+        "runtime": 108,
+        "revenue": 47774193,
+        "release_date": "1995-09-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 316776,
+        "title": "Who Killed Captain Alex?",
+        "vote_average": 6.538,
+        "runtime": 68,
+        "revenue": 0,
+        "release_date": "2010-03-01",
+        "origin_country": [
+            "UG"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 85
+    },
+    {
+        "id_tmdb": 631,
+        "title": "Sunrise: A Song of Two Humans",
+        "vote_average": 7.811,
+        "runtime": 94,
+        "revenue": 1636000,
+        "release_date": "1927-11-04",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 44214,
+        "title": "Black Swan",
+        "vote_average": 7.685,
+        "runtime": 108,
+        "revenue": 329398046,
+        "release_date": "2010-12-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Horror"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 5925,
+        "title": "The Great Escape",
+        "vote_average": 7.92,
+        "runtime": 173,
+        "revenue": 11700000,
+        "release_date": "1963-07-03",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "budget": 4000000
+    },
+    {
+        "id_tmdb": 307,
+        "title": "Rome, Open City",
+        "vote_average": 8.009,
+        "runtime": 104,
+        "revenue": 1000000,
+        "release_date": "1945-10-08",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 20000
+    },
+    {
+        "id_tmdb": 47104,
+        "title": "Through the Olive Trees",
+        "vote_average": 7.5,
+        "runtime": 104,
+        "revenue": 40300,
+        "release_date": "1994-12-02",
+        "origin_country": [
+            "IR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 256057,
+        "title": "Güeros",
+        "vote_average": 7.6,
+        "runtime": 111,
+        "revenue": 0,
+        "release_date": "2014-04-17",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1607,
+        "title": "A Bronx Tale",
+        "vote_average": 7.9,
+        "runtime": 121,
+        "revenue": 17287898,
+        "release_date": "1993-10-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 22000000
+    },
+    {
+        "id_tmdb": 52109,
+        "title": "Love Streams",
+        "vote_average": 7.2,
+        "runtime": 141,
+        "revenue": 0,
+        "release_date": "1984-03-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 400617,
+        "title": "Phantom Thread",
+        "vote_average": 7.315,
+        "runtime": 130,
+        "revenue": 47756590,
+        "release_date": "2017-12-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 35000000
+    },
+    {
+        "id_tmdb": 54898,
+        "title": "The Green Ray",
+        "vote_average": 7.537,
+        "runtime": 99,
+        "revenue": 0,
+        "release_date": "1986-08-29",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 113,
+        "title": "Spring, Summer, Fall, Winter... and Spring",
+        "vote_average": 7.8,
+        "runtime": 103,
+        "revenue": 8945072,
+        "release_date": "2003-09-19",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 76341,
+        "title": "Mad Max: Fury Road",
+        "vote_average": 7.642,
+        "runtime": 121,
+        "revenue": 378858340,
+        "release_date": "2015-05-13",
+        "origin_country": [
+            "AU",
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "budget": 150000000
+    },
+    {
+        "id_tmdb": 2593,
+        "title": "The Fire Within",
+        "vote_average": 7.6,
+        "runtime": 108,
+        "revenue": 0,
+        "release_date": "1963-10-15",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 142,
+        "title": "Brokeback Mountain",
+        "vote_average": 7.8,
+        "runtime": 134,
+        "revenue": 178043761,
+        "release_date": "2005-10-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 14000000
+    },
+    {
+        "id_tmdb": 301,
+        "title": "Rio Bravo",
+        "vote_average": 7.795,
+        "runtime": 141,
+        "revenue": 5750000,
+        "release_date": "1959-03-08",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "budget": 1200000
+    },
+    {
+        "id_tmdb": 1483525,
+        "title": "Possible Love",
+        "vote_average": 7.25,
+        "runtime": 167,
+        "revenue": 0,
+        "release_date": "2026-09-23",
+        "origin_country": [
+            "KR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 980,
+        "title": "The Ox-Bow Incident",
+        "vote_average": 7.697,
+        "runtime": 76,
+        "revenue": 0,
+        "release_date": "1943-03-11",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Western"
+        ],
+        "budget": 565000
+    },
+    {
+        "id_tmdb": 903,
+        "title": "Cool Hand Luke",
+        "vote_average": 7.731,
+        "runtime": 127,
+        "revenue": 16217773,
+        "release_date": "1967-11-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "budget": 3200000
+    },
+    {
+        "id_tmdb": 234200,
+        "title": "Pride",
+        "vote_average": 7.677,
+        "runtime": 120,
+        "revenue": 16700000,
+        "release_date": "2014-09-12",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10191,
+        "title": "How to Train Your Dragon",
+        "vote_average": 7.867,
+        "runtime": 98,
+        "revenue": 495141736,
+        "release_date": "2010-03-18",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "budget": 165000000
+    },
+    {
+        "id_tmdb": 11,
+        "title": "Star Wars",
+        "vote_average": 8.207,
+        "runtime": 121,
+        "revenue": 775398007,
+        "release_date": "1977-05-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "budget": 11000000
+    },
+    {
+        "id_tmdb": 12104,
+        "title": "Pink Floyd: The Wall",
+        "vote_average": 7.952,
+        "runtime": 95,
+        "revenue": 22244207,
+        "release_date": "1982-07-14",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Music",
+            "Drama"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 947493,
+        "title": "Iron Boy",
+        "vote_average": 8.1,
+        "runtime": 90,
+        "revenue": 0,
+        "release_date": "2026-10-14",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 405,
+        "title": "La Strada",
+        "vote_average": 7.913,
+        "runtime": 115,
+        "revenue": 0,
+        "release_date": "1954-09-23",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 521,
+        "title": "Dial M for Murder",
+        "vote_average": 8.0,
+        "runtime": 105,
+        "revenue": 3000000,
+        "release_date": "1954-05-29",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 1400000
+    },
+    {
+        "id_tmdb": 906126,
+        "title": "Society of the Snow",
+        "vote_average": 7.959,
+        "runtime": 143,
+        "revenue": 1281,
+        "release_date": "2023-12-15",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 65500000
+    },
+    {
+        "id_tmdb": 17962,
+        "title": "After Life",
+        "vote_average": 7.238,
+        "runtime": 118,
+        "revenue": 0,
+        "release_date": "1999-04-17",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 77338,
+        "title": "The Intouchables",
+        "vote_average": 8.274,
+        "runtime": 113,
+        "revenue": 426590315,
+        "release_date": "2011-11-02",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 336804,
+        "title": "Mustang",
+        "vote_average": 7.69,
+        "runtime": 97,
+        "revenue": 5300000,
+        "release_date": "2015-06-17",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 310569,
+        "title": "The Second Mother",
+        "vote_average": 8.001,
+        "runtime": 112,
+        "revenue": 0,
+        "release_date": "2015-06-04",
+        "origin_country": [
+            "BR"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 654,
+        "title": "On the Waterfront",
+        "vote_average": 7.8,
+        "runtime": 108,
+        "revenue": 9600631,
+        "release_date": "1954-06-22",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 910000
+    },
+    {
+        "id_tmdb": 1432605,
+        "title": "My Father's Shadow",
+        "vote_average": 7.155,
+        "runtime": 93,
+        "revenue": 0,
+        "release_date": "2025-09-19",
+        "origin_country": [
+            "NG"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11220,
+        "title": "Fallen Angels",
+        "vote_average": 7.673,
+        "runtime": 98,
+        "revenue": 0,
+        "release_date": "1995-09-06",
+        "origin_country": [
+            "HK"
+        ],
+        "genres": [
+            "Action",
+            "Romance",
+            "Crime"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1578079,
+        "title": "Dorothy",
+        "vote_average": 8.1,
+        "runtime": 146,
+        "revenue": 0,
+        "release_date": "2026-09-25",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 355196,
+        "title": "I Dream in Another Language",
+        "vote_average": 7.8,
+        "runtime": 101,
+        "revenue": 0,
+        "release_date": "2017-07-28",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 111,
+        "title": "Scarface",
+        "vote_average": 8.155,
+        "runtime": 170,
+        "revenue": 66023329,
+        "release_date": "1983-12-09",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 25000000
+    },
+    {
+        "id_tmdb": 11190,
+        "title": "The Return",
+        "vote_average": 7.282,
+        "runtime": 111,
+        "revenue": 8482993,
+        "release_date": "2003-06-25",
+        "origin_country": [
+            "RU"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1163258,
+        "title": "12th Fail",
+        "vote_average": 7.955,
+        "runtime": 146,
+        "revenue": 37231,
+        "release_date": "2023-08-11",
+        "origin_country": [
+            "IN"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 2400000
+    },
+    {
+        "id_tmdb": 666277,
+        "title": "Past Lives",
+        "vote_average": 7.691,
+        "runtime": 106,
+        "revenue": 28126646,
+        "release_date": "2023-06-02",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 12000000
+    },
+    {
+        "id_tmdb": 85,
+        "title": "Raiders of the Lost Ark",
+        "vote_average": 7.928,
+        "runtime": 115,
+        "revenue": 389925971,
+        "release_date": "1981-06-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Adventure",
+            "Action"
+        ],
+        "budget": 18000000
+    },
+    {
+        "id_tmdb": 27327,
+        "title": "Phantom of the Paradise",
+        "vote_average": 7.5,
+        "runtime": 92,
+        "revenue": 250000,
+        "release_date": "1974-10-31",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Horror",
+            "Music"
+        ],
+        "budget": 1300000
+    },
+    {
+        "id_tmdb": 3121,
+        "title": "Nashville",
+        "vote_average": 7.301,
+        "runtime": 160,
+        "revenue": 9995555,
+        "release_date": "1975-06-11",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Music"
+        ],
+        "budget": 2200000
+    },
+    {
+        "id_tmdb": 3083,
+        "title": "Mr. Smith Goes to Washington",
+        "vote_average": 7.8,
+        "runtime": 130,
+        "revenue": 9600000,
+        "release_date": "1939-10-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 1417,
+        "title": "Pan's Labyrinth",
+        "vote_average": 7.77,
+        "runtime": 118,
+        "revenue": 83258226,
+        "release_date": "2006-10-11",
+        "origin_country": [
+            "MX",
+            "ES"
+        ],
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "War"
+        ],
+        "budget": 19000000
+    },
+    {
+        "id_tmdb": 47002,
+        "title": "Love Letter",
+        "vote_average": 7.825,
+        "runtime": 117,
+        "revenue": 0,
+        "release_date": "1995-03-25",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11656,
+        "title": "The Virgin Spring",
+        "vote_average": 7.8,
+        "runtime": 90,
+        "revenue": 700000,
+        "release_date": "1960-02-08",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 9028,
+        "title": "The Great Silence",
+        "vote_average": 7.5,
+        "runtime": 107,
+        "revenue": 500000,
+        "release_date": "1968-11-22",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 872585,
+        "title": "Oppenheimer",
+        "vote_average": 8.023,
+        "runtime": 181,
+        "revenue": 952000000,
+        "release_date": "2023-07-19",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "budget": 100000000
+    },
+    {
+        "id_tmdb": 4960,
+        "title": "Synecdoche, New York",
+        "vote_average": 7.515,
+        "runtime": 124,
+        "revenue": 4383538,
+        "release_date": "2008-10-24",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 20000000
+    },
+    {
+        "id_tmdb": 673,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "vote_average": 8.014,
+        "runtime": 141,
+        "revenue": 789804554,
+        "release_date": "2004-05-31",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 130000000
+    },
+    {
+        "id_tmdb": 1124566,
+        "title": "Sentimental Value",
+        "vote_average": 7.462,
+        "runtime": 133,
+        "revenue": 23883986,
+        "release_date": "2025-08-20",
+        "origin_country": [
+            "FR",
+            "NO"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 7800000
+    },
+    {
+        "id_tmdb": 891621,
+        "title": "Wild Horse Nine",
+        "vote_average": 7.934,
+        "runtime": 117,
+        "revenue": 28190530,
+        "release_date": "2026-10-30",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "budget": 13000000
+    },
+    {
+        "id_tmdb": 3116,
+        "title": "Midnight Cowboy",
+        "vote_average": 7.519,
+        "runtime": 113,
+        "revenue": 44785053,
+        "release_date": "1969-05-25",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3600000
+    },
+    {
+        "id_tmdb": 26513,
+        "title": "Punishment Park",
+        "vote_average": 7.299,
+        "runtime": 88,
+        "revenue": 0,
+        "release_date": "1971-10-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 95000
+    },
+    {
+        "id_tmdb": 71883,
+        "title": "Redline",
+        "vote_average": 7.6,
+        "runtime": 102,
+        "revenue": 0,
+        "release_date": "2009-08-14",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 762,
+        "title": "Monty Python and the Holy Grail",
+        "vote_average": 7.798,
+        "runtime": 91,
+        "revenue": 5763644,
+        "release_date": "1975-04-03",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "budget": 400000
+    },
+    {
+        "id_tmdb": 53023,
+        "title": "Happiness",
+        "vote_average": 7.5,
+        "runtime": 80,
+        "revenue": 0,
+        "release_date": "1965-02-10",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 4495,
+        "title": "The Spirit of the Beehive",
+        "vote_average": 7.6,
+        "runtime": 99,
+        "revenue": 0,
+        "release_date": "1973-10-08",
+        "origin_country": [
+            "ES"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 16859,
+        "title": "Kiki's Delivery Service",
+        "vote_average": 7.84,
+        "runtime": 103,
+        "revenue": 4493017,
+        "release_date": "1989-07-29",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 6900000
+    },
+    {
+        "id_tmdb": 4348,
+        "title": "Pride & Prejudice",
+        "vote_average": 8.051,
+        "runtime": 128,
+        "revenue": 124604345,
+        "release_date": "2005-09-16",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 28000000
+    },
+    {
+        "id_tmdb": 1026227,
+        "title": "There's Still Tomorrow",
+        "vote_average": 8.1,
+        "runtime": 118,
+        "revenue": 50121593,
+        "release_date": "2023-10-26",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "History",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 9000000
+    },
+    {
+        "id_tmdb": 1059,
+        "title": "The Hidden Fortress",
+        "vote_average": 8.0,
+        "runtime": 139,
+        "revenue": 57673,
+        "release_date": "1958-12-28",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Action",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 10451,
+        "title": "Eat Drink Man Woman",
+        "vote_average": 7.622,
+        "runtime": 123,
+        "revenue": 24194403,
+        "release_date": "1994-08-03",
+        "origin_country": [
+            "TW"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 20620,
+        "title": "Seconds",
+        "vote_average": 7.4,
+        "runtime": 107,
+        "revenue": 1750000,
+        "release_date": "1966-10-05",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Horror"
+        ],
+        "budget": 2500000
+    },
+    {
+        "id_tmdb": 48831,
+        "title": "My Night at Maud's",
+        "vote_average": 7.6,
+        "runtime": 110,
+        "revenue": 0,
+        "release_date": "1969-06-04",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 5967,
+        "title": "The Umbrellas of Cherbourg",
+        "vote_average": 7.4,
+        "runtime": 93,
+        "revenue": 7600000,
+        "release_date": "1964-02-19",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 200000
+    },
+    {
+        "id_tmdb": 71,
+        "title": "Billy Elliot",
+        "vote_average": 7.602,
+        "runtime": 111,
+        "revenue": 109280263,
+        "release_date": "2000-09-28",
+        "origin_country": [
+            "GB"
+        ],
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Music"
+        ],
+        "budget": 5000000
+    },
+    {
+        "id_tmdb": 19884,
+        "title": "The Sword of Doom",
+        "vote_average": 7.772,
+        "runtime": 122,
+        "revenue": 0,
+        "release_date": "1966-02-25",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Crime",
+            "Action"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 329865,
+        "title": "Arrival",
+        "vote_average": 7.638,
+        "runtime": 116,
+        "revenue": 203388186,
+        "release_date": "2016-11-10",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Mystery"
+        ],
+        "budget": 47000000
+    },
+    {
+        "id_tmdb": 29264,
+        "title": "The Exterminating Angel",
+        "vote_average": 7.9,
+        "runtime": 93,
+        "revenue": 0,
+        "release_date": "1962-05-16",
+        "origin_country": [
+            "MX"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 65592,
+        "title": "Princes and Princesses",
+        "vote_average": 7.658,
+        "runtime": 70,
+        "revenue": 0,
+        "release_date": "2000-01-26",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "Animation",
+            "Fantasy",
+            "Comedy",
+            "Family",
+            "Romance",
+            "Mystery",
+            "Adventure"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 2204,
+        "title": "Alice in the Cities",
+        "vote_average": 7.7,
+        "runtime": 110,
+        "revenue": 0,
+        "release_date": "1974-05-17",
+        "origin_country": [
+            "DE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1580,
+        "title": "Rope",
+        "vote_average": 7.928,
+        "runtime": 81,
+        "revenue": 2200000,
+        "release_date": "1948-02-01",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 1500000
+    },
+    {
+        "id_tmdb": 11602,
+        "title": "Through a Glass Darkly",
+        "vote_average": 7.8,
+        "runtime": 91,
+        "revenue": 8939,
+        "release_date": "1961-10-16",
+        "origin_country": [
+            "SE"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1040,
+        "title": "The Leopard",
+        "vote_average": 7.7,
+        "runtime": 186,
+        "revenue": 0,
+        "release_date": "1963-03-27",
+        "origin_country": [
+            "IT"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 499537,
+        "title": "The Wolf House",
+        "vote_average": 7.505,
+        "runtime": 74,
+        "revenue": 0,
+        "release_date": "2018-11-01",
+        "origin_country": [
+            "CL"
+        ],
+        "genres": [
+            "Animation",
+            "Horror",
+            "Drama"
+        ],
+        "budget": 245000
+    },
+    {
+        "id_tmdb": 5544,
+        "title": "Hiroshima Mon Amour",
+        "vote_average": 7.668,
+        "runtime": 92,
+        "revenue": 3193,
+        "release_date": "1959-06-10",
+        "origin_country": [
+            "FR"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 11712,
+        "title": "Sanjuro",
+        "vote_average": 7.933,
+        "runtime": 96,
+        "revenue": 0,
+        "release_date": "1962-01-01",
+        "origin_country": [
+            "JP"
+        ],
+        "genres": [
+            "Drama",
+            "Action",
+            "Comedy"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 1074313,
+        "title": "Falling in Love Like in Movies",
+        "vote_average": 8.8,
+        "runtime": 118,
+        "revenue": 1533456,
+        "release_date": "2023-11-30",
+        "origin_country": [
+            "ID"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 508747,
+        "title": "Us and Them",
+        "vote_average": 7.6,
+        "runtime": 120,
+        "revenue": 209221331,
+        "release_date": "2018-04-28",
+        "origin_country": [
+            "CN"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 0
+    },
+    {
+        "id_tmdb": 592,
+        "title": "The Conversation",
+        "vote_average": 7.5,
+        "runtime": 115,
+        "revenue": 4794457,
+        "release_date": "1974-04-12",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 1600000
+    },
+    {
+        "id_tmdb": 1019939,
+        "title": "Hundreds of Beavers",
+        "vote_average": 7.268,
+        "runtime": 108,
+        "revenue": 1267995,
+        "release_date": "2024-01-26",
+        "origin_country": [
+            "US"
+        ],
+        "genres": [
+            "Comedy",
+            "Adventure"
+        ],
+        "budget": 150000
+    }
+]
