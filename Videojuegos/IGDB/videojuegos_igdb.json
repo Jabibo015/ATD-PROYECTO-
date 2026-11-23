@@ -1,0 +1,8137 @@
+[
+    {
+        "nombre": "The Legend of Zelda: Ocarina of Time",
+        "user_score": 91.67,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "SoulCalibur",
+        "user_score": 84.04,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario Galaxy 2",
+        "user_score": 88.92,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto IV",
+        "user_score": 83.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario Galaxy",
+        "user_score": 88.76,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto V",
+        "user_score": 89.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Breath of the Wild",
+        "user_score": 92.5,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Perfect Dark",
+        "user_score": 88.65,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Tony Hawk's Pro Skater 3",
+        "user_score": 81.4,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Red Dead Redemption 2",
+        "user_score": 93.26,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metroid Prime",
+        "user_score": 91.47,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto III",
+        "user_score": 84.36,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Super Mario Odyssey",
+        "user_score": 88.83,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Halo: Combat Evolved",
+        "user_score": 83.18,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NFL 2K1",
+        "user_score": 67.47,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Half-Life 2",
+        "user_score": 90.33,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "BioShock",
+        "user_score": 86.69,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "GoldenEye 007",
+        "user_score": 85.76,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Uncharted 2: Among Thieves",
+        "user_score": 88.64,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 4",
+        "user_score": 87.28,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Baldur's Gate 3",
+        "user_score": 95.02,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Orange Box",
+        "user_score": 89.75,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Tekken 3",
+        "user_score": 84.45,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mass Effect 2",
+        "user_score": 91.19,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The House in Fata Morgana - Dreams of the Revenants Edition -",
+        "user_score": 93.99,
+        "category": "Expanded Game",
+        "themes": [
+            "Horror",
+            "Thriller",
+            "Drama",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Elden Ring",
+        "user_score": 93.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Elder Scrolls V: Skyrim",
+        "user_score": 87.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Stealth",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Half-Life",
+        "user_score": 88.44,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Thriller",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "user_score": 92.82,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: The Wind Waker",
+        "user_score": 87.1,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Gran Turismo",
+        "user_score": 82.12,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Ocarina of Time",
+        "user_score": 99.19,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid 2: Sons of Liberty",
+        "user_score": 88.86,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto Double Pack",
+        "user_score": null,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Portal: Companion Collection",
+        "user_score": null,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Baldur's Gate II: Shadows of Amn",
+        "user_score": 88.82,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto: San Andreas",
+        "user_score": 90.09,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
+        "user_score": 99.68,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto: Vice City",
+        "user_score": 87.31,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "LittleBigPlanet",
+        "user_score": 79.1,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Sandbox",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda Collector's Edition",
+        "user_score": 83.89,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Halo 2",
+        "user_score": 83.89,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Gran Turismo 3: A-Spec",
+        "user_score": 84.6,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: A Link to the Past / Four Swords",
+        "user_score": 84.61,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Majora's Mask",
+        "user_score": 86.13,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Last of Us",
+        "user_score": 92.86,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Twilight Princess",
+        "user_score": 85.3,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Hades II",
+        "user_score": 88.6,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Persona 5 Royal",
+        "user_score": 94.43,
+        "category": "Expanded Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Drama",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Last of Us Remastered",
+        "user_score": 93.36,
+        "category": "Remaster",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Red Dead Redemption",
+        "user_score": 89.06,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Portal 2",
+        "user_score": 91.33,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Astro Bot",
+        "user_score": 90.55,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy IX",
+        "user_score": 88.09,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "God of War",
+        "user_score": 91.93,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tony Hawk's Pro Skater 4",
+        "user_score": 79.33,
+        "category": "Main Game",
+        "themes": [
+            "Comedy",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Elden Ring: Shadow of the Erdtree",
+        "user_score": 86.39,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Devil May Cry",
+        "user_score": 81.0,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Batman: Arkham City",
+        "user_score": 87.58,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metroid Prime Remastered",
+        "user_score": 87.6,
+        "category": "Remaster",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Ocarina of Time 3D",
+        "user_score": 90.23,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Chrono Cross",
+        "user_score": 84.78,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Gears of War",
+        "user_score": 81.36,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Elder Scrolls IV: Oblivion",
+        "user_score": 85.07,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Civilization II",
+        "user_score": 87.75,
+        "category": "Main Game",
+        "themes": [
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Quake",
+        "user_score": 82.26,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Metaphor: ReFantazio",
+        "user_score": 85.99,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Call of Duty 4: Modern Warfare",
+        "user_score": 84.26,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "BioShock Infinite",
+        "user_score": 85.64,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Horror",
+            "Historical",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Halo 3",
+        "user_score": 85.02,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Sandbox",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Ninja Gaiden Black",
+        "user_score": 90.72,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid",
+        "user_score": 90.52,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grim Fandango",
+        "user_score": 85.73,
+        "category": "Main Game",
+        "themes": [
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Jet Set Radio",
+        "user_score": 76.99,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario Advance 4: Super Mario Bros. 3",
+        "user_score": 87.13,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "user_score": 84.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "God of War: Ragnarok",
+        "user_score": 90.88,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Resident Evil Code: Veronica",
+        "user_score": 69.72,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Burnout 3: Takedown",
+        "user_score": 83.41,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Diablo",
+        "user_score": 83.9,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid 3: Subsistence",
+        "user_score": 92.14,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Survival",
+            "Historical",
+            "Stealth",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Call of Duty: Modern Warfare 2",
+        "user_score": 81.24,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid 4: Guns of the Patriots",
+        "user_score": 87.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Survival",
+            "Historical",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "God of War",
+        "user_score": 83.5,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Star Wars: Knights of the Old Republic",
+        "user_score": 90.23,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Civilization IV",
+        "user_score": 85.16,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical",
+            "Educational",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Super Mario 64",
+        "user_score": 88.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Virtua Fighter 4",
+        "user_score": 71.09,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Super Smash Bros. Brawl",
+        "user_score": 81.97,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Gran Turismo 2",
+        "user_score": 81.9,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "user_score": 82.12,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto: Chinatown Wars",
+        "user_score": 77.35,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Pac-Man Championship Edition DX",
+        "user_score": 91.01,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Half-Life: Alyx",
+        "user_score": 93.31,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Divinity: Original Sin II",
+        "user_score": 87.48,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Braid",
+        "user_score": 84.75,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Super Mario 3D World",
+        "user_score": 84.34,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Starcraft II: Wings of Liberty",
+        "user_score": 86.9,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "SSX",
+        "user_score": 77.1,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Street Fighter IV",
+        "user_score": 79.05,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Minecraft",
+        "user_score": 85.19,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Survival",
+            "Sandbox",
+            "Kids",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Persona 4 Golden",
+        "user_score": 94.33,
+        "category": "Expanded Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Persona 5",
+        "user_score": 92.45,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Drama",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Quake III Arena",
+        "user_score": 82.51,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Tom Clancy's Splinter Cell",
+        "user_score": 82.96,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Homeworld",
+        "user_score": 84.32,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "SSX 3",
+        "user_score": 89.21,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Okami",
+        "user_score": 87.94,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Fallout 3",
+        "user_score": 83.29,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Survival",
+            "Stealth",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Pro Evolution Soccer 2",
+        "user_score": 78.49,
+        "category": "Port",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "SoulCalibur II",
+        "user_score": 82.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mass Effect 3",
+        "user_score": 85.22,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid V: The Phantom Pain",
+        "user_score": 84.69,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Skies of Arcadia",
+        "user_score": 86.6,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Skyward Sword",
+        "user_score": 81.57,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Mario Kart: Super Circuit",
+        "user_score": 75.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Rock Band 3",
+        "user_score": 82.18,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "NBA 2K1",
+        "user_score": 73.93,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Viewtiful Joe",
+        "user_score": 78.9,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Hades",
+        "user_score": 89.43,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 4",
+        "user_score": 90.12,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Horror",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Virtua Fighter 4: Evolution",
+        "user_score": 74.57,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Uncharted 4: A Thief's End",
+        "user_score": 90.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Smash Bros. Ultimate",
+        "user_score": 86.63,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 2: Deluxe Edition",
+        "user_score": null,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Paper Mario",
+        "user_score": 87.1,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Wipeout XL",
+        "user_score": 75.12,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "INSIDE",
+        "user_score": 85.68,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Stealth",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Flipnote Studio",
+        "user_score": 80.0,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "World Soccer Winning Eleven 7 International",
+        "user_score": 78.21,
+        "category": "Expanded Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Witcher 3: Wild Hunt - Remastered",
+        "user_score": 97.87,
+        "category": "Update",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Clair Obscur: Expedition 33",
+        "user_score": 91.8,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Horizon 4",
+        "user_score": 81.9,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Battle Royale"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "SSX Tricky",
+        "user_score": 80.39,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Uncharted 3: Drake's Deception",
+        "user_score": 84.32,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy VII Rebirth",
+        "user_score": 89.7,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Rock Band",
+        "user_score": 82.23,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "Super Mario Bros. Wonder",
+        "user_score": 87.29,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed",
+        "user_score": 85.01,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Bloodborne",
+        "user_score": 91.32,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Eternal Darkness: Sanity's Requiem",
+        "user_score": 81.98,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Warcraft III: Reign of Chaos",
+        "user_score": 88.32,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Banjo-Kazooie",
+        "user_score": 85.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Gettysburg!",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Celeste",
+        "user_score": 86.71,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Forza Motorsport",
+        "user_score": 79.64,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Horizon 5",
+        "user_score": 84.55,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Vagrant Story",
+        "user_score": 82.49,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Advance Wars",
+        "user_score": 84.12,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Blue Prince",
+        "user_score": 87.44,
+        "category": "Main Game",
+        "themes": [
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Sektori",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy XII",
+        "user_score": 83.93,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Witcher 3: Wild Hunt",
+        "user_score": 93.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario World: Super Mario Advance 2",
+        "user_score": 87.92,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Super Smash Bros. Melee",
+        "user_score": 88.87,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Street Fighter 6",
+        "user_score": 80.1,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Virtua Tennis",
+        "user_score": 86.28,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Rome: Total War",
+        "user_score": 83.09,
+        "category": "Main Game",
+        "themes": [
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Forza Motorsport 3",
+        "user_score": 79.95,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Demon's Souls",
+        "user_score": 86.59,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Undertale",
+        "user_score": 85.88,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Horror",
+            "Comedy",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Batman: Arkham Asylum",
+        "user_score": 85.58,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario Sunshine",
+        "user_score": 81.59,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Tony Hawk's Pro Skater",
+        "user_score": 83.01,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Thief: The Dark Project",
+        "user_score": 86.41,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Fire Emblem: Awakening",
+        "user_score": 85.18,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy X",
+        "user_score": 87.81,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Drama",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Wave Race 64",
+        "user_score": 73.25,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Alpha Centauri",
+        "user_score": 92.04,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Divinity: Original Sin II - Definitive Edition",
+        "user_score": 90.18,
+        "category": "Expanded Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Galactic Civilizations II: Twilight of the Arnor",
+        "user_score": 58.13,
+        "category": "Expansion",
+        "themes": [
+            "Science fiction",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Guitar Hero II",
+        "user_score": 81.27,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy VII",
+        "user_score": 90.67,
+        "category": "Expanded Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Chrono Trigger",
+        "user_score": 93.25,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy XIV: Endwalker",
+        "user_score": 91.87,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Journey",
+        "user_score": 85.45,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Conker's Bad Fur Day",
+        "user_score": 81.62,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mario Kart 8 Deluxe",
+        "user_score": 84.29,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Kids",
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metroid Prime 2: Echoes",
+        "user_score": 85.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Metroid Fusion",
+        "user_score": 84.46,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "The Witcher 3: Wild Hunt - Blood and Wine",
+        "user_score": 96.41,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy VI",
+        "user_score": 89.63,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Rayman Legends",
+        "user_score": 84.53,
+        "category": "Port",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "UFO 50",
+        "user_score": 58.21,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Medal of Honor: Allied Assault",
+        "user_score": 82.83,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Myth: The Fallen Lords",
+        "user_score": 73.32,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Microsoft Flight Simulator",
+        "user_score": 91.27,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Guitar Hero",
+        "user_score": 83.33,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "Metroid Prime Trilogy",
+        "user_score": 95.17,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Baldur's Gate",
+        "user_score": 85.26,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Overwatch",
+        "user_score": 81.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Big Walk",
+        "user_score": 81.22,
+        "category": "Main Game",
+        "themes": [
+            "Comedy",
+            "Sandbox",
+            "Open world",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Klonoa 2: Lunatea's Veil",
+        "user_score": 78.15,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mario Tennis",
+        "user_score": 76.99,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Colony Wars",
+        "user_score": 69.87,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Ratchet & Clank: Up Your Arsenal",
+        "user_score": 80.73,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Resident Evil (Remake)",
+        "user_score": 88.41,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metal Gear Solid 3: Snake Eater",
+        "user_score": 92.67,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Survival",
+            "Historical",
+            "Stealth",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Twisted Metal: Black",
+        "user_score": 81.01,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Thriller",
+            "Survival",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Spyro: Year of the Dragon",
+        "user_score": 80.95,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Tomb Raider",
+        "user_score": 81.7,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Survival",
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Horizon 3",
+        "user_score": 83.98,
+        "category": "Main Game",
+        "themes": [
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Dwarf Fortress",
+        "user_score": 87.4,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Survival",
+            "Stealth",
+            "Sandbox",
+            "Open world",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Kentucky Route Zero - Act III",
+        "user_score": null,
+        "category": "Episode",
+        "themes": [
+            "Drama"
+        ],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Crysis",
+        "user_score": 80.58,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Ninja Gaiden",
+        "user_score": 78.81,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "DOA2: Hardcore",
+        "user_score": null,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "MLB 10: The Show",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Yoshi's Island: Super Mario Advance 3",
+        "user_score": 81.17,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Star Wars Jedi Knight: Dark Forces II",
+        "user_score": 82.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "ESPN NFL Football",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Halo: Reach",
+        "user_score": 84.07,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Galactic Civilizations II: Dark Avatar",
+        "user_score": 50.63,
+        "category": "Expansion",
+        "themes": [
+            "Science fiction",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Mass Effect",
+        "user_score": 86.16,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Operative: No One Lives Forever",
+        "user_score": 83.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 3: Nemesis",
+        "user_score": 80.59,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Motorsport 4",
+        "user_score": 83.97,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Resident Evil",
+        "user_score": 77.74,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Crusader Kings III",
+        "user_score": 82.88,
+        "category": "Main Game",
+        "themes": [
+            "Historical",
+            "Sandbox",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Split Fiction",
+        "user_score": 88.51,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Planescape: Torment",
+        "user_score": 88.31,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Neverwinter Nights",
+        "user_score": 80.93,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Castlevania: Aria of Sorrow",
+        "user_score": 88.11,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Legacy of Kain: Soul Reaver",
+        "user_score": 80.22,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Golden Sun",
+        "user_score": 81.67,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "DOOM: The Dark Ages - Revelations",
+        "user_score": 79.95,
+        "category": "Expansion",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Disco Elysium",
+        "user_score": 92.6,
+        "category": "Main Game",
+        "themes": [
+            "Thriller",
+            "Drama",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "World Soccer Winning Eleven 8 International",
+        "user_score": 75.02,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NieR: Automata - Game of the YoRHa Edition",
+        "user_score": 86.23,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Castlevania: Circle of the Moon",
+        "user_score": 68.91,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Donkey Kong Bananza",
+        "user_score": 92.29,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Satisfactory",
+        "user_score": 73.06,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Dark Souls II",
+        "user_score": 79.41,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Shovel Knight: Treasure Trove",
+        "user_score": 85.33,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mario Golf",
+        "user_score": 69.35,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Crash Bandicoot: Warped",
+        "user_score": 83.58,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mario Kart DS",
+        "user_score": 81.9,
+        "category": "Main Game",
+        "themes": [
+            "Kids",
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Assassin's Creed II",
+        "user_score": 86.71,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Historical",
+            "Stealth",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Animal Well",
+        "user_score": 81.51,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Balatro",
+        "user_score": 86.06,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Animal Crossing: New Horizons",
+        "user_score": 82.12,
+        "category": "Main Game",
+        "themes": [
+            "Sandbox",
+            "Kids",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy XIV: Shadowbringers",
+        "user_score": 91.06,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Horizon 6",
+        "user_score": 82.25,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "World of Warcraft: Cataclysm",
+        "user_score": 76.75,
+        "category": "Expansion",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Bayonetta",
+        "user_score": 81.96,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Diablo III: Ultimate Evil Edition",
+        "user_score": 80.77,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "ICO",
+        "user_score": 85.34,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "user_score": 67.4,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Mario & Luigi: Superstar Saga",
+        "user_score": 85.39,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Hollow Knight: Silksong",
+        "user_score": 92.47,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Syphon Filter",
+        "user_score": 79.37,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Ape Escape",
+        "user_score": 77.75,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tony Hawk's Underground",
+        "user_score": 80.01,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Mario & Luigi: Bowser's Inside Story",
+        "user_score": 89.44,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Trials Evolution",
+        "user_score": 77.85,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto IV: The Lost and Damned",
+        "user_score": 79.02,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "FIFA Soccer 12",
+        "user_score": 74.53,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Factorio",
+        "user_score": 85.81,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Survival",
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Black & White",
+        "user_score": 74.76,
+        "category": "Main Game",
+        "themes": [
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Ratchet & Clank: Going Commando",
+        "user_score": 81.26,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "FIFA Soccer 10",
+        "user_score": 69.85,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Portal",
+        "user_score": 86.41,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Phantom Hourglass",
+        "user_score": 76.0,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Dance Dance Revolution",
+        "user_score": 79.84,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "Jack Jeanne",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Drama",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Advance Wars: Dual Strike",
+        "user_score": 85.91,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "MLB 11: The Show",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NieR: Automata - Become as Gods Edition",
+        "user_score": 87.62,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Jak and Daxter: The Precursor Legacy",
+        "user_score": 80.03,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Star Wars Rogue Leader: Rogue Squadron II",
+        "user_score": 82.67,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Deus Ex",
+        "user_score": 86.31,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Thriller",
+            "Stealth",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Donkey Kong 64",
+        "user_score": 74.02,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Stephen's Sausage Roll",
+        "user_score": 69.82,
+        "category": "Main Game",
+        "themes": [
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Tsukihime: A Piece of Blue Glass Moon",
+        "user_score": 86.09,
+        "category": "Remake",
+        "themes": [
+            "Fantasy",
+            "Horror",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Panzer Dragoon Orta",
+        "user_score": 63.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Portal: Still Alive",
+        "user_score": 85.72,
+        "category": "Expanded Game",
+        "themes": [
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Half-Life 2: Episode Two",
+        "user_score": 87.57,
+        "category": "Standalone Expansion",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Elden Ring: Tarnished Edition",
+        "user_score": null,
+        "category": "Bundle",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Shin Megami Tensei: Persona 4",
+        "user_score": 88.41,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Hollow Knight",
+        "user_score": 91.8,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "MLB 09: The Show",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Blast Corps",
+        "user_score": 73.0,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "WWF SmackDown! 2: Know Your Role",
+        "user_score": 80.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Civilization III",
+        "user_score": 80.0,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical",
+            "Educational",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "VIDEOVERSE",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Drama",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "LIMBO",
+        "user_score": 80.94,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Silent Hunter III",
+        "user_score": 65.28,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Stealth",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Chained Echoes",
+        "user_score": 82.95,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Super Meat Boy",
+        "user_score": 82.34,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Okami HD",
+        "user_score": 88.19,
+        "category": "Remaster",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Geometry Wars: Retro Evolved 2",
+        "user_score": 87.56,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Sid Meier's Civilization V",
+        "user_score": 85.14,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Historical",
+            "Warfare",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Falcon 4.0: Allied Force",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Stanley Parable: Ultra Deluxe",
+        "user_score": 86.92,
+        "category": "Expanded Game",
+        "themes": [
+            "Comedy",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Metroid Prime 3: Corruption",
+        "user_score": 87.72,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Monster Hunter: World",
+        "user_score": 83.65,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Pushmo",
+        "user_score": 84.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Freedom Force",
+        "user_score": 74.01,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "FIFA Soccer 13",
+        "user_score": 75.18,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "and Roger",
+        "user_score": 79.83,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Sekiro: Shadows Die Twice",
+        "user_score": 89.71,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tekken 8",
+        "user_score": 74.65,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Chicory: A Colorful Tale",
+        "user_score": 81.12,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Total War: Shogun 2",
+        "user_score": 83.83,
+        "category": "Main Game",
+        "themes": [
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Empire: Total War",
+        "user_score": 77.95,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical",
+            "4X (explore, expand, exploit, and exterminate)"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Beetle Adventure Racing",
+        "user_score": 72.34,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy VIII",
+        "user_score": 82.3,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Kentucky Route Zero - Act IV",
+        "user_score": null,
+        "category": "Episode",
+        "themes": [
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Astro Bot Rescue Mission",
+        "user_score": 92.32,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Command & Conquer: Red Alert",
+        "user_score": 84.65,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Star Wars Jedi Knight II: Jedi Outcast",
+        "user_score": 84.08,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Wipeout HD Fury",
+        "user_score": 78.56,
+        "category": "Expansion",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Shin Megami Tensei: Persona 3 Portable",
+        "user_score": 84.35,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Schrodinger's Call",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Neon White",
+        "user_score": 82.51,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Xenoblade Chronicles: Definitive Edition",
+        "user_score": 81.09,
+        "category": "Expanded Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Open world",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Burnout Revenge",
+        "user_score": 78.6,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Dragon Quest VIII: Journey of the Cursed King",
+        "user_score": 87.25,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Metroid: Zero Mission",
+        "user_score": 85.89,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Pikmin",
+        "user_score": 80.77,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Sacrifice",
+        "user_score": 84.28,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy VII Remake Intergrade",
+        "user_score": 85.98,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Monster Hunter: World - Iceborne",
+        "user_score": 85.5,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Dead Cells",
+        "user_score": 82.89,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 4: Gold Edition",
+        "user_score": null,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Rhythm Doctor",
+        "user_score": 87.92,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "despelote",
+        "user_score": 71.13,
+        "category": "Main Game",
+        "themes": [
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Rez",
+        "user_score": 86.07,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Demon's Souls",
+        "user_score": 85.49,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Castlevania: Symphony of the Night",
+        "user_score": 92.01,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Fable II",
+        "user_score": 79.31,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Rez Infinite",
+        "user_score": 73.61,
+        "category": "Expanded Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Auditory",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Final Fantasy Chronicles",
+        "user_score": 82.77,
+        "category": "Bundle",
+        "themes": [
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Fallout",
+        "user_score": 85.63,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Survival",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Valheim",
+        "user_score": 84.28,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Survival",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Pizza Tower",
+        "user_score": 80.97,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "The Talos Principle: Reawakened",
+        "user_score": null,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Assassin's Creed: Brotherhood",
+        "user_score": 82.83,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Historical",
+            "Stealth",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Left 4 Dead",
+        "user_score": 80.1,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Dark Souls III",
+        "user_score": 87.15,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Phantasy Star Online",
+        "user_score": 78.2,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NASCAR Racing 2002 Season",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Jade Empire",
+        "user_score": 78.87,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Gunstar Heroes",
+        "user_score": 81.2,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Dark Souls",
+        "user_score": 86.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Pokemon Pokopia",
+        "user_score": 84.1,
+        "category": "Main Game",
+        "themes": [
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Need for Speed: Hot Pursuit 2",
+        "user_score": 75.19,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Grand Theft Auto IV: The Ballad of Gay Tony",
+        "user_score": 80.53,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Comedy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Kynseed",
+        "user_score": 68.63,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Business",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Thank Goodness You're Here!",
+        "user_score": 80.8,
+        "category": "Main Game",
+        "themes": [
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Homeworld: Cataclysm",
+        "user_score": 80.49,
+        "category": "Standalone Expansion",
+        "themes": [
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Combat Mission: Barbarossa to Berlin",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Cyberpunk 2077: Phantom Liberty",
+        "user_score": 91.19,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tetris Effect",
+        "user_score": 86.48,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "Fez",
+        "user_score": 81.25,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Dead Space",
+        "user_score": 83.66,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Cave Story",
+        "user_score": 84.38,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Guild Wars",
+        "user_score": 80.16,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Walking Dead: Episode 5 - No Time Left",
+        "user_score": 85.13,
+        "category": "Episode",
+        "themes": [
+            "Action",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Atari 50: The Anniversary Celebration",
+        "user_score": 80.0,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Fire Emblem: Fortune's Weave",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "World Soccer Winning Eleven 9",
+        "user_score": 80.76,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Ace Combat 04: Shattered Skies",
+        "user_score": 83.53,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Max Payne",
+        "user_score": 85.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Thriller"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Hollow Knight: Voidheart Edition",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Fire Emblem: Three Houses",
+        "user_score": 85.53,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "World in Conflict",
+        "user_score": 80.67,
+        "category": "Main Game",
+        "themes": [
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NieR: Automata - The End of YoRHa Edition",
+        "user_score": 78.74,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Resident Evil Requiem",
+        "user_score": 88.65,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Castlevania: Dawn of Sorrow",
+        "user_score": 84.48,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "NASCAR Racing 4",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Far Cry",
+        "user_score": 77.82,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Horizon Forbidden West: Complete Edition",
+        "user_score": 88.81,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Nuclear Throne",
+        "user_score": 72.5,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Dead Space",
+        "user_score": 85.67,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Like a Dragon: Infinite Wealth",
+        "user_score": 83.41,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Desktop Explorer",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [
+            "Thriller",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Lone Echo",
+        "user_score": 90.32,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Virtual Reality"
+        ]
+    },
+    {
+        "nombre": "XCOM: Enemy Unknown",
+        "user_score": 82.55,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NASCAR Racing 2003 Season",
+        "user_score": 74.99,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Shin Megami Tensei: Persona 3 FES",
+        "user_score": 88.12,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Apex Legends",
+        "user_score": 75.39,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative",
+            "Battle Royale"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "NORCO",
+        "user_score": 78.77,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Madden NFL 2003",
+        "user_score": 69.92,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
+        "user_score": 99.51,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Madden NFL 2002",
+        "user_score": 73.92,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Madden NFL 2004",
+        "user_score": 69.72,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Company of Heroes",
+        "user_score": 85.3,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Last of Us Part II",
+        "user_score": 90.39,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Unreal Tournament 2004",
+        "user_score": 82.97,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "God of War II",
+        "user_score": 85.57,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Gears of War 2",
+        "user_score": 83.43,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "World of Warcraft",
+        "user_score": 83.79,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "God of War III",
+        "user_score": 86.05,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NFL 2K3",
+        "user_score": 51.0,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NHL 2002",
+        "user_score": 85.83,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Prince of Persia: The Sands of Time",
+        "user_score": 81.61,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Sims",
+        "user_score": 79.59,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Sandbox",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Team Fortress 2",
+        "user_score": 82.76,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "System Shock 2",
+        "user_score": 88.63,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "ESPN NFL 2K5",
+        "user_score": 91.08,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Age of Empires II: The Age of Kings",
+        "user_score": 86.15,
+        "category": "Main Game",
+        "themes": [
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Super Smash Bros. for Nintendo 3DS / Wii U",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Medal of Honor",
+        "user_score": 69.02,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Rock Band 2",
+        "user_score": 86.44,
+        "category": "Main Game",
+        "themes": [
+            "Party"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Auditory"
+        ]
+    },
+    {
+        "nombre": "The ICO & Shadow of the Colossus Collection",
+        "user_score": 89.47,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Out of the Park Baseball 17",
+        "user_score": 80.0,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Madden NFL 2005",
+        "user_score": 69.98,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Against the Storm",
+        "user_score": 83.29,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "LittleBigPlanet 2",
+        "user_score": 82.33,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Comedy",
+            "Sandbox",
+            "Kids"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Slay The Princess - The Pristine Cut",
+        "user_score": 70.83,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Thriller",
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "World of Warcraft: Wrath of the Lich King",
+        "user_score": 90.37,
+        "category": "Expansion",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "I Was a Teenage Exocolonist",
+        "user_score": 76.64,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction",
+            "Drama",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Madden NFL 2001",
+        "user_score": 79.78,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Bayonetta 2",
+        "user_score": 87.45,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "IL-2 Sturmovik",
+        "user_score": 73.6,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "FreeSpace 2",
+        "user_score": 79.55,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+        "user_score": 85.7,
+        "category": "Expanded Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Ocarina of Time / Master Quest",
+        "user_score": 90.0,
+        "category": "Standalone Expansion",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NCAA Football 2003",
+        "user_score": 43.0,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "God of War: Chains of Olympus",
+        "user_score": 77.3,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "World of Warcraft: The Burning Crusade",
+        "user_score": 90.77,
+        "category": "Expansion",
+        "themes": [
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Shadow of the Colossus",
+        "user_score": 89.13,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Longest Journey",
+        "user_score": 83.58,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Mystery"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Tony Hawk's Pro Skater 2",
+        "user_score": 85.88,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Killzone 2",
+        "user_score": 78.22,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Battlefield 2",
+        "user_score": 81.56,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "God of War Collection",
+        "user_score": 87.73,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Gears of War 3",
+        "user_score": 81.83,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way",
+        "user_score": 85.91,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Stealth",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: A Link Between Worlds",
+        "user_score": 87.33,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Historical",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Resident Evil 2",
+        "user_score": 87.31,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Caves of Qud",
+        "user_score": 87.17,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Call of Duty",
+        "user_score": 81.04,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Project Gotham Racing 2",
+        "user_score": 83.46,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "The Sims 2",
+        "user_score": 79.13,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Comedy",
+            "Sandbox",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "World of Goo",
+        "user_score": 79.59,
+        "category": "Main Game",
+        "themes": [
+            "Comedy",
+            "Sandbox"
+        ],
+        "game_modes": [
+            "Single player",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Slay the Princess",
+        "user_score": 75.18,
+        "category": "Main Game",
+        "themes": [
+            "Horror",
+            "Thriller",
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person",
+            "Text"
+        ]
+    },
+    {
+        "nombre": "Marvel vs. Capcom 2",
+        "user_score": 84.28,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "NBA Street Vol. 2",
+        "user_score": 87.55,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: The Wind Waker HD",
+        "user_score": 90.39,
+        "category": "Remaster",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Kids",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NHL 2001",
+        "user_score": 69.34,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Marvel's Spider-Man 2",
+        "user_score": 84.48,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Stealth",
+            "Drama",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Mina the Hollower",
+        "user_score": 82.06,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NCAA Football 2002",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Ori and the Will of the Wisps",
+        "user_score": 87.09,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Trails in the Sky 2nd Chapter",
+        "user_score": null,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Drama"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "MVP Baseball 2004",
+        "user_score": 89.51,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "The Last of Us Part II Remastered",
+        "user_score": 91.99,
+        "category": "Remaster",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "DAVE THE DIVER",
+        "user_score": 81.35,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Business"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Mark of the Ninja",
+        "user_score": 84.43,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Stealth"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Dead Space 2",
+        "user_score": 86.42,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Pikmin 2",
+        "user_score": 86.65,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Super Mario 3D Land",
+        "user_score": 80.94,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Mario Kart 8 DLC Pack 2",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Lost and Found Co.",
+        "user_score": 89.93,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Flight Simulator 2002",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Dota 2",
+        "user_score": 78.92,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "TimeSplitters 2",
+        "user_score": 86.33,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Science fiction",
+            "Horror",
+            "Historical",
+            "Comedy",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Guild Wars 2",
+        "user_score": 80.0,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative",
+            "Massively Multiplayer Online (MMO)"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Forza Motorsport 2",
+        "user_score": 78.51,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Into the Breach",
+        "user_score": 82.46,
+        "category": "Main Game",
+        "themes": [
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "GTR 2",
+        "user_score": 79.96,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Bayonetta + Bayonetta 2",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "NBA 2K12",
+        "user_score": 81.53,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Witcher 3: Wild Hunt - Hearts of Stone",
+        "user_score": 91.8,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Halo 2 Multiplayer Map Pack",
+        "user_score": 80.53,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Borderlands 2",
+        "user_score": 83.64,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Comedy",
+            "Sandbox",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Call of Duty 2",
+        "user_score": 82.88,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: Majora's Mask 3D",
+        "user_score": 90.41,
+        "category": "Remake",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person",
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Age of Mythology",
+        "user_score": 81.64,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Wipeout 3",
+        "user_score": 80.0,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "First person",
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tiger Woods PGA Tour 2004",
+        "user_score": 78.57,
+        "category": "Main Game",
+        "themes": [
+            "Non-fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Walking Dead: A Telltale Games Series",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Pillars of Eternity",
+        "user_score": 80.53,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NHL 2K3",
+        "user_score": 60.0,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Left 4 Dead 2",
+        "user_score": 81.98,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Horror",
+            "Survival"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Worldwide Soccer Manager 2005",
+        "user_score": 74.27,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Slay the Spire",
+        "user_score": 84.1,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Titanfall 2",
+        "user_score": 83.23,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "NBA 2K3",
+        "user_score": 70.27,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Tekken 2",
+        "user_score": 76.52,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Xenoblade Chronicles 3",
+        "user_score": 85.02,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Science fiction",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "F-Zero GX",
+        "user_score": 80.4,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Super Mario 3D World + Bowser's Fury",
+        "user_score": 88.68,
+        "category": "Bundle",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "NBA Street V3",
+        "user_score": 72.84,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Legend of Zelda: The Minish Cap",
+        "user_score": 84.32,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Fantasy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "NCAA Football 2004",
+        "user_score": 70.15,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "The Seance of Blake Manor",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Football Manager Handheld",
+        "user_score": null,
+        "category": "Port",
+        "themes": [
+            "Business"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Streets of Rage 2",
+        "user_score": 84.39,
+        "category": "Main Game",
+        "themes": [
+            "Action"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Out of the Park Baseball 15",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Quake II - Enhanced Edition",
+        "user_score": null,
+        "category": null,
+        "themes": [],
+        "game_modes": [],
+        "player_perspective": []
+    },
+    {
+        "nombre": "Destiny 2: The Final Shape",
+        "user_score": 73.05,
+        "category": "Expansion",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer",
+            "Co-operative"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "Death Stranding 2: On The Beach",
+        "user_score": 89.47,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction",
+            "Horror",
+            "Stealth",
+            "Open world"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    },
+    {
+        "nombre": "Cuphead in the Delicious Last Course",
+        "user_score": 86.24,
+        "category": "Bundle",
+        "themes": [
+            "Action",
+            "Fantasy",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "Rise of Nations",
+        "user_score": 82.4,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical",
+            "Warfare"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "Bird view / Isometric"
+        ]
+    },
+    {
+        "nombre": "Descent 3",
+        "user_score": 78.22,
+        "category": "Main Game",
+        "themes": [
+            "Action",
+            "Science fiction"
+        ],
+        "game_modes": [
+            "Single player",
+            "Multiplayer"
+        ],
+        "player_perspective": [
+            "First person"
+        ]
+    },
+    {
+        "nombre": "The Curse of Monkey Island",
+        "user_score": 84.74,
+        "category": "Main Game",
+        "themes": [
+            "Fantasy",
+            "Historical",
+            "Comedy"
+        ],
+        "game_modes": [
+            "Single player"
+        ],
+        "player_perspective": [
+            "Side view"
+        ]
+    },
+    {
+        "nombre": "World Series Baseball 2K3",
+        "user_score": null,
+        "category": "Main Game",
+        "themes": [],
+        "game_modes": [
+            "Single player",
+            "Split screen"
+        ],
+        "player_perspective": [
+            "Third person"
+        ]
+    }
+]
