@@ -1,0 +1,7023 @@
+[
+    {
+        "titulo": "The Legend of Zelda: Ocarina of Time",
+        "Valoración": "4.5",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "64DD",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "SoulCalibur",
+        "Valoración": "4.0",
+        "duracion_min": 300.0,
+        "generos": [
+            "Arcade",
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Xbox 360",
+            "Dreamcast",
+            "Android",
+            "Arcade",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Super Mario Galaxy 2",
+        "Valoración": "4.4",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto IV",
+        "Valoración": "4.0",
+        "duracion_min": 2340.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Super Mario Galaxy",
+        "Valoración": "4.4",
+        "duracion_min": 1620.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto V",
+        "Valoración": "4.0",
+        "duracion_min": 12840.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "Valoración": "4.5",
+        "duracion_min": 7380.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo Switch",
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Tony Hawk's Pro Skater 3",
+        "Valoración": "3.7",
+        "duracion_min": 720.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo 64",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Perfect Dark",
+        "Valoración": "3.9",
+        "duracion_min": 900.0,
+        "generos": [
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Red Dead Redemption 2",
+        "Valoración": "4.6",
+        "duracion_min": 7320.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "Metroid Prime",
+        "Valoración": "4.3",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto III",
+        "Valoración": "3.4",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 4",
+            "PlayStation 2",
+            "Xbox",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Super Mario Odyssey",
+        "Valoración": "4.3",
+        "duracion_min": 2520.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Halo: Combat Evolved",
+        "Valoración": "3.9",
+        "duracion_min": 900.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Xbox 360",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "NFL 2K1",
+        "Valoración": "3.6",
+        "duracion_min": 420.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "Half-Life 2",
+        "Valoración": "4.4",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360",
+            "Xbox",
+            "Android"
+        ]
+    },
+    {
+        "titulo": "BioShock",
+        "Valoración": "4.1",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "GoldenEye 007",
+        "Valoración": "3.7",
+        "duracion_min": 660.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Uncharted 2: Among Thieves",
+        "Valoración": "4.1",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Resident Evil 4",
+        "Valoración": "4.5",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Baldur's Gate 3",
+        "Valoración": "4.6",
+        "duracion_min": 8580.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "The Orange Box",
+        "Valoración": "4.5",
+        "duracion_min": 3180.0,
+        "generos": [
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Tekken 3",
+        "Valoración": "4.0",
+        "duracion_min": 1080.0,
+        "generos": [
+            "Arcade",
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Mass Effect 2",
+        "Valoración": "4.4",
+        "duracion_min": 2640.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The House in Fata Morgana",
+        "Valoración": "4.4",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo 3DS",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Elden Ring",
+        "Valoración": "4.5",
+        "duracion_min": 9000.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Elder Scrolls V: Skyrim",
+        "Valoración": "4.0",
+        "duracion_min": 10860.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Half-Life",
+        "Valoración": "4.1",
+        "duracion_min": 720.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Tears of the Kingdom",
+        "Valoración": "4.3",
+        "duracion_min": 6660.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: The Wind Waker",
+        "Valoración": "4.3",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Gran Turismo",
+        "Valoración": "3.6",
+        "duracion_min": 660.0,
+        "generos": [
+            "Racing",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid 2: Sons of Liberty",
+        "Valoración": "4.5",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto Double Pack",
+        "Valoración": "4.1",
+        "duracion_min": 0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Portal: Companion Collection",
+        "Valoración": "4.6",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Baldur's Gate II: Shadows of Amn",
+        "Valoración": "4.3",
+        "duracion_min": 5220.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto: San Andreas",
+        "Valoración": "4.3",
+        "duracion_min": 4260.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 4",
+            "PlayStation 3",
+            "Xbox 360",
+            "PlayStation 2",
+            "Xbox",
+            "Android",
+            "iOS",
+            "Windows Phone"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
+        "Valoración": "4.5",
+        "duracion_min": 4440.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto: Vice City",
+        "Valoración": "3.9",
+        "duracion_min": 1440.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "LittleBigPlanet",
+        "Valoración": "3.9",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda Collector's Edition",
+        "Valoración": "4.4",
+        "duracion_min": 1320.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Halo 2",
+        "Valoración": "4.2",
+        "duracion_min": 1320.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox One",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Gran Turismo 3: A-Spec",
+        "Valoración": "3.9",
+        "duracion_min": 1980.0,
+        "generos": [
+            "Racing",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: A Link to the Past & Four Swords",
+        "Valoración": "4.1",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Majora's Mask",
+        "Valoración": "4.5",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "64DD",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "The Last of Us",
+        "Valoración": "4.4",
+        "duracion_min": 1440.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Twilight Princess",
+        "Valoración": "4.2",
+        "duracion_min": 2040.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Madden NFL 2003",
+        "Valoración": "3.4",
+        "duracion_min": 2460.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Hades II",
+        "Valoración": "4.4",
+        "duracion_min": 3120.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "Indie",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Persona 5 Royal",
+        "Valoración": "4.5",
+        "duracion_min": 7260.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Last of Us Remastered",
+        "Valoración": "4.4",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Red Dead Redemption",
+        "Valoración": "4.2",
+        "duracion_min": 1620.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Portal 2",
+        "Valoración": "4.5",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
+        "Valoración": "4.6",
+        "duracion_min": 3360.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2"
+        ]
+    },
+    {
+        "titulo": "Astro Bot",
+        "Valoración": "4.5",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy IX",
+        "Valoración": "4.4",
+        "duracion_min": 2760.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "God of War",
+        "Valoración": "3.9",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Tony Hawk's Pro Skater 4",
+        "Valoración": "2.7",
+        "duracion_min": 0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Digiblast",
+            "Game Boy Advance",
+            "Tapwave Zodiac"
+        ]
+    },
+    {
+        "titulo": "Elden Ring: Shadow of the Erdtree",
+        "Valoración": "4.4",
+        "duracion_min": 2940.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Devil May Cry",
+        "Valoración": "3.6",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Madden NFL 2002",
+        "Valoración": "3.1",
+        "duracion_min": 1260.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Batman: Arkham City",
+        "Valoración": "4.3",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch",
+            "PlayStation 3",
+            "Xbox 360",
+            "OnLive Game System"
+        ]
+    },
+    {
+        "titulo": "Metroid Prime Remastered",
+        "Valoración": "4.3",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Ocarina of Time 3D",
+        "Valoración": "4.4",
+        "duracion_min": 2040.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "Chrono Cross",
+        "Valoración": "4.0",
+        "duracion_min": 2220.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Madden NFL 2004",
+        "Valoración": "3.7",
+        "duracion_min": 300.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Gears of War",
+        "Valoración": "3.7",
+        "duracion_min": 600.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The Elder Scrolls IV: Oblivion",
+        "Valoración": "3.9",
+        "duracion_min": 3780.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Civilization II",
+        "Valoración": "3.9",
+        "duracion_min": 960.0,
+        "generos": [
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Quake",
+        "Valoración": "3.9",
+        "duracion_min": 480.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Zeebo",
+            "Sega Saturn",
+            "Amiga",
+            "DOS",
+            "Legacy Mobile Device"
+        ]
+    },
+    {
+        "titulo": "Metaphor: ReFantazio",
+        "Valoración": "4.3",
+        "duracion_min": 4740.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Call of Duty 4: Modern Warfare",
+        "Valoración": "3.9",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Shooter",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "BioShock Infinite",
+        "Valoración": "3.7",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Halo 3",
+        "Valoración": "4.3",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox One",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Ninja Gaiden Black",
+        "Valoración": "4.2",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid",
+        "Valoración": "4.3",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Grim Fandango",
+        "Valoración": "4.1",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Point-and-Click",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Jet Set Radio",
+        "Valoración": "3.7",
+        "duracion_min": 420.0,
+        "generos": [
+            "Arcade",
+            "Platform",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation Vita",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Super Mario Advance 4: Super Mario Bros. 3",
+        "Valoración": "4.0",
+        "duracion_min": 360.0,
+        "generos": [
+            "Platform"
+        ],
+        "Plataformas": [
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "God of War: Ragnarok",
+        "Valoración": "4.2",
+        "duracion_min": 2760.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Resident Evil Code: Veronica",
+        "Valoración": "3.6",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "Burnout 3: Takedown",
+        "Valoración": "4.2",
+        "duracion_min": 960.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Diablo",
+        "Valoración": "3.7",
+        "duracion_min": 720.0,
+        "generos": [
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid 3: Subsistence",
+        "Valoración": "4.6",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Call of Duty: Modern Warfare 2",
+        "Valoración": "4.0",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid 4: Guns of the Patriots",
+        "Valoración": "4.1",
+        "duracion_min": 1080.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Star Wars: Knights of the Old Republic",
+        "Valoración": "4.2",
+        "duracion_min": 1980.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "Xbox",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Civilization IV",
+        "Valoración": "3.9",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Super Mario 64",
+        "Valoración": "4.2",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Virtua Fighter 4",
+        "Valoración": "3.5",
+        "duracion_min": 120.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Super Smash Bros. Brawl",
+        "Valoración": "3.9",
+        "duracion_min": 7200.0,
+        "generos": [
+            "Fighting",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Company of Heroes",
+        "Valoración": "3.7",
+        "duracion_min": 1560.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Gran Turismo 2",
+        "Valoración": "3.9",
+        "duracion_min": 2160.0,
+        "generos": [
+            "Racing",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "The Last of Us Part II",
+        "Valoración": "4.3",
+        "duracion_min": 2280.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 5",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "Valoración": "3.3",
+        "duracion_min": 240.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Game Boy Advance",
+            "Legacy Mobile Device"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto: Chinatown Wars",
+        "Valoración": "3.3",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo DS",
+            "PlayStation Portable",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Pac-Man Championship Edition DX",
+        "Valoración": "3.9",
+        "duracion_min": 540.0,
+        "generos": [
+            "Arcade",
+            "Puzzle",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS",
+            "Windows Phone"
+        ]
+    },
+    {
+        "titulo": "Half-Life: Alyx",
+        "Valoración": "4.5",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "SteamVR"
+        ]
+    },
+    {
+        "titulo": "Divinity: Original Sin II",
+        "Valoración": "4.2",
+        "duracion_min": 4740.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Unreal Tournament 2004",
+        "Valoración": "4.1",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Braid",
+        "Valoración": "3.5",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "God of War II",
+        "Valoración": "4.2",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Super Mario 3D World",
+        "Valoración": "3.9",
+        "duracion_min": 1620.0,
+        "generos": [
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Starcraft II: Wings of Liberty",
+        "Valoración": "4.0",
+        "duracion_min": 3240.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "SSX",
+        "Valoración": "3.4",
+        "duracion_min": 420.0,
+        "generos": [
+            "Puzzle",
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Street Fighter IV",
+        "Valoración": "3.6",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "Arcade",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Minecraft",
+        "Valoración": "N/A",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Web browser"
+        ]
+    },
+    {
+        "titulo": "Persona 4 Golden",
+        "Valoración": "4.3",
+        "duracion_min": 4800.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation Vita"
+        ]
+    },
+    {
+        "titulo": "Persona 5",
+        "Valoración": "4.2",
+        "duracion_min": 7320.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 4",
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "SSX 3",
+        "Valoración": "4.1",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Racing",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Homeworld",
+        "Valoración": "4.0",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Quake III Arena",
+        "Valoración": "4.0",
+        "duracion_min": 1560.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Xbox 360",
+            "Dreamcast",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Tom Clancy's Splinter Cell",
+        "Valoración": "N/A",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Okami",
+        "Valoración": "4.2",
+        "duracion_min": 1860.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Wii",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Fallout 3",
+        "Valoración": "3.6",
+        "duracion_min": 2580.0,
+        "generos": [
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Gears of War 2",
+        "Valoración": "4.0",
+        "duracion_min": 720.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "SoulCalibur II",
+        "Valoración": "3.9",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Pro Evolution Soccer 2",
+        "Valoración": "3.7",
+        "duracion_min": 4980.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Mass Effect 3",
+        "Valoración": "3.9",
+        "duracion_min": 2880.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid V: The Phantom Pain",
+        "Valoración": "4.0",
+        "duracion_min": 4680.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Skies of Arcadia",
+        "Valoración": "4.2",
+        "duracion_min": 2340.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Skyward Sword",
+        "Valoración": "3.8",
+        "duracion_min": 2520.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Mario Kart: Super Circuit",
+        "Valoración": "2.9",
+        "duracion_min": 180.0,
+        "generos": [
+            "Arcade",
+            "Racing"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS",
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Rock Band 3",
+        "Valoración": "4.1",
+        "duracion_min": 4260.0,
+        "generos": [
+            "Music"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Wii",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "NBA 2K1",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "Viewtiful Joe",
+        "Valoración": "3.7",
+        "duracion_min": 420.0,
+        "generos": [
+            "Brawler",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Hades",
+        "Valoración": "3.7",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Virtua Fighter 4: Evolution",
+        "Valoración": "3.9",
+        "duracion_min": 4800.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Uncharted 4: A Thief's End",
+        "Valoración": "4.3",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Super Smash Bros. Ultimate",
+        "Valoración": "4.1",
+        "duracion_min": 16380.0,
+        "generos": [
+            "Fighting",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Resident Evil 2",
+        "Valoración": "4.3",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "Dreamcast",
+            "Nintendo GameCube",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Paper Mario",
+        "Valoración": "4.1",
+        "duracion_min": 1380.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Wipeout XL",
+        "Valoración": "3.7",
+        "duracion_min": 300.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation",
+            "Sega Saturn",
+            "Amiga"
+        ]
+    },
+    {
+        "titulo": "INSIDE",
+        "Valoración": "3.9",
+        "duracion_min": 240.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "World of Warcraft",
+        "Valoración": "3.8",
+        "duracion_min": 115320.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "World Soccer Winning Eleven 7 International",
+        "Valoración": "3.7",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Flipnote Studio",
+        "Valoración": "4.1",
+        "duracion_min": 1500.0,
+        "generos": [],
+        "Plataformas": [
+            "Nintendo DSi"
+        ]
+    },
+    {
+        "titulo": "The Witcher 3: Wild Hunt",
+        "Valoración": "4.4",
+        "duracion_min": 7020.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Clair Obscur: Expedition 33",
+        "Valoración": "4.6",
+        "duracion_min": 2820.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Forza Horizon 4",
+        "Valoración": "3.8",
+        "duracion_min": 3960.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox Series X|S",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "God of War III",
+        "Valoración": "4.2",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "NFL 2K3",
+        "Valoración": "3.2",
+        "duracion_min": 0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "SSX Tricky",
+        "Valoración": "3.9",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Racing",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "NHL 2002",
+        "Valoración": "3.6",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Prince of Persia: The Sands of Time",
+        "Valoración": "3.8",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Uncharted 3: Drake's Deception",
+        "Valoración": "3.9",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy VII Rebirth",
+        "Valoración": "4.3",
+        "duracion_min": 5040.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Rock Band",
+        "Valoración": "3.7",
+        "duracion_min": 1620.0,
+        "generos": [
+            "Music"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Wii",
+            "Xbox 360",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Super Mario Bros. Wonder",
+        "Valoración": "4.1",
+        "duracion_min": 840.0,
+        "generos": [
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Xenoblade Chronicles 3: Future Redeemed",
+        "Valoración": "4.5",
+        "duracion_min": 1440.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Bloodborne",
+        "Valoración": "4.5",
+        "duracion_min": 3840.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Eternal Darkness: Sanity's Requiem",
+        "Valoración": "3.9",
+        "duracion_min": 720.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Warcraft III: Reign of Chaos",
+        "Valoración": "4.3",
+        "duracion_min": 3060.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "The Sims",
+        "Valoración": "3.7",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Banjo-Kazooie",
+        "Valoración": "4.1",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Quiz/Trivia"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Gettysburg!",
+        "Valoración": "3.5",
+        "duracion_min": 0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Celeste",
+        "Valoración": "4.3",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "Forza Motorsport",
+        "Valoración": "3.6",
+        "duracion_min": 1860.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Forza Horizon 5",
+        "Valoración": "3.6",
+        "duracion_min": 3720.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Advance Wars",
+        "Valoración": "3.7",
+        "duracion_min": 900.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Vagrant Story",
+        "Valoración": "4.0",
+        "duracion_min": 1380.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Blue Prince",
+        "Valoración": "4.0",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Sektori",
+        "Valoración": "4.1",
+        "duracion_min": 600.0,
+        "generos": [
+            "Arcade",
+            "Indie",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Team Fortress 2",
+        "Valoración": "3.9",
+        "duracion_min": 26640.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "System Shock 2",
+        "Valoración": "4.3",
+        "duracion_min": 840.0,
+        "generos": [
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy XII",
+        "Valoración": "3.8",
+        "duracion_min": 4020.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Super Mario World: Super Mario Advance 2",
+        "Valoración": "4.1",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "ESPN NFL 2K5",
+        "Valoración": "4.3",
+        "duracion_min": 2760.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Super Smash Bros. Melee",
+        "Valoración": "4.1",
+        "duracion_min": 6960.0,
+        "generos": [
+            "Fighting",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Street Fighter 6",
+        "Valoración": "4.0",
+        "duracion_min": 4320.0,
+        "generos": [
+            "Arcade",
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Virtua Tennis",
+        "Valoración": "3.8",
+        "duracion_min": 240.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Dreamcast",
+            "Game Boy Advance",
+            "N-Gage",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Rome: Total War",
+        "Valoración": "4.0",
+        "duracion_min": 4620.0,
+        "generos": [
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Forza Motorsport 3",
+        "Valoración": "3.7",
+        "duracion_min": 3720.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Demon's Souls",
+        "Valoración": "3.7",
+        "duracion_min": 1800.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Undertale",
+        "Valoración": "4.3",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Batman: Arkham Asylum",
+        "Valoración": "3.9",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "Ouya",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Super Mario Sunshine",
+        "Valoración": "3.8",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Tony Hawk's Pro Skater",
+        "Valoración": "3.7",
+        "duracion_min": 480.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Thief: The Dark Project",
+        "Valoración": "4.2",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Fire Emblem: Awakening",
+        "Valoración": "4.0",
+        "duracion_min": 3120.0,
+        "generos": [
+            "RPG",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "Age of Empires II: The Age of Kings",
+        "Valoración": "4.2",
+        "duracion_min": 4500.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Dreamcast",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy X",
+        "Valoración": "4.3",
+        "duracion_min": 3300.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Wave Race 64",
+        "Valoración": "3.4",
+        "duracion_min": 180.0,
+        "generos": [
+            "Racing",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Alpha Centauri",
+        "Valoración": "4.3",
+        "duracion_min": 2160.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Divinity: Original Sin II - Definitive Edition",
+        "Valoración": "4.3",
+        "duracion_min": 5460.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Galactic Civilizations II: Twilight of the Arnor",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Super Smash Bros. for Wii U",
+        "Valoración": "3.5",
+        "duracion_min": 10920.0,
+        "generos": [
+            "Fighting",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Guitar Hero II",
+        "Valoración": "3.8",
+        "duracion_min": 780.0,
+        "generos": [
+            "Music"
+        ],
+        "Plataformas": [
+            "Xbox 360",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy VII",
+        "Valoración": "4.3",
+        "duracion_min": 2580.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Chrono Trigger",
+        "Valoración": "4.5",
+        "duracion_min": 1500.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii",
+            "Satellaview",
+            "Super Famicom",
+            "Super Nintendo Entertainment System"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy XIV: Endwalker",
+        "Valoración": "4.5",
+        "duracion_min": 37500.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Journey",
+        "Valoración": "3.9",
+        "duracion_min": 120.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "PlayStation 3",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Conker's Bad Fur Day",
+        "Valoración": "3.7",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Medal of Honor",
+        "Valoración": "2.8",
+        "duracion_min": 300.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Rock Band 2",
+        "Valoración": "4.1",
+        "duracion_min": 3540.0,
+        "generos": [
+            "Music"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Wii",
+            "Xbox 360",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Mario Kart 8 Deluxe",
+        "Valoración": "4.1",
+        "duracion_min": 3480.0,
+        "generos": [
+            "Arcade",
+            "Racing"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Shadow of the Colossus",
+        "Valoración": "4.5",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Metroid Prime 2: Echoes",
+        "Valoración": "4.0",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Out of the Park Baseball 17",
+        "Valoración": "3.4",
+        "duracion_min": 12120.0,
+        "generos": [
+            "Indie",
+            "Simulator",
+            "Sport",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Metroid Fusion",
+        "Valoración": "4.0",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS",
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "The Witcher 3: Wild Hunt - Blood and Wine",
+        "Valoración": "4.7",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy VI",
+        "Valoración": "4.4",
+        "duracion_min": 1860.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Rayman Legends",
+        "Valoración": "4.0",
+        "duracion_min": 1260.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "UFO 50",
+        "Valoración": "4.2",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Indie",
+            "Platform",
+            "Puzzle",
+            "RPG",
+            "Shooter",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Madden NFL 2005",
+        "Valoración": "3.7",
+        "duracion_min": 120.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Against the Storm",
+        "Valoración": "3.8",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Indie",
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Medal of Honor: Allied Assault",
+        "Valoración": "3.8",
+        "duracion_min": 480.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Myth: The Fallen Lords",
+        "Valoración": "3.7",
+        "duracion_min": 660.0,
+        "generos": [
+            "Real Time Strategy",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "LittleBigPlanet 2",
+        "Valoración": "4.2",
+        "duracion_min": 10440.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Microsoft Flight Simulator",
+        "Valoración": "3.7",
+        "duracion_min": 2280.0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Guitar Hero",
+        "Valoración": "3.6",
+        "duracion_min": 480.0,
+        "generos": [
+            "Music"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Slay the Princess: The Pristine Cut",
+        "Valoración": "4.2",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Point-and-Click",
+            "RPG",
+            "Simulator",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "World of Warcraft: Wrath of the Lich King",
+        "Valoración": "4.4",
+        "duracion_min": 76140.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Metroid Prime Trilogy",
+        "Valoración": "4.5",
+        "duracion_min": 2280.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "I Was a Teenage Exocolonist",
+        "Valoración": "4.1",
+        "duracion_min": 1260.0,
+        "generos": [
+            "Adventure",
+            "Card & Board Game",
+            "Indie",
+            "RPG",
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 5",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Madden NFL 2001",
+        "Valoración": "2.9",
+        "duracion_min": 1380.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo 64",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Baldur's Gate",
+        "Valoración": "N/A",
+        "duracion_min": 0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "Overwatch",
+        "Valoración": "3.3",
+        "duracion_min": 26700.0,
+        "generos": [
+            "Shooter",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Bayonetta 2",
+        "Valoración": "4.1",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo Switch",
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Big Walk",
+        "Valoración": "4.3",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Klonoa 2: Lunatea's Veil",
+        "Valoración": "3.8",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Mario Tennis",
+        "Valoración": "3.5",
+        "duracion_min": 300.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "IL-2 Sturmovik",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Colony Wars",
+        "Valoración": "3.3",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "FreeSpace 2",
+        "Valoración": "4.2",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Ratchet & Clank: Up Your Arsenal",
+        "Valoración": "4.1",
+        "duracion_min": 1080.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Resident Evil",
+        "Valoración": "3.8",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Metal Gear Solid 3: Snake Eater",
+        "Valoración": "4.6",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+        "Valoración": "4.2",
+        "duracion_min": 4320.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "Twisted Metal: Black",
+        "Valoración": "3.6",
+        "duracion_min": 540.0,
+        "generos": [
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 4",
+            "PlayStation 3",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Spyro: Year of the Dragon",
+        "Valoración": "4.0",
+        "duracion_min": 1080.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Tomb Raider",
+        "Valoración": "3.5",
+        "duracion_min": 720.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "Nintendo 64",
+            "PlayStation",
+            "Sega Saturn",
+            "DOS",
+            "Windows Mobile"
+        ]
+    },
+    {
+        "titulo": "Forza Horizon 3",
+        "Valoración": "4.0",
+        "duracion_min": 4080.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Ocarina of Time Master Quest",
+        "Valoración": "4.1",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "64DD"
+        ]
+    },
+    {
+        "titulo": "NCAA Football 2003",
+        "Valoración": "3.5",
+        "duracion_min": 1800.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Dwarf Fortress",
+        "Valoración": "4.3",
+        "duracion_min": 0,
+        "generos": [
+            "Indie",
+            "RPG",
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Kentucky Route Zero: Act III",
+        "Valoración": "4.2",
+        "duracion_min": 120.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Point-and-Click"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Crysis",
+        "Valoración": "3.4",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Ninja Gaiden",
+        "Valoración": "3.8",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "God of War: Chains of Olympus",
+        "Valoración": "3.5",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "PlayStation Portable"
+        ]
+    },
+    {
+        "titulo": "Dead or Alive 2",
+        "Valoración": "3.6",
+        "duracion_min": 240.0,
+        "generos": [
+            "Arcade",
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Dreamcast",
+            "PlayStation 2",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "World of Warcraft: The Burning Crusade",
+        "Valoración": "4.1",
+        "duracion_min": 38100.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "MLB 10: The Show",
+        "Valoración": "3.5",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Yoshi's Island: Super Mario Advance 3",
+        "Valoración": "4.0",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS",
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "The Longest Journey",
+        "Valoración": "4.1",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "Point-and-Click",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Star Wars Jedi Knight: Dark Forces II",
+        "Valoración": "3.6",
+        "duracion_min": 420.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Tony Hawk's Pro Skater 2",
+        "Valoración": "3.8",
+        "duracion_min": 0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows Mobile"
+        ]
+    },
+    {
+        "titulo": "ESPN NFL Football",
+        "Valoración": "3.6",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Killzone 2",
+        "Valoración": "3.5",
+        "duracion_min": 540.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Halo: Reach",
+        "Valoración": "4.2",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox One",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Galactic Civilizations II: Dark Avatar",
+        "Valoración": "4.0",
+        "duracion_min": 0,
+        "generos": [
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Mass Effect",
+        "Valoración": "3.9",
+        "duracion_min": 1740.0,
+        "generos": [
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The Operative: No One Lives Forever",
+        "Valoración": "3.8",
+        "duracion_min": 600.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Resident Evil 3: Nemesis",
+        "Valoración": "4.1",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "Dreamcast",
+            "Nintendo GameCube",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Forza Motorsport 4",
+        "Valoración": "3.9",
+        "duracion_min": 3180.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Crusader Kings III",
+        "Valoración": "3.9",
+        "duracion_min": 8100.0,
+        "generos": [
+            "RPG",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Split Fiction",
+        "Valoración": "4.1",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Battlefield 2",
+        "Valoración": "3.8",
+        "duracion_min": 2640.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "God of War Collection",
+        "Valoración": "4.2",
+        "duracion_min": 1260.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "PlayStation Vita",
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Planescape: Torment",
+        "Valoración": "4.4",
+        "duracion_min": 2040.0,
+        "generos": [
+            "Puzzle",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Gears of War 3",
+        "Valoración": "4.0",
+        "duracion_min": 780.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Neverwinter Nights",
+        "Valoración": "3.7",
+        "duracion_min": 4980.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way",
+        "Valoración": "N/A",
+        "duracion_min": "N/A",
+        "generos": [],
+        "Plataformas": []
+    },
+    {
+        "titulo": "Castlevania: Aria of Sorrow",
+        "Valoración": "4.3",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Legacy of Kain: Soul Reaver",
+        "Valoración": "3.8",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "Dreamcast",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Golden Sun",
+        "Valoración": "3.9",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "DOOM: The Dark Ages",
+        "Valoración": "3.8",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Disco Elysium",
+        "Valoración": "4.5",
+        "duracion_min": 1800.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "World Soccer Winning Eleven 8 International",
+        "Valoración": "3.6",
+        "duracion_min": 1560.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: A Link Between Worlds",
+        "Valoración": "4.2",
+        "duracion_min": 1320.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "NieR: Automata",
+        "Valoración": "4.3",
+        "duracion_min": 2220.0,
+        "generos": [
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Castlevania: Circle of the Moon",
+        "Valoración": "3.0",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Donkey Kong Bananza",
+        "Valoración": "4.3",
+        "duracion_min": 1800.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2"
+        ]
+    },
+    {
+        "titulo": "Satisfactory",
+        "Valoración": "4.0",
+        "duracion_min": 6660.0,
+        "generos": [
+            "Adventure",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Caves of Qud",
+        "Valoración": "4.1",
+        "duracion_min": 2460.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Dark Souls II",
+        "Valoración": "3.5",
+        "duracion_min": 4560.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Shovel Knight: Treasure Trove",
+        "Valoración": "4.3",
+        "duracion_min": 1320.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo 3DS",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Wii U",
+            "Xbox One",
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Mario Golf",
+        "Valoración": "3.2",
+        "duracion_min": 300.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Wii",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Crash Bandicoot: Warped",
+        "Valoración": "4.0",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Mario Kart DS",
+        "Valoración": "3.8",
+        "duracion_min": 1860.0,
+        "generos": [
+            "Arcade",
+            "Racing"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "Call of Duty",
+        "Valoración": "3.5",
+        "duracion_min": 480.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Assassin's Creed II",
+        "Valoración": "4.1",
+        "duracion_min": 1560.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Animal Well",
+        "Valoración": "4.1",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Balatro",
+        "Valoración": "4.2",
+        "duracion_min": 2700.0,
+        "generos": [
+            "Card & Board Game",
+            "Indie",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Project Gotham Racing 2",
+        "Valoración": "4.0",
+        "duracion_min": 2160.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Animal Crossing: New Horizons",
+        "Valoración": "3.7",
+        "duracion_min": 12480.0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "The Sims 2",
+        "Valoración": "3.9",
+        "duracion_min": 15960.0,
+        "generos": [
+            "RPG",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy XIV: Shadowbringers",
+        "Valoración": "4.7",
+        "duracion_min": 23640.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Forza Horizon 6",
+        "Valoración": "4.0",
+        "duracion_min": 2700.0,
+        "generos": [
+            "Arcade",
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "World of Warcraft: Cataclysm",
+        "Valoración": "3.4",
+        "duracion_min": 17580.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Bayonetta",
+        "Valoración": "3.9",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Diablo III: Ultimate Evil Edition",
+        "Valoración": "3.8",
+        "duracion_min": 3300.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "ICO",
+        "Valoración": "4.1",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "Valoración": "3.0",
+        "duracion_min": 540.0,
+        "generos": [
+            "Shooter",
+            "Simulator",
+            "Strategy",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "World of Goo",
+        "Valoración": "3.5",
+        "duracion_min": 300.0,
+        "generos": [
+            "Indie",
+            "Puzzle",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "Wii",
+            "Android",
+            "iOS",
+            "Windows Phone"
+        ]
+    },
+    {
+        "titulo": "Mario & Luigi: Superstar Saga",
+        "Valoración": "4.1",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Hollow Knight: Silksong",
+        "Valoración": "4.5",
+        "duracion_min": 3540.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Slay the Princess",
+        "Valoración": "3.9",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Point-and-Click",
+            "RPG",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Marvel vs. Capcom 2",
+        "Valoración": "4.2",
+        "duracion_min": 600.0,
+        "generos": [
+            "Arcade",
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Dreamcast",
+            "PlayStation 2",
+            "Xbox",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Syphon Filter",
+        "Valoración": "3.3",
+        "duracion_min": 420.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation",
+            "Android"
+        ]
+    },
+    {
+        "titulo": "Ape Escape",
+        "Valoración": "3.8",
+        "duracion_min": 480.0,
+        "generos": [
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Tony Hawk's Underground",
+        "Valoración": "N/A",
+        "duracion_min": 0,
+        "generos": [],
+        "Plataformas": [
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Mario & Luigi: Bowser's Inside Story",
+        "Valoración": "4.2",
+        "duracion_min": 1740.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "Trials Evolution",
+        "Valoración": "3.7",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Platform",
+            "Racing"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto IV: The Lost and Damned",
+        "Valoración": "3.5",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "FIFA Soccer 12",
+        "Valoración": "3.3",
+        "duracion_min": 5820.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Factorio",
+        "Valoración": "4.2",
+        "duracion_min": 6420.0,
+        "generos": [
+            "Indie",
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Black & White",
+        "Valoración": "3.5",
+        "duracion_min": 660.0,
+        "generos": [
+            "Puzzle",
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "NBA Street Vol. 2",
+        "Valoración": "4.1",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Ratchet & Clank: Going Commando",
+        "Valoración": "4.1",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "FIFA 10",
+        "Valoración": "3.2",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: The Wind Waker HD",
+        "Valoración": "4.3",
+        "duracion_min": 1980.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Portal",
+        "Valoración": "4.1",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Phantom Hourglass",
+        "Valoración": "3.4",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "Dance Dance Revolution",
+        "Valoración": "3.6",
+        "duracion_min": 60.0,
+        "generos": [
+            "Music",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation",
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "NHL 2001",
+        "Valoración": "3.3",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 2",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Jack Jeanne",
+        "Valoración": "4.4",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Adventure",
+            "Music",
+            "Simulator",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Nintendo Switch",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Advance Wars: Dual Strike",
+        "Valoración": "3.9",
+        "duracion_min": 1320.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "Marvel's Spider-Man 2",
+        "Valoración": "3.9",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Adventure",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "MLB 11: The Show",
+        "Valoración": "3.5",
+        "duracion_min": 15720.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation Vita",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Mina the Hollower",
+        "Valoración": "4.2",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Jak and Daxter: The Precursor Legacy",
+        "Valoración": "3.9",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Racing"
+        ],
+        "Plataformas": [
+            "PlayStation 4",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Star Wars Rogue Leader: Rogue Squadron II",
+        "Valoración": "3.7",
+        "duracion_min": 720.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Deus Ex",
+        "Valoración": "4.4",
+        "duracion_min": 1380.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Donkey Kong 64",
+        "Valoración": "3.4",
+        "duracion_min": 1380.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "NCAA Football 2002",
+        "Valoración": "3.6",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Tsukihime: A piece of blue glass moon",
+        "Valoración": "4.4",
+        "duracion_min": 3240.0,
+        "generos": [
+            "Adventure",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Stephen's Sausage Roll",
+        "Valoración": "4.1",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Indie",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Panzer Dragoon Orta",
+        "Valoración": "4.1",
+        "duracion_min": 300.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Portal: Still Alive",
+        "Valoración": "4.2",
+        "duracion_min": 240.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Half-Life 2: Episode Two",
+        "Valoración": "4.3",
+        "duracion_min": 360.0,
+        "generos": [
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Shin Megami Tensei: Persona 4",
+        "Valoración": "4.1",
+        "duracion_min": 4260.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Hollow Knight",
+        "Valoración": "4.4",
+        "duracion_min": 3540.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Wii U",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "MLB 09: The Show",
+        "Valoración": "3.5",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Blast Corps",
+        "Valoración": "3.2",
+        "duracion_min": 480.0,
+        "generos": [
+            "Puzzle",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Ori and the Will of the Wisps",
+        "Valoración": "4.3",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Legend of Heroes: Trails in the Sky SC",
+        "Valoración": "4.4",
+        "duracion_min": 4020.0,
+        "generos": [
+            "RPG",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Civilization III",
+        "Valoración": "3.6",
+        "duracion_min": 2160.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "WWF SmackDown! 2: Know Your Role",
+        "Valoración": "3.6",
+        "duracion_min": 1620.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "MVP Baseball 2004",
+        "Valoración": "4.0",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Videoverse",
+        "Valoración": "3.8",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Simulator",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Last of Us Part II Remastered",
+        "Valoración": "4.5",
+        "duracion_min": 1800.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Dave the Diver",
+        "Valoración": "3.8",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "LIMBO",
+        "Valoración": "3.5",
+        "duracion_min": 240.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Silent Hunter III",
+        "Valoración": "3.8",
+        "duracion_min": 3540.0,
+        "generos": [
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Mark of the Ninja",
+        "Valoración": "3.7",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Chained Echoes",
+        "Valoración": "4.0",
+        "duracion_min": 2280.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Super Meat Boy",
+        "Valoración": "3.6",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Wii U",
+            "Wii",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Dead Space 2",
+        "Valoración": "4.2",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Pikmin 2",
+        "Valoración": "4.1",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Real Time Strategy"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Okami HD",
+        "Valoración": "4.2",
+        "duracion_min": 1680.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Geometry Wars: Retro Evolved 2",
+        "Valoración": "3.9",
+        "duracion_min": 4320.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox One",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Sid Meier's Civilization V",
+        "Valoración": "4.0",
+        "duracion_min": 8220.0,
+        "generos": [
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Super Mario 3D Land",
+        "Valoración": "3.6",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "Mario Kart 8",
+        "Valoración": "3.9",
+        "duracion_min": 2940.0,
+        "generos": [
+            "Arcade",
+            "Racing"
+        ],
+        "Plataformas": [
+            "Wii U"
+        ]
+    },
+    {
+        "titulo": "Falcon 4.0: Allied Force",
+        "Valoración": "4.0",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "The Stanley Parable: Ultra Deluxe",
+        "Valoración": "4.0",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Metroid Prime 3: Corruption",
+        "Valoración": "3.8",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Flight Simulator 2002",
+        "Valoración": "3.7",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Monster Hunter: World",
+        "Valoración": "3.9",
+        "duracion_min": 8820.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Dota 2",
+        "Valoración": "3.0",
+        "duracion_min": 69360.0,
+        "generos": [
+            "MOBA",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "TimeSplitters 2",
+        "Valoración": "3.9",
+        "duracion_min": 540.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Guild Wars 2",
+        "Valoración": "3.5",
+        "duracion_min": 34740.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Forza Motorsport 2",
+        "Valoración": "3.5",
+        "duracion_min": 2460.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Pushmo",
+        "Valoración": "3.5",
+        "duracion_min": 540.0,
+        "generos": [
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "Freedom Force",
+        "Valoración": "3.5",
+        "duracion_min": 540.0,
+        "generos": [
+            "RPG",
+            "Strategy",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "FIFA 13",
+        "Valoración": "3.4",
+        "duracion_min": 8580.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "and Roger",
+        "Valoración": "3.9",
+        "duracion_min": 60.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "Nintendo Switch",
+            "Android"
+        ]
+    },
+    {
+        "titulo": "Into the Breach",
+        "Valoración": "3.9",
+        "duracion_min": 960.0,
+        "generos": [
+            "Indie",
+            "Puzzle",
+            "RPG",
+            "Simulator",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "Android",
+            "Google Stadia",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Chicory: A Colorful Tale",
+        "Valoración": "4.0",
+        "duracion_min": 780.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Tekken 8",
+        "Valoración": "3.8",
+        "duracion_min": 3780.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Sekiro: Shadows Die Twice",
+        "Valoración": "4.5",
+        "duracion_min": 3060.0,
+        "generos": [
+            "Adventure"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Google Stadia"
+        ]
+    },
+    {
+        "titulo": "GTR 2",
+        "Valoración": "4.0",
+        "duracion_min": 7500.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Total War: Shogun 2",
+        "Valoración": "3.9",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Empire: Total War",
+        "Valoración": "3.4",
+        "duracion_min": 5580.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Beetle Adventure Racing",
+        "Valoración": "3.4",
+        "duracion_min": 120.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Nintendo 64"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy VIII",
+        "Valoración": "3.8",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Adventure",
+            "Card & Board Game",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "NBA 2K12",
+        "Valoración": "3.5",
+        "duracion_min": 3180.0,
+        "generos": [
+            "Simulator",
+            "Sport",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360",
+            "OnLive Game System"
+        ]
+    },
+    {
+        "titulo": "Kentucky Route Zero: Act IV",
+        "Valoración": "4.2",
+        "duracion_min": 120.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Point-and-Click"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Astro Bot Rescue Mission",
+        "Valoración": "4.2",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "PlayStation VR"
+        ]
+    },
+    {
+        "titulo": "Command & Conquer: Red Alert",
+        "Valoración": "3.7",
+        "duracion_min": 2460.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "PlayStation Portable",
+            "PlayStation",
+            "DOS"
+        ]
+    },
+    {
+        "titulo": "The Witcher 3: Wild Hunt - Hearts of Stone",
+        "Valoración": "4.5",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Star Wars Jedi Knight II: Jedi Outcast",
+        "Valoración": "3.8",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Nintendo GameCube",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Halo 2 Multiplayer Map Pack",
+        "Valoración": "3.8",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Wipeout HD Fury",
+        "Valoración": "4.0",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Racing",
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 3"
+        ]
+    },
+    {
+        "titulo": "Borderlands 2",
+        "Valoración": "3.7",
+        "duracion_min": 4440.0,
+        "generos": [
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android"
+        ]
+    },
+    {
+        "titulo": "Shin Megami Tensei: Persona 3 Portable",
+        "Valoración": "4.0",
+        "duracion_min": 4260.0,
+        "generos": [
+            "Adventure",
+            "Point-and-Click",
+            "RPG",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "PlayStation Vita",
+            "PlayStation Portable"
+        ]
+    },
+    {
+        "titulo": "Schrodinger's Call",
+        "Valoración": "4.0",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Neon White",
+        "Valoración": "4.0",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Arcade",
+            "Indie",
+            "Platform",
+            "Shooter",
+            "Visual Novel"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Xenoblade Chronicles: Definitive Edition",
+        "Valoración": "4.3",
+        "duracion_min": 4200.0,
+        "generos": [
+            "Real Time Strategy",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Call of Duty 2",
+        "Valoración": "3.7",
+        "duracion_min": 660.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Burnout Revenge",
+        "Valoración": "4.0",
+        "duracion_min": 900.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Xbox 360",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Dragon Quest VIII: Journey of the Cursed King",
+        "Valoración": "4.3",
+        "duracion_min": 4140.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Metroid: Zero Mission",
+        "Valoración": "4.1",
+        "duracion_min": 300.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: Majora's Mask 3D",
+        "Valoración": "4.3",
+        "duracion_min": 1980.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS"
+        ]
+    },
+    {
+        "titulo": "Sacrifice",
+        "Valoración": "3.7",
+        "duracion_min": 540.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Pikmin",
+        "Valoración": "4.0",
+        "duracion_min": 480.0,
+        "generos": [
+            "Adventure",
+            "Real Time Strategy"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Wipeout 3",
+        "Valoración": "3.9",
+        "duracion_min": 420.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Age of Mythology",
+        "Valoración": "4.0",
+        "duracion_min": 3540.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Tiger Woods PGA Tour 2004",
+        "Valoración": "3.7",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "The Walking Dead: A Telltale Games Series",
+        "Valoración": "4.2",
+        "duracion_min": 840.0,
+        "generos": [
+            "Adventure",
+            "Point-and-Click",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy VII Remake Intergrade",
+        "Valoración": "4.2",
+        "duracion_min": 2340.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Monster Hunter: World - Iceborne",
+        "Valoración": "4.4",
+        "duracion_min": 18420.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Dead Cells",
+        "Valoración": "3.8",
+        "duracion_min": 1920.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 5",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Rhythm Doctor",
+        "Valoración": "4.2",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Music"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "despelote",
+        "Valoración": "3.7",
+        "duracion_min": 60.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Rez",
+        "Valoración": "4.1",
+        "duracion_min": 120.0,
+        "generos": [
+            "Music",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Dreamcast",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Pillars of Eternity",
+        "Valoración": "3.7",
+        "duracion_min": 3240.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Castlevania: Symphony of the Night",
+        "Valoración": "4.4",
+        "duracion_min": 720.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation Portable",
+            "Xbox 360",
+            "PlayStation",
+            "Sega Saturn"
+        ]
+    },
+    {
+        "titulo": "Fable II",
+        "Valoración": "3.8",
+        "duracion_min": 1440.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Rez Infinite",
+        "Valoración": "3.9",
+        "duracion_min": 120.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Music",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "PlayStation VR2",
+            "PlayStation 4",
+            "PlayStation VR",
+            "Android",
+            "Daydream",
+            "Oculus Quest",
+            "Oculus Rift",
+            "SteamVR"
+        ]
+    },
+    {
+        "titulo": "NHL 2K3",
+        "Valoración": "2.9",
+        "duracion_min": 0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Final Fantasy Chronicles",
+        "Valoración": "3.8",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation"
+        ]
+    },
+    {
+        "titulo": "Fallout",
+        "Valoración": "3.9",
+        "duracion_min": 960.0,
+        "generos": [
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "DOS",
+            "OnLive Game System"
+        ]
+    },
+    {
+        "titulo": "Valheim",
+        "Valoración": "3.5",
+        "duracion_min": 3840.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "The Talos Principle: Reawakened",
+        "Valoración": "4.1",
+        "duracion_min": 1440.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Pizza Tower",
+        "Valoración": "4.2",
+        "duracion_min": 900.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Assassin's Creed: Brotherhood",
+        "Valoración": "3.9",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Left 4 Dead 2",
+        "Valoración": "4.0",
+        "duracion_min": 2340.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Worldwide Soccer Manager 2005",
+        "Valoración": "3.6",
+        "duracion_min": 11640.0,
+        "generos": [
+            "Simulator",
+            "Sport",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Left 4 Dead",
+        "Valoración": "3.7",
+        "duracion_min": 900.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Slay the Spire",
+        "Valoración": "4.1",
+        "duracion_min": 3180.0,
+        "generos": [
+            "Adventure",
+            "Card & Board Game",
+            "Indie",
+            "RPG",
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Titanfall 2",
+        "Valoración": "4.2",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Dark Souls III",
+        "Valoración": "4.3",
+        "duracion_min": 5220.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "NASCAR Racing 2002 Season",
+        "Valoración": "3.7",
+        "duracion_min": 0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Phantasy Star Online",
+        "Valoración": "4.0",
+        "duracion_min": 19140.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Dreamcast"
+        ]
+    },
+    {
+        "titulo": "NBA 2K3",
+        "Valoración": "3.3",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Jade Empire",
+        "Valoración": "3.7",
+        "duracion_min": 1140.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Gunstar Heroes",
+        "Valoración": "4.0",
+        "duracion_min": 120.0,
+        "generos": [
+            "Arcade",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Wii",
+            "Xbox 360",
+            "Sega Mega Drive/Genesis",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Tekken 2",
+        "Valoración": "3.2",
+        "duracion_min": 360.0,
+        "generos": [
+            "Fighting"
+        ],
+        "Plataformas": [
+            "Arcade"
+        ]
+    },
+    {
+        "titulo": "Xenoblade Chronicles 3",
+        "Valoración": "4.4",
+        "duracion_min": 6240.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "F-Zero GX",
+        "Valoración": "4.2",
+        "duracion_min": 480.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube"
+        ]
+    },
+    {
+        "titulo": "Super Mario 3D World + Bowser's Fury",
+        "Valoración": "4.1",
+        "duracion_min": 1260.0,
+        "generos": [
+            "Adventure",
+            "Platform"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "Dark Souls",
+        "Valoración": "4.3",
+        "duracion_min": 4680.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Pokémon Pokopia",
+        "Valoración": "4.3",
+        "duracion_min": 3060.0,
+        "generos": [
+            "Adventure",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2"
+        ]
+    },
+    {
+        "titulo": "NBA Street V3",
+        "Valoración": "3.5",
+        "duracion_min": 3000.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Need for Speed: Hot Pursuit 2",
+        "Valoración": "3.6",
+        "duracion_min": 960.0,
+        "generos": [
+            "Racing"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Grand Theft Auto IV: The Ballad of Gay Tony",
+        "Valoración": "4.0",
+        "duracion_min": 660.0,
+        "generos": [
+            "Adventure",
+            "Racing",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Kynseed",
+        "Valoración": "3.1",
+        "duracion_min": 1080.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Thank Goodness You're Here!",
+        "Valoración": "3.7",
+        "duracion_min": 120.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "The Legend of Zelda: The Minish Cap",
+        "Valoración": "4.0",
+        "duracion_min": 960.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Nintendo 3DS",
+            "Wii U",
+            "Game Boy Advance"
+        ]
+    },
+    {
+        "titulo": "Homeworld: Cataclysm",
+        "Valoración": "4.3",
+        "duracion_min": 0,
+        "generos": [
+            "Adventure",
+            "Real Time Strategy",
+            "Simulator",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Combat Mission: Barbarossa to Berlin",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Strategy",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "NCAA Football 2004",
+        "Valoración": "3.6",
+        "duracion_min": 1500.0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "Nintendo GameCube",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Cyberpunk 2077: Phantom Liberty",
+        "Valoración": "4.6",
+        "duracion_min": 2100.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Tetris Effect",
+        "Valoración": "4.1",
+        "duracion_min": 540.0,
+        "generos": [
+            "Music",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 4",
+            "PlayStation VR",
+            "Oculus Quest",
+            "Oculus Rift",
+            "SteamVR"
+        ]
+    },
+    {
+        "titulo": "Fez",
+        "Valoración": "3.7",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "PlayStation 3",
+            "Xbox 360",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Dead Space",
+        "Valoración": "4.1",
+        "duracion_min": 660.0,
+        "generos": [
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    },
+    {
+        "titulo": "Cave Story",
+        "Valoración": "4.2",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo 3DS",
+            "Nintendo DSi",
+            "Wii"
+        ]
+    },
+    {
+        "titulo": "Guild Wars",
+        "Valoración": "3.9",
+        "duracion_min": 21960.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "The Walking Dead: Episode 5 - No Time Left",
+        "Valoración": "4.6",
+        "duracion_min": 60.0,
+        "generos": [
+            "Point-and-Click"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "The Seance of Blake Manor",
+        "Valoración": "3.9",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Linux",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Atari 50: The Anniversary Celebration",
+        "Valoración": "4.0",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Brawler",
+            "Fighting",
+            "Pinball",
+            "Platform",
+            "Puzzle",
+            "Racing",
+            "Shooter",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Fire Emblem: Fortune's Weave",
+        "Valoración": "4.1",
+        "duracion_min": 6780.0,
+        "generos": [
+            "RPG",
+            "Simulator",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Nintendo Switch 2"
+        ]
+    },
+    {
+        "titulo": "World Soccer Winning Eleven 9",
+        "Valoración": "3.7",
+        "duracion_min": 1200.0,
+        "generos": [
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "Ace Combat 04: Shattered Skies",
+        "Valoración": "4.0",
+        "duracion_min": 300.0,
+        "generos": [
+            "Arcade",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Max Payne",
+        "Valoración": "4.0",
+        "duracion_min": 480.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 4",
+            "Xbox One",
+            "PlayStation 3",
+            "Xbox 360",
+            "PlayStation 2",
+            "Xbox",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Football Manager Handheld",
+        "Valoración": "2.8",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator",
+            "Sport",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "PlayStation Portable"
+        ]
+    },
+    {
+        "titulo": "Streets of Rage 2",
+        "Valoración": "3.9",
+        "duracion_min": 120.0,
+        "generos": [
+            "Arcade",
+            "Brawler"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Wii",
+            "Xbox 360",
+            "Sega Mega Drive/Genesis",
+            "Android",
+            "Arcade",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Out of the Park Baseball 15",
+        "Valoración": "3.8",
+        "duracion_min": 0,
+        "generos": [
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "Fire Emblem: Three Houses",
+        "Valoración": "4.1",
+        "duracion_min": 6600.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "titulo": "World in Conflict",
+        "Valoración": "3.8",
+        "duracion_min": 720.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Quake II - Enhanced Edition",
+        "Valoración": "N/A",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "PlayStation 5",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ]
+    },
+    {
+        "titulo": "Resident Evil Requiem",
+        "Valoración": "4.3",
+        "duracion_min": 1020.0,
+        "generos": [
+            "Adventure",
+            "Puzzle",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S"
+        ]
+    },
+    {
+        "titulo": "Castlevania: Dawn of Sorrow",
+        "Valoración": "3.8",
+        "duracion_min": 600.0,
+        "generos": [
+            "Adventure",
+            "Platform",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Nintendo DS"
+        ]
+    },
+    {
+        "titulo": "Destiny 2: The Final Shape",
+        "Valoración": "4.2",
+        "duracion_min": 9540.0,
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "NASCAR Racing 4",
+        "Valoración": "3.8",
+        "duracion_min": 0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Death Stranding 2: On The Beach",
+        "Valoración": "4.4",
+        "duracion_min": 3900.0,
+        "generos": [
+            "Adventure",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Far Cry",
+        "Valoración": "3.0",
+        "duracion_min": 600.0,
+        "generos": [
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC"
+        ]
+    },
+    {
+        "titulo": "Horizon Forbidden West: Complete Edition",
+        "Valoración": "4.1",
+        "duracion_min": 4260.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5"
+        ]
+    },
+    {
+        "titulo": "Nuclear Throne",
+        "Valoración": "3.7",
+        "duracion_min": 3420.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Indie",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Like a Dragon: Infinite Wealth",
+        "Valoración": "4.2",
+        "duracion_min": 5280.0,
+        "generos": [
+            "Adventure",
+            "Brawler",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Cuphead: The Delicious Last Course",
+        "Valoración": "4.3",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "Arcade",
+            "Indie",
+            "Platform",
+            "Shooter"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Desktop Explorer",
+        "Valoración": "3.9",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Puzzle",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Lone Echo",
+        "Valoración": "4.1",
+        "duracion_min": 240.0,
+        "generos": [
+            "Adventure"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Oculus Rift",
+            "Oculus VR"
+        ]
+    },
+    {
+        "titulo": "XCOM: Enemy Unknown",
+        "Valoración": "3.8",
+        "duracion_min": 2040.0,
+        "generos": [
+            "RPG",
+            "Simulator",
+            "Strategy",
+            "Tactical",
+            "Turn Based Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux",
+            "PlayStation 3",
+            "Xbox 360",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "titulo": "Rise of Nations",
+        "Valoración": "3.8",
+        "duracion_min": 2880.0,
+        "generos": [
+            "Real Time Strategy",
+            "Strategy"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Descent 3",
+        "Valoración": "3.4",
+        "duracion_min": 0,
+        "generos": [
+            "Shooter",
+            "Simulator"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "Linux"
+        ]
+    },
+    {
+        "titulo": "World Series Baseball 2K3",
+        "Valoración": "4.0",
+        "duracion_min": 0,
+        "generos": [
+            "Sport"
+        ],
+        "Plataformas": [
+            "PlayStation 2",
+            "Xbox"
+        ]
+    },
+    {
+        "titulo": "NASCAR Racing 2003 Season",
+        "Valoración": "4.2",
+        "duracion_min": 2820.0,
+        "generos": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "The Curse of Monkey Island",
+        "Valoración": "4.2",
+        "duracion_min": 540.0,
+        "generos": [
+            "Adventure",
+            "Point-and-Click",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac"
+        ]
+    },
+    {
+        "titulo": "Shin Megami Tensei: Persona 3 FES",
+        "Valoración": "4.2",
+        "duracion_min": 5040.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "PlayStation 3",
+            "PlayStation 2"
+        ]
+    },
+    {
+        "titulo": "Apex Legends",
+        "Valoración": "3.0",
+        "duracion_min": 13560.0,
+        "generos": [
+            "Shooter",
+            "Tactical"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Nintendo Switch 2",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Norco",
+        "Valoración": "3.9",
+        "duracion_min": 360.0,
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Point-and-Click",
+            "Puzzle"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "Mac",
+            "PlayStation 5",
+            "Xbox Series X|S",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "titulo": "Dark Souls: Artorias of the Abyss",
+        "Valoración": "4.4",
+        "duracion_min": 420.0,
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "Plataformas": [
+            "Windows PC",
+            "PlayStation 3",
+            "Xbox 360"
+        ]
+    }
+]
