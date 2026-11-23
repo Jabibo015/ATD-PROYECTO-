@@ -1,1 +1,439 @@
 
+# -*- coding: utf-8 -*-
+"""
+WEB SCRAPPING SELENIUM METACRITIC (PROYECTO ATD)
+Sacar la lista con cada videojuego --> MEJORES 500 VIDEOJUEGOS DE METACRITIC (USER SCORE HIGH-LOW)
+"""
+
+import json
+import html
+import time
+import os
+import glob
+import re
+import requests
+import unicodedata
+import undetected_chromedriver as uc
+
+from urllib.parse import quote
+from urllib.parse import quote_plus
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import TimeoutException
+
+
+# ______________________________________________________________________________________________________________
+
+# CONFIGURACIÓN DE CHROMIUM
+
+rutas = [
+    r"",
+    r""]
+
+encontrados = []
+
+for ruta in rutas:
+    encontrados.extend(glob.glob(ruta))
+
+if not encontrados:
+    raise FileNotFoundError("No se encuentra Chromium")
+
+# Seleccionar la ruta encontrada
+chrome_path = encontrados[0]
+
+# ______________________________________________________________________________________________________________
+
+# CONFIGURACIÓN DE CHROME
+
+options = uc.ChromeOptions()
+options.binary_location = chrome_path
+
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-infobars")
+
+prefs = {"profile.default_content_setting_values.notifications": 2}
+options.add_experimental_option("prefs", prefs)
+
+# ______________________________________________________________________________________________________________
+
+# Act 1: Cargar la página web
+
+driver = uc.Chrome(options=options, browser_executable_path=chrome_path)
+
+# Forzar tamaño de ventana
+driver.set_window_rect(
+    x=50,
+    y=50,
+    width=950,
+    height=750)
+
+driver.execute_cdp_cmd("Network.enable", {})
+
+driver.execute_cdp_cmd("Network.setBlockedURLs", {
+    "urls": [
+        "*doubleclick.net/*",
+        "*googlesyndication.com/*",
+        "*googleadservices.com/*",
+        "*adservice.google.com/*",
+        "*amazon-adsystem.com/*",
+        "*adnxs.com/*"
+    ]})
+
+driver.get("https://www.metacritic.com/browse/game/?pageSize=100")
+driver.implicitly_wait(10)
+
+# ______________________________________________________________________________________________________________
+
+# Act 2: Aceptar cookies
+
+"""
+<button id="onetrust-accept-btn-handler">I Accept</button>
+"""
+
+boton_aceptar = driver.find_element(by=By.ID, value="onetrust-accept-btn-handler")
+print(boton_aceptar.text)
+boton_aceptar.click()
+
+    
+# ______________________________________________________________________________________________________________
+
+# Lista donde guardaremos los 500 videojuegos con el año
+
+videojuegos = []
+
+# Primero recopilamos los títulos y enlaces de las cinco páginas
+
+juegos_enlaces = []
+
+for pagina in range(1, 6): # Solo las primeras 5 páginas (500 videojuegos)
+
+    url = f"https://www.metacritic.com/browse/game/?page={pagina}&pageSize=100"
+    driver.get(url)
+
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.TAG_NAME, "h3")))
+
+    time.sleep(2)
+
+    elementos = driver.find_elements(By.TAG_NAME, "h3")
+
+    for elemento in elementos:
+        titulo = elemento.text.strip()
+
+        try:
+            enlace = elemento.find_element(By.XPATH, "./ancestor::a[1]").get_attribute("href")
+
+            if titulo and enlace:
+                juegos_enlaces.append((titulo, enlace))
+
+        except Exception:
+            continue
+
+    print(f"Página {pagina}: {len(juegos_enlaces)} enlaces acumulados")
+
+
+print("Total de enlaces recopilados:", len(juegos_enlaces))
+
+
+# Ahora entramos en cada ficha para extraer el año
+
+for i, (titulo, enlace) in enumerate(juegos_enlaces):
+
+    try:
+        driver.get(enlace)
+
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body")))
+
+        texto_pagina = driver.find_element(By.TAG_NAME, "body").text
+
+        # Buscar la fecha que aparece después de Released On
+
+        resultado = re.search(
+            r"Released On:\s*.*?(\d{4})",
+            texto_pagina,
+            re.IGNORECASE)
+
+        if resultado:
+            anio = resultado.group(1)
+        else:
+            anio = ""
+
+        # Eliminar numeración inicial y año del título si lo contiene
+
+        nombre = re.sub(r"^\s*\d+\.\s*", "", titulo)
+        nombre = re.sub(r"\s*\(\d{4}\)\s*$", "", nombre)
+
+        videojuegos.append((nombre, anio))
+
+        print(f"{i + 1}/{len(juegos_enlaces)}: {nombre} - {anio}")
+
+        time.sleep(1)
+
+    except Exception as e:
+        print(f"Error con {titulo}: {e}")
+        videojuegos.append((titulo, ""))
+
+
+# Exportar la lista a un archivo Python
+
+with open("videojuegos.py", "w", encoding="utf-8") as archivo:
+
+    archivo.write("videojuegos = [\n")
+
+    for nombre, anio in videojuegos:
+        archivo.write(f"    ({nombre!r}, {anio!r}),\n")
+
+    archivo.write("]\n")
+
+
+# Comprobación final
+
+print("Total de enlaces:", len(juegos_enlaces))
+print("Total de videojuegos:", len(videojuegos))
+print("Archivo videojuegos.py creado correctamente.")
+
+
+# Esta lista es de SOLO los títulos
+
+titulos_videojuegos = [nombre for nombre, anio in videojuegos]
+
+# Exportar a un archivo Python en una sola línea
+
+with open("titulos_videojuegos.py", "w", encoding="utf-8") as archivo:
+    archivo.write("titulos_videojuegos = ")
+    archivo.write(repr(titulos_videojuegos))
+    archivo.write("\n")
+
+# ______________________________________________________________________________________________________________
+
+# Importación JSON --> Copiado y pegado de scrapper_letterbox (github)
+
+#Titulos de los videojuegos a scrapear, de la API de METACRITIC
+# Hacemos una copia de la lista 'videojuegos' por si acaso
+
+Titulos = videojuegos.copy()
+
+
+# CONFIGURACIÓN
+
+ARCHIVO_RESULTADO = "videojuegos_metacritic.json"
+ARCHIVO_PROGRESO = "videojuegos_metacritic_progreso.json"
+
+API_KEY = "1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://www.metacritic.com",
+    "Referer": "https://www.metacritic.com/"}
+
+CAMPOS = ["titulo", "anio", "metascore", "userscore", "plataformas", "generos", "desarrolladores"]
+
+
+# FUNCIONES AUXILIARES
+
+def normalizar(texto):
+    texto = html.unescape(str(texto or ""))
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = "".join(c for c in texto if not unicodedata.combining(c))
+    texto = texto.lower()
+    texto = re.sub(r"[^a-z0-9]+", " ", texto)
+    return " ".join(texto.split())
+
+
+def variantes_busqueda(titulo):
+    variantes = [titulo]
+
+    if ":" in titulo:
+        variantes.append(titulo.split(":", 1)[0].strip())
+        variantes.append(titulo.split(":", 1)[1].strip())
+
+    # Variantes específicas comprobadas
+    especiales = {
+        "Metal Gear Solid V: The Phantom Pain": ["Metal Gear Solid V"],
+        "The Legend of Zelda: Skyward Sword": ["Skyward Sword"],
+        "Skies of Arcadia": ["Arcadia"],
+        "Super Mario Galaxy 2": ["Mario Galaxy 2"]}
+
+    variantes.extend(especiales.get(titulo, []))
+
+    # Eliminar duplicados conservando el orden
+    return list(dict.fromkeys(v for v in variantes if v))
+
+
+def buscar_resultados(busqueda):
+    url = (
+        "https://backend.metacritic.com/finder/metacritic/"
+        f"search/{quote_plus(busqueda)}/web"
+        "?offset=0&limit=30"
+        "&sortBy=META_SCORE&sortDirection=DESC"
+        "&mcoTypeId=13"
+        "&componentName=search"
+        "&componentType=SearchResult"
+        f"&apiKey={API_KEY}")
+
+    respuesta = requests.get(url, headers=HEADERS, timeout=30)
+    respuesta.raise_for_status()
+    datos = respuesta.json()
+
+    return datos.get("data", {}).get("items", [])
+
+
+def coincidencia_exacta(titulo, resultados):
+    objetivo = normalizar(titulo)
+
+    for juego in resultados:
+        titulo_api = normalizar(juego.get("title", ""))
+        titulo_base = re.sub(r"\s+\d{4}$", "", titulo_api)
+
+        if titulo_api == objetivo or titulo_base == objetivo:
+            return juego
+
+    return None
+
+
+def encontrar_juego(titulo, anio):
+    primer_resultado = None
+
+    for busqueda in variantes_busqueda(titulo):
+        try:
+            resultados = buscar_resultados(busqueda)
+
+            if resultados:
+                if primer_resultado is None:
+                    primer_resultado = resultados[0]
+
+                exacto = coincidencia_exacta(titulo, resultados)
+
+                if exacto:
+                    return exacto
+
+        except Exception as e:
+            print(f"Error buscando '{busqueda}': {e}")
+
+        time.sleep(0.5)
+
+    return primer_resultado
+
+
+# EXTRAER INFORMACIÓN DE LA FICHA DEL VIDEOJUEGO
+
+def extraer_datos(slug, titulo_original, anio_original):
+    url = f"https://www.metacritic.com/game/{slug}/"
+    driver.get(url)
+    time.sleep(2)
+
+    try:
+        texto = driver.find_element(By.TAG_NAME, "body").text
+
+        metascore = re.search(
+            r"METASCORE\s+.*?Based on \d+ Critic Reviews\s+(\d+)",
+            texto,
+            re.DOTALL)
+
+        userscore = re.search(
+            r"USER SCORE\s+.*?Based on [\d,]+ User Ratings\s+([\d.]+)",
+            texto,
+            re.DOTALL)
+
+        if not metascore and not userscore:
+            print(f"No se encontraron puntuaciones para {titulo_original}")
+            return None
+
+        return {
+            "titulo": titulo_original,
+            "anio": anio_original,
+            "metascore": metascore.group(1) if metascore else None,
+            "userscore": userscore.group(1) if userscore else None,
+            "plataformas": [],
+            "generos": [],
+            "desarrolladores": []}
+
+    except Exception as e:
+        print(f"Error extrayendo datos de {titulo_original}: {e}")
+        return None
+
+
+# CARGAR RESULTADOS Y PROGRESO ANTERIOR
+
+try:
+    with open(ARCHIVO_RESULTADO, "r", encoding="utf-8") as f:
+        registros = json.load(f)
+except (FileNotFoundError, json.JSONDecodeError):
+    registros = []
+
+try:
+    with open(ARCHIVO_PROGRESO, "r", encoding="utf-8") as f:
+        progreso = json.load(f)
+except (FileNotFoundError, json.JSONDecodeError):
+    progreso = {"procesados": []}
+
+
+def clave_videojuego(titulo, anio):
+    return f"{normalizar(titulo)}|{anio}"
+
+
+procesados = set(progreso.get("procesados", []))
+
+pendientes = [(titulo, anio) for titulo, anio in Titulos if clave_videojuego(titulo, anio) not in procesados]
+
+print(f"{len(pendientes)} videojuegos pendientes.")
+print(f"{len(procesados)} videojuegos ya procesados.")
+
+
+# SCRAPPING
+
+for i, (titulo, anio) in enumerate(pendientes, 1):
+    clave = clave_videojuego(titulo, anio)
+
+    print(f"\n[{i}/{len(pendientes)}] Buscando: {titulo} ({anio})")
+
+    try:
+        juego = encontrar_juego(titulo, anio)
+
+        if juego:
+            slug = juego.get("slug")
+
+            if slug:
+                datos = extraer_datos(slug, titulo, anio)
+
+                if datos:
+                    registros = [
+                        r for r in registros
+                        if clave_videojuego(r["titulo"], r["anio"]) != clave]
+                    
+                    registros.append(datos)
+                    print(f"Guardado: {titulo}")
+                else:
+                    print(f"Ignorado: no se pudieron extraer puntuaciones de {titulo}")
+            else:
+                print(f"Ignorado: no se encontró el slug de {titulo}")
+        else:
+            print(f"Ignorado: no hay resultados para {titulo}")
+
+    except Exception as e:
+        print(f"Error con {titulo}: {e}")
+
+    # Se marca como procesado incluso si no se encontró
+    procesados.add(clave)
+
+    progreso["procesados"] = sorted(procesados)
+
+    with open(ARCHIVO_RESULTADO, "w", encoding="utf-8") as f:
+        json.dump(registros, f, ensure_ascii=False, indent=4)
+
+    with open(ARCHIVO_PROGRESO, "w", encoding="utf-8") as f:
+        json.dump(progreso, f, ensure_ascii=False, indent=4)
+
+    time.sleep(1)
+    
+
+print("\nSCRAPING FINALIZADO")
+print(f"Videojuegos guardados: {len(registros)}")
+print(f"Videojuegos procesados: {len(procesados)}")
+print(f"Videojuegos todavía pendientes: {len(Titulos) - len(procesados)}")
+
